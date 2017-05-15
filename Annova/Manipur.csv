@@ -1,0 +1,606 @@
+﻿Constituency,Ac No,Const. Type,Cand Age,Cand Category,Cand Name,Gender,Cand Sl No,% of Vote Share,"""Candidate Count""",Total Votes (Overall),State Filter,Margin Bands,LOD: Cand Votes Polled,Cand Votes as % of Total Const Votes,winner count,Age Band,Candidate_Position (copy),Candidate_Position (group),Candidate Position,Count of Candidates (SNo),LOD: Const Votes Polled,Partyabbre,Partytype,Party Name,St Code,State,Total Votes Polled,Total Votes Polled (R),Year,Margin
+Patsoi,19,GEN,51,GEN,Akoijam Mirabai Devi,Female,1,1.02%,Candidate Count,1396968,True,5001-10000,14257,53%,1,51-60,1,Won,1,1,27077,INC,National,Indian National Congress,S14,Manipur,14257,8710,2012,"5,547"
+Langthabal,20,GEN,57,GEN,Waikhom Shyama Devi,Female,1,0.08%,Candidate Count,1396968,True,Upto 100,1091,5%,0,51-60,5,Lost,5,1,21174,INC,National,Indian National Congress,S14,Manipur,1091,1091,2012,0
+Khangabok,35,GEN,49,GEN,Okram Landhoni Devi,Female,1,1.31%,Candidate Count,1396968,True,5001-10000,18339,68%,1,46-50,1,Won,1,1,26959,INC,National,Indian National Congress,S14,Manipur,18339,8468,2012,"9,871"
+Keishamthong,12,GEN,42,GEN,Yumnam Romola Devi,Female,2,0.01%,Candidate Count,1396968,True,Upto 100,178,1%,0,41-45,4,Lost,4,1,20950,CPM,National,Communist Party of India  (Marxist),S14,Manipur,178,178,2012,0
+Konthoujam,18,GEN,55,GEN,Maisnam Shakhi Leima,Female,2,0.06%,Candidate Count,1396968,True,Upto 100,823,3%,0,51-60,4,Lost,4,1,23560,CPI,National,Communist Party of India,S14,Manipur,823,823,2012,0
+Thoubal,31,GEN,39,GEN,Oinam Indira,Female,2,0.26%,Candidate Count,1396968,True,Upto 100,3668,16%,0,36-40,2,Lost,2,1,23046,BJP,National,Bharatiya Janata Party,S14,Manipur,3668,3668,2012,0
+Uripok,10,GEN,57,GEN,Naorem Ibema Devi,Female,4,0.10%,Candidate Count,1396968,True,Upto 100,1357,8%,0,51-60,6,Lost,6,1,17470,AITC,State,All India Trinamool Congress,S14,Manipur,1357,1357,2012,0
+Bishnupur,26,GEN,51,GEN,Thokchom Bindhasakhi Devi,Female,6,0.00%,Candidate Count,1396968,True,Upto 100,63,0%,0,51-60,7,Lost,7,1,24080,SHS,State,Shivsena,S14,Manipur,63,63,2012,0
+Heirok,33,GEN,44,GEN,Sumatibala Ningthoujam,Female,3,0.30%,Candidate Count,1396968,True,Upto 100,4136,16%,0,41-45,3,Lost,3,1,25435,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,4136,4136,2012,0
+Sagolband,11,GEN,51,GEN,L. Kshetrani Devi,Female,4,0.00%,Candidate Count,1396968,True,Upto 100,55,0%,0,51-60,5,Lost,5,1,18095,IVD,Unrecognised,Inqalab Vikas Dal,S14,Manipur,55,55,2012,0
+Khundrakpam,1,GEN,45,GEN,Thokchom Lokeshwar Singh,Male,1,0.66%,Candidate Count,1396968,True,5001-10000,9182,49%,1,41-45,1,Won,1,1,18598,INC,National,Indian National Congress,S14,Manipur,9182,3678,2012,"5,504"
+Heingang,2,GEN,51,GEN,N. Biren,Male,1,0.85%,Candidate Count,1396968,True,2001-5000,11872,51%,1,51-60,1,Won,1,1,23054,INC,National,Indian National Congress,S14,Manipur,11872,9790,2012,"2,082"
+Khurai,3,GEN,65,GEN,Dr. Ng. Bijoy Singh,Male,1,0.83%,Candidate Count,1396968,True,5001-10000,11618,45%,1,61-70,1,Won,1,1,25865,INC,National,Indian National Congress,S14,Manipur,11618,6529,2012,"5,089"
+Kshetrigao,4,GEN,33,GEN,Md. Amin Shah,Male,1,0.57%,Candidate Count,1396968,True,2001-5000,7981,31%,1,31-35,1,Won,1,1,25493,INC,National,Indian National Congress,S14,Manipur,7981,4987,2012,"2,994"
+Thongju,5,GEN,59,GEN,Kangujam Mangi Singh,Male,1,0.19%,Candidate Count,1396968,True,Upto 100,2641,11%,0,51-60,3,Lost,3,1,24630,NCP,National,Nationalist Congress Party,S14,Manipur,2641,2641,2012,0
+Keirao,6,GEN,53,GEN,Md. Alauddin Khan,Male,1,0.53%,Candidate Count,1396968,True,Upto 100,7415,32%,0,51-60,2,Lost,2,1,22899,INC,National,Indian National Congress,S14,Manipur,7415,7415,2012,0
+Andro,7,GEN,61,GEN,Alhaj Md. Ahamed Ali,Male,1,0.47%,Candidate Count,1396968,True,Upto 100,6557,26%,0,61-70,2,Lost,2,1,25006,INC,National,Indian National Congress,S14,Manipur,6557,6557,2012,0
+Lamlai,8,GEN,50,GEN,Kshetrimayum Biren Singh,Male,1,0.71%,Candidate Count,1396968,True,1001-2000,9923,43%,1,46-50,1,Won,1,1,23035,INC,National,Indian National Congress,S14,Manipur,9923,8139,2012,"1,784"
+Thangmeiband,9,GEN,48,GEN,Jyotin Waikhom,Male,1,0.48%,Candidate Count,1396968,True,Upto 100,6686,31%,0,46-50,2,Lost,2,1,21301,INC,National,Indian National Congress,S14,Manipur,6686,6686,2012,0
+Uripok,10,GEN,76,GEN,L. Nandakumar Singh,Male,1,0.35%,Candidate Count,1396968,True,1001-2000,4864,28%,1,>70,1,Won,1,1,17470,INC,National,Indian National Congress,S14,Manipur,4864,3779,2012,"1,085"
+Sagolband,11,GEN,50,GEN,Dr. Khwairakpam Loken Singh,Male,1,0.62%,Candidate Count,1396968,True,Upto 100,8731,48%,0,46-50,2,Lost,2,1,18095,INC,National,Indian National Congress,S14,Manipur,8731,8731,2012,0
+Keishamthong,12,GEN,53,GEN,Langpoklakpam Jayantakumar Singh,Male,1,0.60%,Candidate Count,1396968,True,Upto 100,8336,40%,0,51-60,2,Lost,2,1,20950,INC,National,Indian National Congress,S14,Manipur,8336,8336,2012,0
+Singjamei,13,GEN,47,GEN,Irengbam Hemochandra Singh,Male,1,0.57%,Candidate Count,1396968,True,101-1000,7975,50%,1,46-50,1,Won,1,1,16074,INC,National,Indian National Congress,S14,Manipur,7975,7818,2012,157
+Yaiskul,14,GEN,44,GEN,Elangbam Chand Singh,Male,1,0.48%,Candidate Count,1396968,True,101-1000,6650,34%,1,41-45,1,Won,1,1,19770,INC,National,Indian National Congress,S14,Manipur,6650,6325,2012,325
+Wangkhei,15,GEN,72,GEN,Yumkham Erabot Singh,Male,1,0.79%,Candidate Count,1396968,True,1001-2000,10981,45%,1,>70,1,Won,1,1,24555,INC,National,Indian National Congress,S14,Manipur,10981,9405,2012,"1,576"
+Lamsang,17,GEN,64,GEN,Wangkheimayum Brajabidhu Singh,Male,1,0.72%,Candidate Count,1396968,True,2001-5000,10053,40%,1,61-70,1,Won,1,1,24896,INC,National,Indian National Congress,S14,Manipur,10053,6909,2012,"3,144"
+Konthoujam,18,GEN,39,GEN,Dr. Sapam Ranjan Singh,Male,1,0.74%,Candidate Count,1396968,True,Upto 100,10293,44%,0,36-40,2,Lost,2,1,23560,INC,National,Indian National Congress,S14,Manipur,10293,10293,2012,0
+Naoriya pakhanglakpa,21,GEN,50,GEN,R.K. Anand,Male,1,0.63%,Candidate Count,1396968,True,2001-5000,8750,33%,1,46-50,1,Won,1,1,26617,INC,National,Indian National Congress,S14,Manipur,8750,6735,2012,"2,015"
+Wangoi,22,GEN,57,GEN,Sagolsem Achouba Singh,Male,1,0.38%,Candidate Count,1396968,True,Upto 100,5312,22%,0,51-60,3,Lost,3,1,23656,INC,National,Indian National Congress,S14,Manipur,5312,5312,2012,0
+Mayang imphal,23,GEN,47,GEN,Khumujam Ratankumar Singh,Male,1,0.74%,Candidate Count,1396968,True,101-1000,10353,44%,1,46-50,1,Won,1,1,23584,INC,National,Indian National Congress,S14,Manipur,10353,9562,2012,791
+Nambol,24,GEN,52,GEN,Shri Nameirakpam Loken Singh,Male,1,0.98%,Candidate Count,1396968,True,101-1000,13708,51%,1,51-60,1,Won,1,1,26716,INC,National,Indian National Congress,S14,Manipur,13708,12902,2012,806
+Oinam,25,GEN,41,GEN,Romio,Male,1,0.27%,Candidate Count,1396968,True,Upto 100,3765,16%,0,41-45,4,Lost,4,1,22915,NCP,National,Nationalist Congress Party,S14,Manipur,3765,3765,2012,0
+Bishnupur,26,GEN,48,GEN,Konthoujam Govindas,Male,1,0.95%,Candidate Count,1396968,True,5001-10000,13308,55%,1,46-50,1,Won,1,1,24080,INC,National,Indian National Congress,S14,Manipur,13308,6655,2012,"6,653"
+Moirang,27,GEN,61,GEN,Pukhrem Sharatchandra Singh,Male,1,0.96%,Candidate Count,1396968,True,Upto 100,13363,48%,0,61-70,2,Lost,2,1,27884,NCP,National,Nationalist Congress Party,S14,Manipur,13363,13363,2012,0
+Thanga,28,GEN,41,GEN,Shri Moirangthem Asnikumar Singh,Male,1,0.25%,Candidate Count,1396968,True,Upto 100,3492,19%,0,41-45,3,Lost,3,1,18253,CPI,National,Communist Party of India,S14,Manipur,3492,3492,2012,0
+Kumbi,29,GEN,66,GEN,Sanasam Bira Singh,Male,1,0.61%,Candidate Count,1396968,True,1001-2000,8572,40%,1,61-70,1,Won,1,1,21395,INC,National,Indian National Congress,S14,Manipur,8572,7557,2012,"1,015"
+Lilong,30,GEN,34,GEN,Md. Abdul Nasir,Male,1,0.76%,Candidate Count,1396968,True,2001-5000,10668,42%,1,31-35,1,Won,1,1,25233,INC,National,Indian National Congress,S14,Manipur,10668,6711,2012,"3,957"
+Thoubal,31,GEN,63,GEN,Okram Ibobi Singh,Male,1,1.37%,Candidate Count,1396968,True,10001-20000,19121,83%,1,61-70,1,Won,1,1,23046,INC,National,Indian National Congress,S14,Manipur,19121,3668,2012,"15,453"
+Wangkhem,32,GEN,40,GEN,Keisham Meghachandra Singh,Male,1,0.67%,Candidate Count,1396968,True,2001-5000,9418,39%,1,36-40,1,Won,1,1,23900,INC,National,Indian National Congress,S14,Manipur,9418,6462,2012,"2,956"
+Heirok,33,GEN,43,GEN,Moirangthem Okendro,Male,1,0.97%,Candidate Count,1396968,True,5001-10000,13535,53%,1,41-45,1,Won,1,1,25435,INC,National,Indian National Congress,S14,Manipur,13535,7764,2012,"5,771"
+Wangjing tentha,34,GEN,53,GEN,Moirangthem Hemanta Singh,Male,1,0.61%,Candidate Count,1396968,True,Upto 100,8454,32%,0,51-60,2,Lost,2,1,26829,INC,National,Indian National Congress,S14,Manipur,8454,8454,2012,0
+Wabgai,36,GEN,42,GEN,Md. Fajur Rahim,Male,1,0.72%,Candidate Count,1396968,True,2001-5000,10021,44%,1,41-45,1,Won,1,1,22904,INC,National,Indian National Congress,S14,Manipur,10021,6673,2012,"3,348"
+Hiyanglam,38,GEN,56,GEN,Elangbam Dwijamani Singh,Male,1,0.47%,Candidate Count,1396968,True,Upto 100,6557,31%,0,51-60,2,Lost,2,1,21099,INC,National,Indian National Congress,S14,Manipur,6557,6557,2012,0
+Sugnu,39,GEN,51,GEN,Kangujam Ranjit Singh,Male,1,0.83%,Candidate Count,1396968,True,5001-10000,11534,58%,1,51-60,1,Won,1,1,19883,INC,National,Indian National Congress,S14,Manipur,11534,3579,2012,"7,955"
+Jiribam,40,GEN,71,GEN,Thoudam Debendra Singh,Male,1,0.60%,Candidate Count,1396968,True,1001-2000,8424,44%,1,>70,1,Won,1,1,19255,INC,National,Indian National Congress,S14,Manipur,8424,7346,2012,"1,078"
+Khundrakpam,1,GEN,40,GEN,L. Premchandra,Male,2,0.15%,Candidate Count,1396968,True,Upto 100,2096,11%,0,36-40,3,Lost,3,1,18598,CPI,National,Communist Party of India,S14,Manipur,2096,2096,2012,0
+Heingang,2,GEN,32,GEN,Naoroibam Ratan (Kapu) Meetei,Male,2,0.70%,Candidate Count,1396968,True,Upto 100,9790,42%,0,31-35,2,Lost,2,1,23054,NCP,National,Nationalist Congress Party,S14,Manipur,9790,9790,2012,0
+Khurai,3,GEN,51,GEN,Amusana R.K.,Male,2,0.13%,Candidate Count,1396968,True,Upto 100,1801,7%,0,51-60,4,Lost,4,1,25865,CPI,National,Communist Party of India,S14,Manipur,1801,1801,2012,0
+Kshetrigao,4,GEN,68,GEN,Athokpam Lala,Male,2,0.32%,Candidate Count,1396968,True,Upto 100,4439,17%,0,61-70,3,Lost,3,1,25493,CPI,National,Communist Party of India,S14,Manipur,4439,4439,2012,0
+Thongju,5,GEN,51,GEN,Bijoy Koijam,Male,2,0.69%,Candidate Count,1396968,True,Upto 100,9696,39%,0,51-60,2,Lost,2,1,24630,INC,National,Indian National Congress,S14,Manipur,9696,9696,2012,0
+Keirao,6,GEN,43,GEN,Thongram Tony,Male,2,0.05%,Candidate Count,1396968,True,Upto 100,647,3%,0,41-45,5,Lost,5,1,22899,BJP,National,Bharatiya Janata Party,S14,Manipur,647,647,2012,0
+Andro,7,GEN,43,GEN,Mongjam Jiten Singh,Male,2,0.02%,Candidate Count,1396968,True,Upto 100,327,1%,0,41-45,4,Lost,4,1,25006,NCP,National,Nationalist Congress Party,S14,Manipur,327,327,2012,0
+Lamlai,8,GEN,68,GEN,Pheiroijam Parijat Singh,Male,2,0.58%,Candidate Count,1396968,True,Upto 100,8139,35%,0,61-70,2,Lost,2,1,23035,CPI,National,Communist Party of India,S14,Manipur,8139,8139,2012,0
+Thangmeiband,9,GEN,62,GEN,Meinam Bhorot Singh,Male,2,0.03%,Candidate Count,1396968,True,Upto 100,360,2%,0,61-70,5,Lost,5,1,21301,BJP,National,Bharatiya Janata Party,S14,Manipur,360,360,2012,0
+Uripok,10,GEN,58,GEN,Doctor Nando Ningthoukhongjam,Male,2,0.12%,Candidate Count,1396968,True,Upto 100,1623,9%,0,51-60,5,Lost,5,1,17470,BJP,National,Bharatiya Janata Party,S14,Manipur,1623,1623,2012,0
+Sagolband,11,GEN,53,GEN,Kshetrimayum Shantakumar Singh,Male,2,0.01%,Candidate Count,1396968,True,Upto 100,83,0%,0,51-60,3,Lost,3,1,18095,CPM,National,Communist Party of India  (Marxist),S14,Manipur,83,83,2012,0
+Wangkhei,15,GEN,58,GEN,Dr. Haobam Borobabu Singh,Male,2,0.04%,Candidate Count,1396968,True,Upto 100,575,2%,0,51-60,4,Lost,4,1,24555,BJP,National,Bharatiya Janata Party,S14,Manipur,575,575,2012,0
+Lamsang,17,GEN,61,GEN,Pakchao Phijam,Male,2,0.47%,Candidate Count,1396968,True,Upto 100,6500,26%,0,61-70,3,Lost,3,1,24896,CPI,National,Communist Party of India,S14,Manipur,6500,6500,2012,0
+Patsoi,19,GEN,64,GEN,Pheiroijam Irabot Singh,Male,2,0.11%,Candidate Count,1396968,True,Upto 100,1482,5%,0,61-70,4,Lost,4,1,27077,CPI,National,Communist Party of India,S14,Manipur,1482,1482,2012,0
+Langthabal,20,GEN,58,GEN,Nongthombam Singhajit,Male,2,0.29%,Candidate Count,1396968,True,Upto 100,4107,19%,0,51-60,3,Lost,3,1,21174,CPI,National,Communist Party of India,S14,Manipur,4107,4107,2012,0
+Naoriya pakhanglakpa,21,GEN,44,GEN,Oinam Malesh,Male,2,0.33%,Candidate Count,1396968,True,Upto 100,4571,17%,0,41-45,4,Lost,4,1,26617,CPI,National,Communist Party of India,S14,Manipur,4571,4571,2012,0
+Wangoi,22,GEN,39,GEN,Salam Joy Singh,Male,2,0.64%,Candidate Count,1396968,True,Upto 100,8972,38%,0,36-40,2,Lost,2,1,23656,NCP,National,Nationalist Congress Party,S14,Manipur,8972,8972,2012,0
+Mayang imphal,23,GEN,52,GEN,Bogimayum Moulana Abdus Salam,Male,2,0.09%,Candidate Count,1396968,True,Upto 100,1292,5%,0,51-60,4,Lost,4,1,23584,BJP,National,Bharatiya Janata Party,S14,Manipur,1292,1292,2012,0
+Oinam,25,GEN,65,GEN,Dr. Yumnam Jitendra Singh,Male,2,0.43%,Candidate Count,1396968,True,Upto 100,5958,26%,0,61-70,3,Lost,3,1,22915,INC,National,Indian National Congress,S14,Manipur,5958,5958,2012,0
+Bishnupur,26,GEN,46,GEN,Pukhrambam Kumarjeet,Male,2,0.03%,Candidate Count,1396968,True,Upto 100,467,2%,0,46-50,5,Lost,5,1,24080,BJP,National,Bharatiya Janata Party,S14,Manipur,467,467,2012,0
+Moirang,27,GEN,36,GEN,Mairembam Prithviraj Singh,Male,2,1.04%,Candidate Count,1396968,True,1001-2000,14521,52%,1,36-40,1,Won,1,1,27884,INC,National,Indian National Congress,S14,Manipur,14521,13363,2012,"1,158"
+Kumbi,29,GEN,61,GEN,Ningthoujam Mangi,Male,2,0.54%,Candidate Count,1396968,True,Upto 100,7557,35%,0,61-70,2,Lost,2,1,21395,CPI,National,Communist Party of India,S14,Manipur,7557,7557,2012,0
+Wangjing tentha,34,GEN,61,GEN,Moirangthem Nara,Male,2,0.43%,Candidate Count,1396968,True,Upto 100,5950,22%,0,61-70,3,Lost,3,1,26829,CPI,National,Communist Party of India,S14,Manipur,5950,5950,2012,0
+Wabgai,36,GEN,62,GEN,Khomdram Tamphajao,Male,2,0.01%,Candidate Count,1396968,True,Upto 100,125,1%,0,61-70,4,Lost,4,1,22904,BJP,National,Bharatiya Janata Party,S14,Manipur,125,125,2012,0
+Hiyanglam,38,GEN,60,GEN,Ashokumar Laiphrakpam,Male,2,0.03%,Candidate Count,1396968,True,Upto 100,363,2%,0,51-60,5,Lost,5,1,21099,BJP,National,Bharatiya Janata Party,S14,Manipur,363,363,2012,0
+Sugnu,39,GEN,52,GEN,Khaidem Sharat Singh,Male,2,0.11%,Candidate Count,1396968,True,Upto 100,1549,8%,0,51-60,4,Lost,4,1,19883,BJP,National,Bharatiya Janata Party,S14,Manipur,1549,1549,2012,0
+Khundrakpam,1,GEN,43,GEN,Namoijam Singhajit Singh,Male,3,0.10%,Candidate Count,1396968,True,Upto 100,1435,8%,0,41-45,5,Lost,5,1,18598,NCP,National,Nationalist Congress Party,S14,Manipur,1435,1435,2012,0
+Kshetrigao,4,GEN,37,GEN,Thingbaijam Ibosana Meitei,Male,3,0.01%,Candidate Count,1396968,True,Upto 100,143,1%,0,36-40,8,Lost,8,1,25493,BJP,National,Bharatiya Janata Party,S14,Manipur,143,143,2012,0
+Thongju,5,GEN,40,GEN,Mangkhom Jayantakumar,Male,3,0.13%,Candidate Count,1396968,True,Upto 100,1833,7%,0,36-40,4,Lost,4,1,24630,CPI,National,Communist Party of India,S14,Manipur,1833,1833,2012,0
+Thangmeiband,9,GEN,68,GEN,Radhabinod Koijam,Male,3,0.28%,Candidate Count,1396968,True,Upto 100,3872,18%,0,61-70,3,Lost,3,1,21301,NCP,National,Nationalist Congress Party,S14,Manipur,3872,3872,2012,0
+Uripok,10,GEN,72,GEN,Achou Singh Paonam,Male,3,0.03%,Candidate Count,1396968,True,Upto 100,401,2%,0,>70,7,Lost,7,1,17470,NCP,National,Nationalist Congress Party,S14,Manipur,401,401,2012,0
+Keishamthong,12,GEN,62,GEN,L. Ibomcha Singh,Male,3,0.70%,Candidate Count,1396968,True,1001-2000,9795,47%,1,61-70,1,Won,1,1,20950,NCP,National,Nationalist Congress Party,S14,Manipur,9795,8336,2012,"1,459"
+Wangkhei,15,GEN,39,GEN,Moirangthem Praphullo Singh,Male,3,0.26%,Candidate Count,1396968,True,Upto 100,3594,15%,0,36-40,3,Lost,3,1,24555,NCP,National,Nationalist Congress Party,S14,Manipur,3594,3594,2012,0
+Lamsang,17,GEN,41,GEN,Priyokumar Phijam,Male,3,0.02%,Candidate Count,1396968,True,Upto 100,280,1%,0,41-45,6,Lost,6,1,24896,BJP,National,Bharatiya Janata Party,S14,Manipur,280,280,2012,0
+Naoriya pakhanglakpa,21,GEN,67,GEN,Sanasam Mangi,Male,3,0.02%,Candidate Count,1396968,True,Upto 100,237,1%,0,61-70,5,Lost,5,1,26617,BJP,National,Bharatiya Janata Party,S14,Manipur,237,237,2012,0
+Thanga,28,GEN,63,GEN,Tongbram Mangibabu,Male,3,0.35%,Candidate Count,1396968,True,101-1000,4881,27%,1,61-70,1,Won,1,1,18253,INC,National,Indian National Congress,S14,Manipur,4881,4710,2012,171
+Kumbi,29,GEN,50,GEN,Khagembam Nabakumar,Male,3,0.06%,Candidate Count,1396968,True,Upto 100,862,4%,0,46-50,4,Lost,4,1,21395,BJP,National,Bharatiya Janata Party,S14,Manipur,862,862,2012,0
+Wabgai,36,GEN,74,GEN,Mayengbam Manihar Singh,Male,3,0.44%,Candidate Count,1396968,True,Upto 100,6085,27%,0,>70,3,Lost,3,1,22904,NCP,National,Nationalist Congress Party,S14,Manipur,6085,6085,2012,0
+Hiyanglam,38,GEN,58,GEN,Dr. Yumnam Radheshyam,Male,3,0.46%,Candidate Count,1396968,True,Upto 100,6489,31%,0,51-60,3,Lost,3,1,21099,CPI,National,Communist Party of India,S14,Manipur,6489,6489,2012,0
+Sugnu,39,GEN,29,GEN,Yumnam Jiban  (Shangba),Male,3,0.26%,Candidate Count,1396968,True,Upto 100,3579,18%,0,Upto 30,2,Lost,2,1,19883,CPI,National,Communist Party of India,S14,Manipur,3579,3579,2012,0
+Khundrakpam,1,GEN,52,GEN,I. Mangiton,Male,4,0.26%,Candidate Count,1396968,True,Upto 100,3678,20%,0,51-60,2,Lost,2,1,18598,BJP,National,Bharatiya Janata Party,S14,Manipur,3678,3678,2012,0
+Kshetrigao,4,GEN,54,GEN,Thangjam Nandakishor Singh,Male,4,0.36%,Candidate Count,1396968,True,Upto 100,4987,20%,0,51-60,2,Lost,2,1,25493,NCP,National,Nationalist Congress Party,S14,Manipur,4987,4987,2012,0
+Lamsang,17,GEN,53,GEN,Sorokhaibam Rajen Singh,Male,4,0.49%,Candidate Count,1396968,True,Upto 100,6909,28%,0,51-60,2,Lost,2,1,24896,NCP,National,Nationalist Congress Party,S14,Manipur,6909,6909,2012,0
+Naoriya pakhanglakpa,21,GEN,45,GEN,Soibam Subhachandra Singh,Male,4,0.45%,Candidate Count,1396968,True,Upto 100,6324,24%,0,41-45,3,Lost,3,1,26617,NCP,National,Nationalist Congress Party,S14,Manipur,6324,6324,2012,0
+Singjamei,13,GEN,55,GEN,Heigrujam Nabashyam Singh,Male,2,0.02%,Candidate Count,1396968,True,Upto 100,281,2%,0,51-60,3,Lost,3,1,16074,MPP,State,Manipur Peoples Party,S14,Manipur,281,281,2012,0
+Yaiskul,14,GEN,52,GEN,Hareshwar Goshwami,Male,2,0.33%,Candidate Count,1396968,True,Upto 100,4662,24%,0,51-60,3,Lost,3,1,19770,AITC,State,All India Trinamool Congress,S14,Manipur,4662,4662,2012,0
+Nambol,24,GEN,75,GEN,Shri Chaoba,Male,2,0.92%,Candidate Count,1396968,True,Upto 100,12902,48%,0,>70,2,Lost,2,1,26716,MPP,State,Manipur Peoples Party,S14,Manipur,12902,12902,2012,0
+Wangkhem,32,GEN,61,GEN,Dr. Nimaichand Luwang,Male,2,0.46%,Candidate Count,1396968,True,Upto 100,6462,27%,0,61-70,2,Lost,2,1,23900,MPP,State,Manipur Peoples Party,S14,Manipur,6462,6462,2012,0
+Heirok,33,GEN,47,GEN,Nongmeikapam Sovakiran Singh,Male,2,0.56%,Candidate Count,1396968,True,Upto 100,7764,31%,0,46-50,2,Lost,2,1,25435,MPP,State,Manipur Peoples Party,S14,Manipur,7764,7764,2012,0
+Khangabok,35,GEN,66,GEN,Laishram Jatra Singh,Male,2,0.61%,Candidate Count,1396968,True,Upto 100,8468,31%,0,61-70,2,Lost,2,1,26959,MPP,State,Manipur Peoples Party,S14,Manipur,8468,8468,2012,0
+Kangpokpi (Gen),50,GEN,44,GEN,Khadga Bahadur,Male,2,0.44%,Candidate Count,1396968,True,Upto 100,6196,36%,0,41-45,2,Lost,2,1,17024,AITC,State,All India Trinamool Congress,S14,Manipur,6196,6196,2012,0
+Heingang,2,GEN,61,GEN,Y. Mangi,Male,3,0.04%,Candidate Count,1396968,True,Upto 100,604,3%,0,61-70,3,Lost,3,1,23054,MPP,State,Manipur Peoples Party,S14,Manipur,604,604,2012,0
+Khurai,3,GEN,28,GEN,Leishangthem Shusindro Meitei @Yaima,Male,3,0.47%,Candidate Count,1396968,True,Upto 100,6529,25%,0,Upto 30,2,Lost,2,1,25865,AITC,State,All India Trinamool Congress,S14,Manipur,6529,6529,2012,0
+Lamlai,8,GEN,57,GEN,Kh. Ibomcha,Male,3,0.36%,Candidate Count,1396968,True,Upto 100,4973,22%,0,51-60,3,Lost,3,1,23035,AITC,State,All India Trinamool Congress,S14,Manipur,4973,4973,2012,0
+Singjamei,13,GEN,51,GEN,Yumnam Khemchand Singh,Male,3,0.56%,Candidate Count,1396968,True,Upto 100,7818,49%,0,51-60,2,Lost,2,1,16074,AITC,State,All India Trinamool Congress,S14,Manipur,7818,7818,2012,0
+Konthoujam,18,GEN,33,GEN,Nongmaithem Herojit,Male,3,0.12%,Candidate Count,1396968,True,Upto 100,1637,7%,0,31-35,3,Lost,3,1,23560,MPP,State,Manipur Peoples Party,S14,Manipur,1637,1637,2012,0
+Patsoi,19,GEN,74,GEN,Leishangthem Chandramani Singh,Male,3,0.18%,Candidate Count,1396968,True,Upto 100,2515,9%,0,>70,3,Lost,3,1,27077,MPP,State,Manipur Peoples Party,S14,Manipur,2515,2515,2012,0
+Langthabal,20,GEN,71,GEN,Okram Joy Singh,Male,3,0.47%,Candidate Count,1396968,True,Upto 100,6540,31%,0,>70,2,Lost,2,1,21174,MPP,State,Manipur Peoples Party,S14,Manipur,6540,6540,2012,0
+Wangoi,22,GEN,36,GEN,Oinam Lukhoi Singh,Male,3,0.66%,Candidate Count,1396968,True,101-1000,9154,39%,1,36-40,1,Won,1,1,23656,AITC,State,All India Trinamool Congress,S14,Manipur,9154,8972,2012,182
+Mayang imphal,23,GEN,55,GEN,Kongkham Manglem Singh,Male,3,0.68%,Candidate Count,1396968,True,Upto 100,9562,41%,0,51-60,2,Lost,2,1,23584,AITC,State,All India Trinamool Congress,S14,Manipur,9562,9562,2012,0
+Oinam,25,GEN,57,GEN,Irengbam Ibohalbi Singh,Male,3,0.51%,Candidate Count,1396968,True,101-1000,7074,31%,1,51-60,1,Won,1,1,22915,AITC,State,All India Trinamool Congress,S14,Manipur,7074,6118,2012,956
+Bishnupur,26,GEN,65,GEN,Ningthoujam Sanajaoba,Male,3,0.09%,Candidate Count,1396968,True,Upto 100,1291,5%,0,61-70,4,Lost,4,1,24080,MPP,State,Manipur Peoples Party,S14,Manipur,1291,1291,2012,0
+Lilong,30,GEN,63,GEN,Md. Alauddin,Male,3,0.45%,Candidate Count,1396968,True,Upto 100,6332,25%,0,61-70,3,Lost,3,1,25233,AITC,State,All India Trinamool Congress,S14,Manipur,6332,6332,2012,0
+Thoubal,31,GEN,61,GEN,Dr. Ak Manglemjao Singh,Male,3,0.02%,Candidate Count,1396968,True,Upto 100,257,1%,0,61-70,3,Lost,3,1,23046,AITC,State,All India Trinamool Congress,S14,Manipur,257,257,2012,0
+Wangkhem,32,GEN,57,GEN,Md. Abdul Kadir,Male,3,0.45%,Candidate Count,1396968,True,Upto 100,6321,26%,0,51-60,3,Lost,3,1,23900,AITC,State,All India Trinamool Congress,S14,Manipur,6321,6321,2012,0
+Wangjing tentha,34,GEN,57,GEN,Sagolsem Ibochoubi Singh,Male,3,0.02%,Candidate Count,1396968,True,Upto 100,218,1%,0,51-60,4,Lost,4,1,26829,AITC,State,All India Trinamool Congress,S14,Manipur,218,218,2012,0
+Khangabok,35,GEN,66,GEN,Haji Ashrab,Male,3,0.01%,Candidate Count,1396968,True,Upto 100,152,1%,0,61-70,3,Lost,3,1,26959,LJP,State,Lok Jan Shakti Party,S14,Manipur,152,152,2012,0
+Heingang,2,GEN,44,GEN,L. Brojendro,Male,4,0.03%,Candidate Count,1396968,True,Upto 100,415,2%,0,41-45,4,Lost,4,1,23054,AITC,State,All India Trinamool Congress,S14,Manipur,415,415,2012,0
+Keirao,6,GEN,44,GEN,Ngangbam Robindro Singh,Male,4,0.01%,Candidate Count,1396968,True,Upto 100,98,0%,0,41-45,7,Lost,7,1,22899,JD(S),State,Janata Dal  (Secular),S14,Manipur,98,98,2012,0
+Andro,7,GEN,41,GEN,Zanamuddin,Male,4,0.00%,Candidate Count,1396968,True,Upto 100,43,0%,0,41-45,6,Lost,6,1,25006,SHS,State,Shivsena,S14,Manipur,43,43,2012,0
+Konthoujam,18,GEN,48,GEN,Konthoujam Sharat Singh,Male,4,0.77%,Candidate Count,1396968,True,101-1000,10807,46%,1,46-50,1,Won,1,1,23560,AITC,State,All India Trinamool Congress,S14,Manipur,10807,10293,2012,514
+Patsoi,19,GEN,56,GEN,Sapam Samungou Singh,Male,4,0.01%,Candidate Count,1396968,True,Upto 100,113,0%,0,51-60,5,Lost,5,1,27077,SHS,State,Shivsena,S14,Manipur,113,113,2012,0
+Langthabal,20,GEN,49,GEN,Arambam Birendra Singh,Male,4,0.04%,Candidate Count,1396968,True,Upto 100,607,3%,0,46-50,6,Lost,6,1,21174,AITC,State,All India Trinamool Congress,S14,Manipur,607,607,2012,0
+Bishnupur,26,GEN,56,GEN,Khundrakpam Jibon,Male,4,0.16%,Candidate Count,1396968,True,Upto 100,2189,9%,0,51-60,3,Lost,3,1,24080,AITC,State,All India Trinamool Congress,S14,Manipur,2189,2189,2012,0
+Kumbi,29,GEN,58,GEN,Aheibam Angousana,Male,4,0.01%,Candidate Count,1396968,True,Upto 100,108,1%,0,51-60,5,Lost,5,1,21395,MPP,State,Manipur Peoples Party,S14,Manipur,108,108,2012,0
+Wabgai,36,GEN,46,GEN,Dr. Usham Deben Singh,Male,4,0.48%,Candidate Count,1396968,True,Upto 100,6673,29%,0,46-50,2,Lost,2,1,22904,AITC,State,All India Trinamool Congress,S14,Manipur,6673,6673,2012,0
+Hiyanglam,38,GEN,54,GEN,Mayengbam Amutombi Singh,Male,4,0.08%,Candidate Count,1396968,True,Upto 100,1116,5%,0,51-60,4,Lost,4,1,21099,MPP,State,Manipur Peoples Party,S14,Manipur,1116,1116,2012,0
+Sugnu,39,GEN,40,GEN,Mayanglambam Binod (Chaoba),Male,4,0.23%,Candidate Count,1396968,True,Upto 100,3221,16%,0,36-40,3,Lost,3,1,19883,MPP,State,Manipur Peoples Party,S14,Manipur,3221,3221,2012,0
+Jiribam,40,GEN,59,GEN,A. Biren,Male,4,0.53%,Candidate Count,1396968,True,Upto 100,7346,38%,0,51-60,2,Lost,2,1,19255,AITC,State,All India Trinamool Congress,S14,Manipur,7346,7346,2012,0
+Kangpokpi (Gen),50,GEN,66,GEN,Padam Kharel,Male,4,0.04%,Candidate Count,1396968,True,Upto 100,547,3%,0,61-70,4,Lost,4,1,17024,JD(U),State,Janata Dal  (United),S14,Manipur,547,547,2012,0
+Khundrakpam,1,GEN,69,GEN,Konsam Tomba,Male,5,0.11%,Candidate Count,1396968,True,Upto 100,1577,8%,0,61-70,4,Lost,4,1,18598,AITC,State,All India Trinamool Congress,S14,Manipur,1577,1577,2012,0
+Kshetrigao,4,GEN,39,GEN,Pangambam Premananda,Male,5,0.20%,Candidate Count,1396968,True,Upto 100,2814,11%,0,36-40,5,Lost,5,1,25493,AITC,State,All India Trinamool Congress,S14,Manipur,2814,2814,2012,0
+Thongju,5,GEN,36,GEN,Thongam Biswajit Singh,Male,5,0.74%,Candidate Count,1396968,True,101-1000,10299,42%,1,36-40,1,Won,1,1,24630,AITC,State,All India Trinamool Congress,S14,Manipur,10299,9696,2012,603
+Keirao,6,GEN,31,GEN,Takhellambam Nepolean Singh,Male,5,0.00%,Candidate Count,1396968,True,Upto 100,52,0%,0,31-35,8,Lost,8,1,22899,JD(U),State,Janata Dal  (United),S14,Manipur,52,52,2012,0
+Thangmeiband,9,GEN,46,GEN,Khumukcham Joykisan Singh,Male,5,0.55%,Candidate Count,1396968,True,101-1000,7670,36%,1,46-50,1,Won,1,1,21301,AITC,State,All India Trinamool Congress,S14,Manipur,7670,6686,2012,984
+Keishamthong,12,GEN,34,GEN,Khundongbam Ojit,Male,5,0.00%,Candidate Count,1396968,True,Upto 100,30,0%,0,31-35,6,Lost,6,1,20950,SHS,State,Shivsena,S14,Manipur,30,30,2012,0
+Lamsang,17,GEN,51,GEN,Khoirom Raghumani Singh,Male,5,0.03%,Candidate Count,1396968,True,Upto 100,418,2%,0,51-60,5,Lost,5,1,24896,AITC,State,All India Trinamool Congress,S14,Manipur,418,418,2012,0
+Patsoi,19,GEN,54,GEN,Sapam Kunjakeswor Singh,Male,5,0.62%,Candidate Count,1396968,True,Upto 100,8710,32%,0,51-60,2,Lost,2,1,27077,AITC,State,All India Trinamool Congress,S14,Manipur,8710,8710,2012,0
+Naoriya pakhanglakpa,21,GEN,45,GEN,Keisham Rojenkumar Singh,Male,5,0.48%,Candidate Count,1396968,True,Upto 100,6735,25%,0,41-45,2,Lost,2,1,26617,AITC,State,All India Trinamool Congress,S14,Manipur,6735,6735,2012,0
+Thanga,28,GEN,41,GEN,Tongbram Robindro Singh,Male,5,0.34%,Candidate Count,1396968,True,Upto 100,4710,26%,0,41-45,2,Lost,2,1,18253,AITC,State,All India Trinamool Congress,S14,Manipur,4710,4710,2012,0
+Kumbi,29,GEN,60,GEN,Dr. Khangembam Menjor Singh,Male,5,0.31%,Candidate Count,1396968,True,Upto 100,4296,20%,0,51-60,3,Lost,3,1,21395,AITC,State,All India Trinamool Congress,S14,Manipur,4296,4296,2012,0
+Lilong,30,GEN,64,GEN,Md. Dilawar Ali,Male,5,0.00%,Candidate Count,1396968,True,Upto 100,54,0%,0,61-70,7,Lost,7,1,25233,SHS,State,Shivsena,S14,Manipur,54,54,2012,0
+Hiyanglam,38,GEN,58,GEN,Maibam Kunjo,Male,5,0.47%,Candidate Count,1396968,True,Upto 100,6574,31%,1,51-60,1,Won,1,1,21099,AITC,State,All India Trinamool Congress,S14,Manipur,6574,6557,2012,17
+Keirao,6,GEN,37,GEN,Thongam Gopen,Male,6,0.15%,Candidate Count,1396968,True,Upto 100,2111,9%,0,36-40,4,Lost,4,1,22899,AITC,State,All India Trinamool Congress,S14,Manipur,2111,2111,2012,0
+Andro,7,GEN,41,GEN,Thounaojam Shyamkumar,Male,6,1.22%,Candidate Count,1396968,True,10001-20000,16989,68%,1,41-45,1,Won,1,1,25006,AITC,State,All India Trinamool Congress,S14,Manipur,16989,6557,2012,"10,432"
+Uripok,10,GEN,34,GEN,Santosh Nameirakpam,Male,6,0.12%,Candidate Count,1396968,True,Upto 100,1734,10%,0,31-35,4,Lost,4,1,17470,JD(U),State,Janata Dal  (United),S14,Manipur,1734,1734,2012,0
+Keishamthong,12,GEN,45,GEN,Rajkumar Shivchandra,Male,6,0.18%,Candidate Count,1396968,True,Upto 100,2530,12%,0,41-45,3,Lost,3,1,20950,AITC,State,All India Trinamool Congress,S14,Manipur,2530,2530,2012,0
+Langthabal,20,GEN,49,GEN,Karam Shyam,Male,6,0.54%,Candidate Count,1396968,True,1001-2000,7575,36%,1,46-50,1,Won,1,1,21174,LJP,State,Lok Jan Shakti Party,S14,Manipur,7575,6540,2012,"1,035"
+Kshetrigao,4,GEN,59,GEN,A. R. Khan,Male,7,0.23%,Candidate Count,1396968,True,Upto 100,3278,13%,0,51-60,4,Lost,4,1,25493,NPP,State,National People's Party,S14,Manipur,3278,3278,2012,0
+Lilong,30,GEN,62,GEN,Md. Azizur Rahman Shah,Male,2,0.04%,Candidate Count,1396968,True,Upto 100,582,2%,0,61-70,5,Lost,5,1,25233,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,582,582,2012,0
+Keirao,6,GEN,38,GEN,Karam Thamarjit Singh,Male,3,0.63%,Candidate Count,1396968,True,1001-2000,8865,39%,1,36-40,1,Won,1,1,22899,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,8865,7415,2012,"1,450"
+Sagolband,11,GEN,35,GEN,Rajkumar Imo Singh,Male,3,0.65%,Candidate Count,1396968,True,101-1000,9150,51%,1,31-35,1,Won,1,1,18095,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,9150,8731,2012,419
+Jiribam,40,GEN,42,GEN,Mhod. Jalaluddin,Male,3,0.07%,Candidate Count,1396968,True,Upto 100,996,5%,0,41-45,4,Lost,4,1,19255,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,996,996,2012,0
+Khurai,3,GEN,63,GEN,Ningthoujam Bihari  Singh,Male,4,0.42%,Candidate Count,1396968,True,Upto 100,5917,23%,0,61-70,3,Lost,3,1,25865,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,5917,5917,2012,0
+Thongju,5,GEN,37,GEN,Tenshubam Bheigyachandra Shamuphaba,Male,4,0.01%,Candidate Count,1396968,True,Upto 100,161,1%,0,36-40,5,Lost,5,1,24630,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,161,161,2012,0
+Thangmeiband,9,GEN,35,GEN,Indrajit,Male,4,0.19%,Candidate Count,1396968,True,Upto 100,2713,13%,0,31-35,4,Lost,4,1,21301,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,2713,2713,2012,0
+Keishamthong,12,GEN,50,GEN,Changamayum Ganeshlal Singh,Male,4,0.01%,Candidate Count,1396968,True,Upto 100,81,0%,0,46-50,5,Lost,5,1,20950,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,81,81,2012,0
+Wangkhei,15,GEN,27,GEN,Henry Okram,Male,4,0.67%,Candidate Count,1396968,True,Upto 100,9405,38%,0,Upto 30,2,Lost,2,1,24555,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,9405,9405,2012,0
+Wangoi,22,GEN,68,GEN,Yumnam Mani Singh,Male,4,0.02%,Candidate Count,1396968,True,Upto 100,218,1%,0,61-70,4,Lost,4,1,23656,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,218,218,2012,0
+Mayang imphal,23,GEN,41,GEN,Meinam Khagemba,Male,4,0.17%,Candidate Count,1396968,True,Upto 100,2377,10%,0,41-45,3,Lost,3,1,23584,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,2377,2377,2012,0
+Oinam,25,GEN,55,GEN,L. Radhakishore Singh,Male,4,0.44%,Candidate Count,1396968,True,Upto 100,6118,27%,0,51-60,2,Lost,2,1,22915,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,6118,6118,2012,0
+Lilong,30,GEN,34,GEN,Mohd. Khalid,Male,4,0.04%,Candidate Count,1396968,True,Upto 100,604,2%,0,31-35,4,Lost,4,1,25233,SDPI,Unrecognised,SOCIAL DEMOCRATIC PARTY OF INDIA,S14,Manipur,604,604,2012,0
+Wangkhem,32,GEN,57,GEN,Laishram Kadamjit Singh,Male,4,0.12%,Candidate Count,1396968,True,Upto 100,1699,7%,0,51-60,4,Lost,4,1,23900,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,1699,1699,2012,0
+Wangjing tentha,34,GEN,46,GEN,Paonam Brojen,Male,4,0.87%,Candidate Count,1396968,True,2001-5000,12207,45%,1,46-50,1,Won,1,1,26829,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,12207,8454,2012,"3,753"
+Heingang,2,GEN,61,GEN,Dr. G. Tonsana Sharma,Male,5,0.03%,Candidate Count,1396968,True,Upto 100,373,2%,0,61-70,5,Lost,5,1,23054,MDPF,Unrecognised,Manipur Democratic Peoples's Front,S14,Manipur,373,373,2012,0
+Andro,7,GEN,45,GEN,Md Jalaluddin Shah,Male,5,0.01%,Candidate Count,1396968,True,Upto 100,187,1%,0,41-45,5,Lost,5,1,25006,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,187,187,2012,0
+Uripok,10,GEN,62,GEN,N. Shyamananda Singh,Male,5,0.27%,Candidate Count,1396968,True,Upto 100,3712,21%,0,61-70,3,Lost,3,1,17470,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,3712,3712,2012,0
+Langthabal,20,GEN,49,GEN,Thongam Bishwanath Singh,Male,5,0.09%,Candidate Count,1396968,True,Upto 100,1254,6%,0,46-50,4,Lost,4,1,21174,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,1254,1254,2012,0
+Bishnupur,26,GEN,61,GEN,Thiyam Yaima,Male,5,0.48%,Candidate Count,1396968,True,Upto 100,6655,28%,0,61-70,2,Lost,2,1,24080,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,6655,6655,2012,0
+Khundrakpam,1,GEN,71,GEN,L. Lala Singh,Male,6,0.02%,Candidate Count,1396968,True,Upto 100,211,1%,0,>70,7,Lost,7,1,18598,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,211,211,2012,0
+Kshetrigao,4,GEN,37,GEN,Vivek Raj Wangkhem,Male,6,0.04%,Candidate Count,1396968,True,Upto 100,577,2%,0,36-40,7,Lost,7,1,25493,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,577,577,2012,0
+Lamsang,17,GEN,43,GEN,Khundrakpam Kanba Meitei,Male,6,0.05%,Candidate Count,1396968,True,Upto 100,736,3%,0,41-45,4,Lost,4,1,24896,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,736,736,2012,0
+Thanga,28,GEN,58,GEN,Heisnam Kulachandra Singh,Male,6,0.13%,Candidate Count,1396968,True,Upto 100,1796,10%,0,51-60,5,Lost,5,1,18253,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,1796,1796,2012,0
+Yaiskul,14,GEN,34,GEN,Thokchom Satyabrata Singh,Male,3,0.15%,Candidate Count,1396968,True,Upto 100,2133,11%,0,31-35,4,Lost,4,1,19770,IND,Independent,Independent,S14,Manipur,2133,2133,2012,0
+Nambol,24,GEN,37,GEN,Shri Khaidem Premchand Singh,Male,3,0.00%,Candidate Count,1396968,True,Upto 100,62,0%,0,36-40,3,Lost,3,1,26716,IND,Independent,Independent,S14,Manipur,62,62,2012,0
+Yaiskul,14,GEN,44,GEN,Hanjabam Jayadeva Sharma,Male,4,0.45%,Candidate Count,1396968,True,Upto 100,6325,32%,0,41-45,2,Lost,2,1,19770,IND,Independent,Independent,S14,Manipur,6325,6325,2012,0
+Nambol,24,GEN,44,GEN,Shri Borajao,Male,4,0.00%,Candidate Count,1396968,True,Upto 100,44,0%,0,41-45,4,Lost,4,1,26716,IND,Independent,Independent,S14,Manipur,44,44,2012,0
+Sagolband,11,GEN,48,GEN,Laishram Gyaneshwar,Male,5,0.01%,Candidate Count,1396968,True,Upto 100,76,0%,0,46-50,4,Lost,4,1,18095,IND,Independent,Independent,S14,Manipur,76,76,2012,0
+Jiribam,40,GEN,46,GEN,E. Dipti,Male,5,0.13%,Candidate Count,1396968,True,Upto 100,1862,10%,0,46-50,3,Lost,3,1,19255,IND,Independent,Independent,S14,Manipur,1862,1862,2012,0
+Kangpokpi (Gen),50,GEN,33,GEN,Bhumi Prasad Basnet,Male,5,0.02%,Candidate Count,1396968,True,Upto 100,222,1%,0,31-35,5,Lost,5,1,17024,IND,Independent,Independent,S14,Manipur,222,222,2012,0
+Lilong,30,GEN,61,GEN,Md. Azizul Haque Khan,Male,6,0.48%,Candidate Count,1396968,True,Upto 100,6711,27%,0,61-70,2,Lost,2,1,25233,IND,Independent,Independent,S14,Manipur,6711,6711,2012,0
+Keirao,6,GEN,48,GEN,Md. Islamuddin,Male,7,0.24%,Candidate Count,1396968,True,Upto 100,3391,15%,0,46-50,3,Lost,3,1,22899,IND,Independent,Independent,S14,Manipur,3391,3391,2012,0
+Uripok,10,GEN,54,GEN,N. Dwijamani Singh,Male,7,0.27%,Candidate Count,1396968,True,Upto 100,3779,22%,0,51-60,2,Lost,2,1,17470,IND,Independent,Independent,S14,Manipur,3779,3779,2012,0
+Bishnupur,26,GEN,68,GEN,Maisnam Ibopishak,Male,7,0.01%,Candidate Count,1396968,True,Upto 100,107,0%,0,61-70,6,Lost,6,1,24080,IND,Independent,Independent,S14,Manipur,107,107,2012,0
+Lilong,30,GEN,39,GEN,Burhanuddin,Male,7,0.02%,Candidate Count,1396968,True,Upto 100,282,1%,0,36-40,6,Lost,6,1,25233,IND,Independent,Independent,S14,Manipur,282,282,2012,0
+Kshetrigao,4,GEN,25,GEN,Sheikh Noorul Hassan,Male,8,0.09%,Candidate Count,1396968,True,Upto 100,1274,5%,0,Upto 30,6,Lost,6,1,25493,IND,Independent,Independent,S14,Manipur,1274,1274,2012,0
+Keirao,6,GEN,40,GEN,Ningthoujam Itomba,Male,8,0.02%,Candidate Count,1396968,True,Upto 100,320,1%,0,36-40,6,Lost,6,1,22899,IND,Independent,Independent,S14,Manipur,320,320,2012,0
+Kakching,37,GEN,60,SC,Yengkhom Surchandra Singh,Male,1,0.90%,Candidate Count,1396968,True,2001-5000,12543,62%,1,51-60,1,Won,1,1,20177,INC,National,Indian National Congress,S14,Manipur,12543,7634,2012,"4,909"
+Thanga,28,GEN,66,SC,Salam Ibohal Singh,Male,2,0.02%,Candidate Count,1396968,True,Upto 100,308,2%,0,61-70,6,Lost,6,1,18253,BJP,National,Bharatiya Janata Party,S14,Manipur,308,308,2012,0
+Kakching,37,GEN,62,SC,Naorem Achouba,Male,2,0.55%,Candidate Count,1396968,True,Upto 100,7634,38%,0,61-70,2,Lost,2,1,20177,CPI,National,Communist Party of India,S14,Manipur,7634,7634,2012,0
+Andro,7,GEN,60,SC,Yumkhaibam Dr. Mani Singh,Male,3,0.06%,Candidate Count,1396968,True,Upto 100,903,4%,0,51-60,3,Lost,3,1,25006,CPI,National,Communist Party of India,S14,Manipur,903,903,2012,0
+Thanga,28,GEN,57,SC,Haobijam Manisana Singh,Male,4,0.22%,Candidate Count,1396968,True,Upto 100,3066,17%,0,51-60,4,Lost,4,1,18253,MPP,State,Manipur Peoples Party,S14,Manipur,3066,3066,2012,0
+Kangpokpi (Gen),50,GEN,42,ST,Mrs. Nemcha Kipgen,Female,3,0.48%,Candidate Count,1396968,True,101-1000,6639,39%,1,41-45,1,Won,1,1,17024,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,6639,6196,2012,443
+Kangpokpi (Gen),50,GEN,63,ST,Haokholal Hangshing,Male,1,0.24%,Candidate Count,1396968,True,Upto 100,3420,20%,0,61-70,3,Lost,3,1,17024,INC,National,Indian National Congress,S14,Manipur,3420,3420,2012,0
+Jiribam,40,GEN,47,ST,Leetkhongam,Male,2,0.04%,Candidate Count,1396968,True,Upto 100,627,3%,0,46-50,5,Lost,5,1,19255,CPI,National,Communist Party of India,S14,Manipur,627,627,2012,0
+Khundrakpam,1,GEN,30,ST,R. Michael Koireng,Male,7,0.03%,Candidate Count,1396968,True,Upto 100,419,2%,0,Upto 30,6,Lost,6,1,18598,NPP,State,National People's Party,S14,Manipur,419,419,2012,0
+Sekmai,16,SC,49,SC,Khwairakpam Devendro Singh,Male,1,0.42%,Candidate Count,1396968,True,101-1000,5897,28%,1,46-50,1,Won,1,1,20733,INC,National,Indian National Congress,S14,Manipur,5897,5242,2012,655
+Sekmai,16,SC,43,SC,Ayangbam Oken Singh,Male,2,0.36%,Candidate Count,1396968,True,Upto 100,4983,24%,0,41-45,3,Lost,3,1,20733,CPI,National,Communist Party of India,S14,Manipur,4983,4983,2012,0
+Sekmai,16,SC,51,SC,Ningthoujam Biren,Male,3,0.33%,Candidate Count,1396968,True,Upto 100,4611,22%,0,51-60,4,Lost,4,1,20733,NCP,National,Nationalist Congress Party,S14,Manipur,4611,4611,2012,0
+Sekmai,16,SC,33,SC,Heikham Dingo Singh,Male,4,0.38%,Candidate Count,1396968,True,Upto 100,5242,25%,0,31-35,2,Lost,2,1,20733,AITC,State,All India Trinamool Congress,S14,Manipur,5242,5242,2012,0
+Phungyar (st),43,ST,30,ST,Teresa Rimai,Female,4,0.00%,Candidate Count,1396968,True,Upto 100,55,0%,0,Upto 30,4,Lost,4,1,16377,SHS,State,Shivsena,S14,Manipur,55,55,2012,0
+Phungyar (st),43,ST,41,ST,Bountia Keishing,Female,2,0.07%,Candidate Count,1396968,True,Upto 100,967,6%,0,41-45,3,Lost,3,1,16377,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,967,967,2012,0
+Singhat (st),60,ST,43,ST,Ngaineikim,Female,4,0.00%,Candidate Count,1396968,True,Upto 100,49,0%,0,41-45,4,Lost,4,1,15383,IND,Independent,Independent,S14,Manipur,49,49,2012,0
+Chandel (st),41,ST,34,ST,Ss Olish,Female,8,0.39%,Candidate Count,1396968,True,Upto 100,5512,15%,0,31-35,3,Lost,3,1,35650,IND,Independent,Independent,S14,Manipur,5512,5512,2012,0
+Chandel (st),41,ST,59,ST,D. N. Haokip,Male,1,0.02%,Candidate Count,1396968,True,Upto 100,284,1%,0,51-60,6,Lost,6,1,35650,CPI,National,Communist Party of India,S14,Manipur,284,284,2012,0
+Tengnoupal (st),42,ST,51,ST,D. Korungthang,Male,1,0.96%,Candidate Count,1396968,True,5001-10000,13434,44%,1,51-60,1,Won,1,1,30422,INC,National,Indian National Congress,S14,Manipur,13434,6807,2012,"6,627"
+Phungyar (st),43,ST,50,ST,Victor Keishing,Male,1,0.61%,Candidate Count,1396968,True,1001-2000,8525,52%,1,46-50,1,Won,1,1,16377,INC,National,Indian National Congress,S14,Manipur,8525,6830,2012,"1,695"
+Ukhrul (st),44,ST,38,ST,Alfred Kan-Ngam Arthur,Male,1,0.34%,Candidate Count,1396968,True,Upto 100,4761,21%,0,36-40,2,Lost,2,1,22214,INC,National,Indian National Congress,S14,Manipur,4761,4761,2012,0
+Chingai (st),45,ST,46,ST,M.K. Preshow,Male,1,0.71%,Candidate Count,1396968,True,101-1000,9865,37%,1,46-50,1,Won,1,1,26687,INC,National,Indian National Congress,S14,Manipur,9865,9050,2012,815
+Saikul (st),46,ST,66,ST,Yamthong Haokip,Male,1,0.62%,Candidate Count,1396968,True,1001-2000,8700,41%,1,61-70,1,Won,1,1,20980,INC,National,Indian National Congress,S14,Manipur,8700,7211,2012,"1,489"
+Karong (st),47,ST,49,ST,D. D. Thaisii,Male,1,1.13%,Candidate Count,1396968,True,Upto 100,15755,42%,0,46-50,2,Lost,2,1,37646,INC,National,Indian National Congress,S14,Manipur,15755,15755,2012,0
+Mao (st),48,ST,52,ST,P. T. Arhai,Male,1,0.91%,Candidate Count,1396968,True,Upto 100,12704,28%,0,51-60,2,Lost,2,1,44846,INC,National,Indian National Congress,S14,Manipur,12704,12704,2012,0
+Tadubi (st),49,ST,59,ST,Francis Ngajokpa,Male,1,1.29%,Candidate Count,1396968,True,5001-10000,18006,55%,1,51-60,1,Won,1,1,32486,INC,National,Indian National Congress,S14,Manipur,18006,11951,2012,"6,055"
+Saitu (st),51,ST,64,ST,Ngamthang Haokip,Male,1,1.12%,Candidate Count,1396968,True,5001-10000,15695,56%,1,61-70,1,Won,1,1,28033,INC,National,Indian National Congress,S14,Manipur,15695,9509,2012,"6,186"
+Tamei (st),52,ST,45,ST,Z.Kikhonbou Newmai,Male,1,0.79%,Candidate Count,1396968,True,1001-2000,10977,48%,1,41-45,1,Won,1,1,22970,INC,National,Indian National Congress,S14,Manipur,10977,9579,2012,"1,398"
+Tamenglong (st),53,ST,51,ST,Khangthuanang Panmei,Male,1,0.50%,Candidate Count,1396968,True,Upto 100,7009,38%,0,51-60,2,Lost,2,1,18602,INC,National,Indian National Congress,S14,Manipur,7009,7009,2012,0
+Nungba (st),54,ST,65,ST,Gaikhangam,Male,1,0.65%,Candidate Count,1396968,True,2001-5000,9040,54%,1,61-70,1,Won,1,1,16842,INC,National,Indian National Congress,S14,Manipur,9040,6710,2012,"2,330"
+Tipaimukh (st),55,ST,56,ST,Dr.Chaltonlien Amo,Male,1,0.33%,Candidate Count,1396968,True,101-1000,4551,41%,1,51-60,1,Won,1,1,11183,INC,National,Indian National Congress,S14,Manipur,4551,3639,2012,912
+Thanlon (st),56,ST,41,ST,K.Chinkhansuan,Male,1,0.02%,Candidate Count,1396968,True,Upto 100,233,3%,0,41-45,4,Lost,4,1,8050,NCP,National,Nationalist Congress Party,S14,Manipur,233,233,2012,0
+Henglep (st),57,ST,62,ST,Gelunthang,Male,1,0.13%,Candidate Count,1396968,True,Upto 100,1815,10%,0,61-70,5,Lost,5,1,17410,CPI,National,Communist Party of India,S14,Manipur,1815,1815,2012,0
+Churachandpur (st),58,ST,60,ST,Phungzathang Tonsing,Male,1,1.30%,Candidate Count,1396968,True,5001-10000,18093,60%,1,51-60,1,Won,1,1,30098,INC,National,Indian National Congress,S14,Manipur,18093,10342,2012,"7,751"
+Saikot (st),59,ST,48,ST,Lalthalien,Male,1,0.35%,Candidate Count,1396968,True,Upto 100,4864,16%,0,46-50,4,Lost,4,1,30010,NCP,National,Nationalist Congress Party,S14,Manipur,4864,4864,2012,0
+Singhat (st),60,ST,52,ST,Ginsuanhau,Male,1,0.92%,Candidate Count,1396968,True,10001-20000,12875,84%,1,51-60,1,Won,1,1,15383,INC,National,Indian National Congress,S14,Manipur,12875,2185,2012,"10,690"
+Chandel (st),41,ST,55,ST,Thangkholun Haokip,Male,2,0.94%,Candidate Count,1396968,True,Upto 100,13158,37%,0,51-60,2,Lost,2,1,35650,INC,National,Indian National Congress,S14,Manipur,13158,13158,2012,0
+Tengnoupal (st),42,ST,50,ST,Jangkholet,Male,2,0.33%,Candidate Count,1396968,True,Upto 100,4586,15%,0,46-50,4,Lost,4,1,30422,BJP,National,Bharatiya Janata Party,S14,Manipur,4586,4586,2012,0
+Ukhrul (st),44,ST,53,ST,Danny Shaiza,Male,2,0.29%,Candidate Count,1396968,True,Upto 100,3995,18%,0,51-60,3,Lost,3,1,22214,BJP,National,Bharatiya Janata Party,S14,Manipur,3995,3995,2012,0
+Saikul (st),46,ST,52,ST,Doukhomang Khongsai,Male,2,0.36%,Candidate Count,1396968,True,Upto 100,5069,24%,0,51-60,3,Lost,3,1,20980,NCP,National,Nationalist Congress Party,S14,Manipur,5069,5069,2012,0
+Thanlon (st),56,ST,50,ST,Tuanzalian,Male,2,0.07%,Candidate Count,1396968,True,Upto 100,962,12%,0,46-50,3,Lost,3,1,8050,CPI,National,Communist Party of India,S14,Manipur,962,962,2012,0
+Henglep (st),57,ST,41,ST,Thangliansang,Male,2,0.01%,Candidate Count,1396968,True,Upto 100,181,1%,0,41-45,6,Lost,6,1,17410,NCP,National,Nationalist Congress Party,S14,Manipur,181,181,2012,0
+Churachandpur (st),58,ST,64,ST,K.Vungzalian,Male,2,0.10%,Candidate Count,1396968,True,Upto 100,1408,5%,0,61-70,3,Lost,3,1,30098,NCP,National,Nationalist Congress Party,S14,Manipur,1408,1408,2012,0
+Saikot (st),59,ST,57,ST,M.Chungkhosei Haokip,Male,2,0.35%,Candidate Count,1396968,True,Upto 100,4905,16%,0,51-60,3,Lost,3,1,30010,BJP,National,Bharatiya Janata Party,S14,Manipur,4905,4905,2012,0
+Singhat (st),60,ST,31,ST,Lunkhomang,Male,2,0.02%,Candidate Count,1396968,True,Upto 100,274,2%,0,31-35,3,Lost,3,1,15383,CPI,National,Communist Party of India,S14,Manipur,274,274,2012,0
+Tengnoupal (st),42,ST,37,ST,T. Zangkhomang Haokip,Male,3,0.03%,Candidate Count,1396968,True,Upto 100,458,2%,0,36-40,5,Lost,5,1,30422,CPI,National,Communist Party of India,S14,Manipur,458,458,2012,0
+Ukhrul (st),44,ST,61,ST,Aleng As Shimray,Male,3,0.17%,Candidate Count,1396968,True,Upto 100,2360,11%,0,61-70,6,Lost,6,1,22214,NCP,National,Nationalist Congress Party,S14,Manipur,2360,2360,2012,0
+Thanlon (st),56,ST,48,ST,Vungzagin Valte,Male,3,0.25%,Candidate Count,1396968,True,101-1000,3486,43%,1,46-50,1,Won,1,1,8050,INC,National,Indian National Congress,S14,Manipur,3486,3195,2012,291
+Henglep (st),57,ST,55,ST,T.Manga Vaiphei,Male,3,0.34%,Candidate Count,1396968,True,101-1000,4793,28%,1,51-60,1,Won,1,1,17410,INC,National,Indian National Congress,S14,Manipur,4793,4428,2012,365
+Saikot (st),59,ST,57,ST,T.N.Haokip,Male,3,0.98%,Candidate Count,1396968,True,5001-10000,13684,46%,1,51-60,1,Won,1,1,30010,INC,National,Indian National Congress,S14,Manipur,13684,5527,2012,"8,157"
+Chingai (st),45,ST,53,ST,Paul Muinao,Male,2,0.55%,Candidate Count,1396968,True,Upto 100,7659,29%,0,51-60,3,Lost,3,1,26687,NPF,State,Naga Peoples Front,S14,Manipur,7659,7659,2012,0
+Karong (st),47,ST,50,ST,Dr. V. Alexander Pao,Male,2,1.57%,Candidate Count,1396968,True,5001-10000,21891,58%,1,46-50,1,Won,1,1,37646,NPF,State,Naga Peoples Front,S14,Manipur,21891,15755,2012,"6,136"
+Mao (st),48,ST,48,ST,Dikho,Male,2,1.55%,Candidate Count,1396968,True,5001-10000,21634,48%,1,46-50,1,Won,1,1,44846,NPF,State,Naga Peoples Front,S14,Manipur,21634,12704,2012,"8,930"
+Tadubi (st),49,ST,47,ST,Athikho Solomon Enah,Male,2,0.18%,Candidate Count,1396968,True,Upto 100,2529,8%,0,46-50,3,Lost,3,1,32486,AITC,State,All India Trinamool Congress,S14,Manipur,2529,2529,2012,0
+Saitu (st),51,ST,46,ST,Semkholal Haokip,Male,2,0.03%,Candidate Count,1396968,True,Upto 100,373,1%,0,46-50,4,Lost,4,1,28033,JD(U),State,Janata Dal  (United),S14,Manipur,373,373,2012,0
+Tamei (st),52,ST,46,ST,Athuan Abonmei,Male,2,0.11%,Candidate Count,1396968,True,Upto 100,1530,7%,0,46-50,3,Lost,3,1,22970,NPF,State,Naga Peoples Front,S14,Manipur,1530,1530,2012,0
+Tipaimukh (st),55,ST,61,ST,Dr . Lalumkhum Fimate,Male,2,0.26%,Candidate Count,1396968,True,Upto 100,3639,33%,0,61-70,2,Lost,2,1,11183,AITC,State,All India Trinamool Congress,S14,Manipur,3639,3639,2012,0
+Chandel (st),41,ST,42,ST,Chungjalen Haokip,Male,3,0.12%,Candidate Count,1396968,True,Upto 100,1658,5%,0,41-45,4,Lost,4,1,35650,JD(U),State,Janata Dal  (United),S14,Manipur,1658,1658,2012,0
+Phungyar (st),43,ST,44,ST,Honreikhui Kashung,Male,3,0.49%,Candidate Count,1396968,True,Upto 100,6830,42%,0,41-45,2,Lost,2,1,16377,NPF,State,Naga Peoples Front,S14,Manipur,6830,6830,2012,0
+Saikul (st),46,ST,74,ST,Chungkhokai Doungel,Male,3,0.52%,Candidate Count,1396968,True,Upto 100,7211,34%,0,>70,2,Lost,2,1,20980,AITC,State,All India Trinamool Congress,S14,Manipur,7211,7211,2012,0
+Mao (st),48,ST,49,ST,Woba Joram,Male,3,0.75%,Candidate Count,1396968,True,Upto 100,10508,23%,0,46-50,3,Lost,3,1,44846,AITC,State,All India Trinamool Congress,S14,Manipur,10508,10508,2012,0
+Tadubi (st),49,ST,46,ST,K. Raina,Male,3,0.86%,Candidate Count,1396968,True,Upto 100,11951,37%,0,46-50,2,Lost,2,1,32486,NPF,State,Naga Peoples Front,S14,Manipur,11951,11951,2012,0
+Saitu (st),51,ST,50,ST,Mairikiu John,Male,3,0.18%,Candidate Count,1396968,True,Upto 100,2456,9%,0,46-50,3,Lost,3,1,28033,AITC,State,All India Trinamool Congress,S14,Manipur,2456,2456,2012,0
+Tamenglong (st),53,ST,58,ST,Samuel Jendai,Male,3,0.28%,Candidate Count,1396968,True,Upto 100,3918,21%,0,51-60,3,Lost,3,1,18602,NPF,State,Naga Peoples Front,S14,Manipur,3918,3918,2012,0
+Nungba (st),54,ST,72,ST,G.Gaingam,Male,3,0.08%,Candidate Count,1396968,True,Upto 100,1092,6%,0,>70,3,Lost,3,1,16842,NPF,State,Naga Peoples Front,S14,Manipur,1092,1092,2012,0
+Churachandpur (st),58,ST,49,ST,P.Songlianlal,Male,3,0.74%,Candidate Count,1396968,True,Upto 100,10342,34%,0,46-50,2,Lost,2,1,30098,AITC,State,All India Trinamool Congress,S14,Manipur,10342,10342,2012,0
+Singhat (st),60,ST,47,ST,T.Hangkhanpau,Male,3,0.16%,Candidate Count,1396968,True,Upto 100,2185,14%,0,46-50,2,Lost,2,1,15383,AITC,State,All India Trinamool Congress,S14,Manipur,2185,2185,2012,0
+Chandel (st),41,ST,41,ST,K.L. Kapoor,Male,4,0.00%,Candidate Count,1396968,True,Upto 100,50,0%,0,41-45,8,Lost,8,1,35650,JD(S),State,Janata Dal  (Secular),S14,Manipur,50,50,2012,0
+Tengnoupal (st),42,ST,51,ST,Kh. David Charanga,Male,4,0.49%,Candidate Count,1396968,True,Upto 100,6807,22%,0,51-60,2,Lost,2,1,30422,NPF,State,Naga Peoples Front,S14,Manipur,6807,6807,2012,0
+Saitu (st),51,ST,57,ST,Haokholet Kipgen,Male,4,0.68%,Candidate Count,1396968,True,Upto 100,9509,34%,0,51-60,2,Lost,2,1,28033,NPP,State,National People's Party,S14,Manipur,9509,9509,2012,0
+Tamei (st),52,ST,60,ST,D.P. Panmei,Male,4,0.06%,Candidate Count,1396968,True,Upto 100,884,4%,0,51-60,4,Lost,4,1,22970,AITC,State,All India Trinamool Congress,S14,Manipur,884,884,2012,0
+Thanlon (st),56,ST,54,ST,V.Hangkhanlian,Male,4,0.23%,Candidate Count,1396968,True,Upto 100,3195,40%,0,51-60,2,Lost,2,1,8050,NPP,State,National People's Party,S14,Manipur,3195,3195,2012,0
+Churachandpur (st),58,ST,43,ST,Thangngam Lhungdim,Male,4,0.01%,Candidate Count,1396968,True,Upto 100,85,0%,0,41-45,5,Lost,5,1,30098,SHS,State,Shivsena,S14,Manipur,85,85,2012,0
+Saikot (st),59,ST,61,ST,K.William Vaiphei,Male,4,0.06%,Candidate Count,1396968,True,Upto 100,900,3%,0,61-70,5,Lost,5,1,30010,NPP,State,National People's Party,S14,Manipur,900,900,2012,0
+Chandel (st),41,ST,55,ST,St. Nunghlung Victor,Male,5,0.95%,Candidate Count,1396968,True,101-1000,13324,37%,1,51-60,1,Won,1,1,35650,NPF,State,Naga Peoples Front,S14,Manipur,13324,13158,2012,166
+Ukhrul (st),44,ST,51,ST,Samuel Risom,Male,5,0.35%,Candidate Count,1396968,True,Upto 100,4831,22%,1,51-60,1,Won,1,1,22214,NPF,State,Naga Peoples Front,S14,Manipur,4831,4761,2012,70
+Thanlon (st),56,ST,59,ST,Thangkholal Thangsing,Male,5,0.01%,Candidate Count,1396968,True,Upto 100,103,1%,0,51-60,5,Lost,5,1,8050,AITC,State,All India Trinamool Congress,S14,Manipur,103,103,2012,0
+Henglep (st),57,ST,53,ST,Sehpu Haokip,Male,5,0.24%,Candidate Count,1396968,True,Upto 100,3326,19%,0,51-60,3,Lost,3,1,17410,NPF,State,Naga Peoples Front,S14,Manipur,3326,3326,2012,0
+Saikot (st),59,ST,58,ST,Holkholun Lhungdim,Male,5,0.01%,Candidate Count,1396968,True,Upto 100,130,0%,0,51-60,6,Lost,6,1,30010,SHS,State,Shivsena,S14,Manipur,130,130,2012,0
+Chandel (st),41,ST,70,ST,Solankee Chothe,Male,6,0.01%,Candidate Count,1396968,True,Upto 100,116,0%,0,61-70,7,Lost,7,1,35650,AITC,State,All India Trinamool Congress,S14,Manipur,116,116,2012,0
+Tengnoupal (st),42,ST,29,ST,H. Shokhopao Mate,Male,6,0.35%,Candidate Count,1396968,True,Upto 100,4908,16%,0,Upto 30,3,Lost,3,1,30422,AITC,State,All India Trinamool Congress,S14,Manipur,4908,4908,2012,0
+Ukhrul (st),44,ST,42,ST,S. Somatai,Male,6,0.25%,Candidate Count,1396968,True,Upto 100,3516,16%,0,41-45,4,Lost,4,1,22214,AITC,State,All India Trinamool Congress,S14,Manipur,3516,3516,2012,0
+Henglep (st),57,ST,57,ST,T.Thangzalam Haokip,Male,6,0.32%,Candidate Count,1396968,True,Upto 100,4428,25%,0,51-60,2,Lost,2,1,17410,AITC,State,All India Trinamool Congress,S14,Manipur,4428,4428,2012,0
+Saikot (st),59,ST,34,ST,Lunkholal,Male,6,0.40%,Candidate Count,1396968,True,Upto 100,5527,18%,0,31-35,2,Lost,2,1,30010,AITC,State,All India Trinamool Congress,S14,Manipur,5527,5527,2012,0
+Tamenglong (st),53,ST,34,ST,Janghemlung Panmei,Male,2,0.55%,Candidate Count,1396968,True,101-1000,7675,41%,1,31-35,1,Won,1,1,18602,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,7675,7009,2012,666
+Nungba (st),54,ST,36,ST,Adim Pamei,Male,2,0.48%,Candidate Count,1396968,True,Upto 100,6710,40%,0,36-40,2,Lost,2,1,16842,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,6710,6710,2012,0
+Tamei (st),52,ST,43,ST,Awangbow Newmai,Male,3,0.69%,Candidate Count,1396968,True,Upto 100,9579,42%,0,41-45,2,Lost,2,1,22970,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,9579,9579,2012,0
+Ukhrul (st),44,ST,65,ST,Aleng Shimrah,Male,4,0.20%,Candidate Count,1396968,True,Upto 100,2751,12%,0,61-70,5,Lost,5,1,22214,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,2751,2751,2012,0
+Henglep (st),57,ST,64,ST,Dr. Jainson Haokip,Male,4,0.21%,Candidate Count,1396968,True,Upto 100,2867,16%,0,61-70,4,Lost,4,1,17410,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,2867,2867,2012,0
+Tengnoupal (st),42,ST,53,ST,Onjamang Haokip,Male,5,0.02%,Candidate Count,1396968,True,Upto 100,229,1%,0,51-60,6,Lost,6,1,30422,MSCP,Unrecognised,Manipur State Congress Party,S14,Manipur,229,229,2012,0
+Thanlon (st),56,ST,60,ST,T.Nengzakham,Male,6,0.01%,Candidate Count,1396968,True,Upto 100,71,1%,0,51-60,6,Lost,6,1,8050,JMBP,Unrecognised,Jai Maha Bharath Party,S14,Manipur,71,71,2012,0
+Chingai (st),45,ST,47,ST,Khashim Vashum,Male,3,0.65%,Candidate Count,1396968,True,Upto 100,9050,34%,0,46-50,2,Lost,2,1,26687,IND,Independent,Independent,S14,Manipur,9050,9050,2012,0
+Tipaimukh (st),55,ST,28,ST,Ngurrivung,Male,3,0.01%,Candidate Count,1396968,True,Upto 100,99,1%,0,Upto 30,4,Lost,4,1,11183,IND,Independent,Independent,S14,Manipur,99,99,2012,0
+Chingai (st),45,ST,66,ST,N. K. Shimray,Male,4,0.01%,Candidate Count,1396968,True,Upto 100,113,0%,0,61-70,4,Lost,4,1,26687,IND,Independent,Independent,S14,Manipur,113,113,2012,0
+Tipaimukh (st),55,ST,37,ST,Ngursanglur,Male,4,0.21%,Candidate Count,1396968,True,Upto 100,2894,26%,0,36-40,3,Lost,3,1,11183,IND,Independent,Independent,S14,Manipur,2894,2894,2012,0
+Churachandpur (st),58,ST,35,ST,Chintuahlian Guite,Male,5,0.01%,Candidate Count,1396968,True,Upto 100,170,1%,0,31-35,4,Lost,4,1,30098,IND,Independent,Independent,S14,Manipur,170,170,2012,0
+Chandel (st),41,ST,41,ST,Ws Kanral,Male,7,0.11%,Candidate Count,1396968,True,Upto 100,1548,4%,0,41-45,5,Lost,5,1,35650,IND,Independent,Independent,S14,Manipur,1548,1548,2012,0
+Patsoi,19,GEN,52,GEN,Km. Ak. Mirabai Devi,Female,1,0.81%,Candidate Count,1657776,True,101-1000,13405,43%,1,51-60,1,Won,1,1,31460,INC,National,Indian National Congress,S14,Manipur,13405,13291,2017,114
+Langthabal,20,GEN,46,GEN,Loitongbam Tilotama Devi,Female,3,0.06%,Candidate Count,1657776,True,Upto 100,983,4%,0,46-50,6,Lost,6,1,24681,INC,National,Indian National Congress,S14,Manipur,983,983,2017,0
+Bishnupur,26,GEN,56,GEN,Thokchom Bindasakhi Devi,Female,3,0.01%,Candidate Count,1657776,True,Upto 100,105,0%,0,51-60,5,Lost,5,1,26641,AITC,National,All India Trinamool Congress,S14,Manipur,105,105,2017,0
+Sagolband,11,GEN,62,GEN,G. Satyabati Devi,Female,3,0.06%,Candidate Count,1657776,True,Upto 100,982,5%,0,61-70,3,Lost,3,1,19567,NPEP,State,National People's Party,S14,Manipur,982,982,2017,0
+Thoubal,31,GEN,44,GEN,Irom Sharmila Chanu,Female,4,0.01%,Candidate Count,1657776,True,Upto 100,90,0%,0,41-45,5,Lost,5,1,27271,PRJA,Unrecognised,Peoples Resurgence and Justice Alliance,S14,Manipur,90,90,2017,0
+Wabgai,36,GEN,44,GEN,Najima Bibi,Female,4,0.00%,Candidate Count,1657776,True,Upto 100,33,0%,0,41-45,7,Lost,7,1,27622,PRJA,Unrecognised,Peoples Resurgence and Justice Alliance,S14,Manipur,33,33,2017,0
+Keishamthong,12,GEN,47,GEN,Yumnam Romola Devi,Female,8,0.01%,Candidate Count,1657776,True,Upto 100,96,0%,0,46-50,8,Lost,8,1,23107,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,96,96,2017,0
+Khundrakpam (GEN),1,GEN,49,GEN,Thokchom Lokeshwar Singh,Male,1,0.78%,Candidate Count,1657776,True,2001-5000,12849,56%,1,46-50,1,Won,1,1,22896,INC,National,Indian National Congress,S14,Manipur,12849,9790,2017,"3,059"
+Heingang (GEN),2,GEN,36,GEN,Naoroibam Ratan Meetei (Kapu),Male,1,0.44%,Candidate Count,1657776,True,Upto 100,7329,27%,0,36-40,3,Lost,3,1,27394,INC,National,Indian National Congress,S14,Manipur,7329,7329,2017,0
+Khurai (GEN),3,GEN,54,GEN,R.K.Amusana,Male,1,0.05%,Candidate Count,1657776,True,Upto 100,800,3%,0,51-60,3,Lost,3,1,29188,CPI,National,Communist Party of India,S14,Manipur,800,800,2017,0
+Kshetrigao,4,GEN,37,GEN,Md. Amin Shah,Male,1,0.61%,Candidate Count,1657776,True,Upto 100,10031,33%,0,36-40,2,Lost,2,1,30303,INC,National,Indian National Congress,S14,Manipur,10031,10031,2017,0
+Thongju,5,GEN,31,GEN,L. Geetaranjan Sharma,Male,1,0.01%,Candidate Count,1657776,True,Upto 100,131,0%,0,31-35,4,Lost,4,1,26846,AITC,National,All India Trinamool Congress,S14,Manipur,131,131,2017,0
+Keirao,6,GEN,53,GEN,Md. Islamuddin Khan,Male,1,0.20%,Candidate Count,1657776,True,Upto 100,3241,12%,0,51-60,5,Lost,5,1,26130,NCP,National,Nationalist Congress Party,S14,Manipur,3241,3241,2017,0
+Andro,7,GEN,46,GEN,Thounaojam Shyamkumar,Male,1,1.13%,Candidate Count,1657776,True,5001-10000,18761,63%,1,46-50,1,Won,1,1,29850,INC,National,Indian National Congress,S14,Manipur,18761,10775,2017,"7,986"
+Lamlai,8,GEN,58,GEN,Khongbantabam Ibomcha,Male,1,0.69%,Candidate Count,1657776,True,Upto 100,11487,45%,0,51-60,2,Lost,2,1,25696,BJP,National,Bharatiya Janata Party,S14,Manipur,11487,11487,2017,0
+Thangmeiband,9,GEN,52,GEN,Khumukcham Joykisan Singh,Male,1,0.70%,Candidate Count,1657776,True,101-1000,11596,49%,1,51-60,1,Won,1,1,23745,INC,National,Indian National Congress,S14,Manipur,11596,11439,2017,157
+Uripok,10,GEN,59,GEN,Dr. Nameirakpam Dwijamani Singh,Male,1,0.36%,Candidate Count,1657776,True,Upto 100,5986,30%,0,51-60,3,Lost,3,1,20195,BJP,National,Bharatiya Janata Party,S14,Manipur,5986,5986,2017,0
+Sagolband,11,GEN,53,GEN,Dr. Khwairakpam Loken Singh,Male,1,0.55%,Candidate Count,1657776,True,Upto 100,9192,47%,0,51-60,2,Lost,2,1,19567,BJP,National,Bharatiya Janata Party,S14,Manipur,9192,9192,2017,0
+Keishamthong,12,GEN,51,GEN,Rajkumar Shivachandra Singh,Male,1,0.30%,Candidate Count,1657776,True,Upto 100,5003,22%,0,51-60,3,Lost,3,1,23107,BJP,National,Bharatiya Janata Party,S14,Manipur,5003,5003,2017,0
+Singjamei,13,GEN,51,GEN,Irengbam Hemochandra Singh,Male,1,0.46%,Candidate Count,1657776,True,Upto 100,7625,43%,0,51-60,2,Lost,2,1,17570,INC,National,Indian National Congress,S14,Manipur,7625,7625,2017,0
+Yaiskul,14,GEN,49,GEN,Elangbam Chand Singh,Male,1,0.45%,Candidate Count,1657776,True,Upto 100,7444,34%,0,46-50,2,Lost,2,1,21897,INC,National,Indian National Congress,S14,Manipur,7444,7444,2017,0
+Wangkhei,15,GEN,32,GEN,Okram Henry Singh,Male,1,1.01%,Candidate Count,1657776,True,2001-5000,16753,56%,1,31-35,1,Won,1,1,29660,INC,National,Indian National Congress,S14,Manipur,16753,12417,2017,"4,336"
+Lamsang,17,GEN,68,GEN,Wangkheimayum Brajabidhu Singh,Male,1,0.68%,Candidate Count,1657776,True,Upto 100,11313,40%,0,61-70,2,Lost,2,1,28028,INC,National,Indian National Congress,S14,Manipur,11313,11313,2017,0
+Konthoujam,18,GEN,52,GEN,Konthoujam Sharat Singh,Male,1,0.70%,Candidate Count,1657776,True,Upto 100,11541,44%,0,51-60,2,Lost,2,1,26029,INC,National,Indian National Congress,S14,Manipur,11541,11541,2017,0
+Langthabal,20,GEN,75,GEN,O. Joy Singh,Male,1,0.44%,Candidate Count,1657776,True,Upto 100,7294,30%,0,>70,2,Lost,2,1,24681,BJP,National,Bharatiya Janata Party,S14,Manipur,7294,7294,2017,0
+Naoriya pakhanglakpa,21,GEN,57,GEN,R.K. Anand,Male,1,0.42%,Candidate Count,1657776,True,Upto 100,6994,23%,0,51-60,2,Lost,2,1,30334,INC,National,Indian National Congress,S14,Manipur,6994,6994,2017,0
+Wangoi,22,GEN,42,GEN,Oinam Lukhoi Singh,Male,1,0.45%,Candidate Count,1657776,True,Upto 100,7443,28%,1,41-45,1,Won,1,1,26225,INC,National,Indian National Congress,S14,Manipur,7443,7407,2017,36
+Mayang imphal,23,GEN,29,GEN,Kongkham Robindro Singh,Male,1,0.92%,Candidate Count,1657776,True,2001-5000,15221,55%,1,Upto 30,1,Won,1,1,27473,BJP,National,Bharatiya Janata Party,S14,Manipur,15221,12127,2017,"3,094"
+Nambol,24,GEN,78,GEN,Thounaojam Chaoba,Male,1,0.87%,Candidate Count,1657776,True,Upto 100,14456,49%,0,>70,2,Lost,2,1,29307,BJP,National,Bharatiya Janata Party,S14,Manipur,14456,14456,2017,0
+Oinam,25,GEN,63,GEN,Dr. Irengbam Ibohalbi Singh,Male,1,0.67%,Candidate Count,1657776,True,Upto 100,11186,46%,0,61-70,2,Lost,2,1,24516,INC,National,Indian National Congress,S14,Manipur,11186,11186,2017,0
+Bishnupur,26,GEN,50,GEN,Konthoujam Krishna Kumar Singh,Male,1,0.54%,Candidate Count,1657776,True,Upto 100,8872,33%,0,46-50,2,Lost,2,1,26641,BJP,National,Bharatiya Janata Party,S14,Manipur,8872,8872,2017,0
+Moirang,27,GEN,66,GEN,Pukhrem Sharatchandra Singh,Male,1,0.71%,Candidate Count,1657776,True,101-1000,11708,37%,1,61-70,1,Won,1,1,31613,BJP,National,Bharatiya Janata Party,S14,Manipur,11708,11333,2017,375
+Thanga,28,GEN,66,GEN,Tongbram Mangibabu Singh,Male,1,0.31%,Candidate Count,1657776,True,Upto 100,5070,26%,0,61-70,3,Lost,3,1,19547,INC,National,Indian National Congress,S14,Manipur,5070,5070,2017,0
+Kumbi,29,GEN,66,GEN,Ningthoujam Mangi,Male,1,0.64%,Candidate Count,1657776,True,Upto 100,10570,44%,0,61-70,2,Lost,2,1,23805,BJP,National,Bharatiya Janata Party,S14,Manipur,10570,10570,2017,0
+Lilong,30,GEN,53,GEN,Md. Anwar Hussain,Male,1,0.51%,Candidate Count,1657776,True,Upto 100,8456,29%,0,51-60,3,Lost,3,1,29337,BJP,National,Bharatiya Janata Party,S14,Manipur,8456,8456,2017,0
+Thoubal,31,GEN,68,GEN,Okram Ibobi Singh,Male,1,1.12%,Candidate Count,1657776,True,10001-20000,18649,68%,1,61-70,1,Won,1,1,27271,INC,National,Indian National Congress,S14,Manipur,18649,8179,2017,"10,470"
+Wangkhem,32,GEN,53,GEN,Oinam Haridas Singh,Male,1,0.28%,Candidate Count,1657776,True,Upto 100,4573,16%,0,51-60,3,Lost,3,1,28578,BJP,National,Bharatiya Janata Party,S14,Manipur,4573,4573,2017,0
+Heirok,33,GEN,53,GEN,Thokchom Radheshyam Singh,Male,1,0.81%,Candidate Count,1657776,True,1001-2000,13389,47%,1,51-60,1,Won,1,1,28715,BJP,National,Bharatiya Janata Party,S14,Manipur,13389,11742,2017,"1,647"
+Wangjing tentha,34,GEN,51,GEN,Paonam Brojen Singh,Male,1,0.77%,Candidate Count,1657776,True,1001-2000,12830,43%,1,51-60,1,Won,1,1,29585,INC,National,Indian National Congress,S14,Manipur,12830,10967,2017,"1,863"
+Khangabok,35,GEN,53,GEN,Thokchom Jadumani Singh,Male,1,0.68%,Candidate Count,1657776,True,Upto 100,11329,35%,0,51-60,2,Lost,2,1,32359,BJP,National,Bharatiya Janata Party,S14,Manipur,11329,11329,2017,0
+Wabgai,36,GEN,48,GEN,Dr. Usham Deben Singh,Male,1,0.47%,Candidate Count,1657776,True,Upto 100,7713,28%,0,46-50,2,Lost,2,1,27622,BJP,National,Bharatiya Janata Party,S14,Manipur,7713,7713,2017,0
+Hiyanglam,38,GEN,58,GEN,Elangbam Dwijamani Singh,Male,1,0.70%,Candidate Count,1657776,True,Upto 100,11669,46%,0,51-60,2,Lost,2,1,25190,INC,National,Indian National Congress,S14,Manipur,11669,11669,2017,0
+Sugnu,39,GEN,55,GEN,Kangujam Ranjit Singh,Male,1,0.80%,Candidate Count,1657776,True,2001-5000,13331,56%,1,51-60,1,Won,1,1,23725,INC,National,Indian National Congress,S14,Manipur,13331,10198,2017,"3,133"
+Jiribam,40,GEN,74,GEN,Thoudam Debendra Singh,Male,1,0.39%,Candidate Count,1657776,True,Upto 100,6539,29%,0,>70,2,Lost,2,1,22940,INC,National,Indian National Congress,S14,Manipur,6539,6539,2017,0
+Khundrakpam (GEN),1,GEN,59,GEN,Thangjam Mohendro Singh,Male,2,0.59%,Candidate Count,1657776,True,Upto 100,9790,43%,0,51-60,2,Lost,2,1,22896,BJP,National,Bharatiya Janata Party,S14,Manipur,9790,9790,2017,0
+Heingang (GEN),2,GEN,56,GEN,Nongthombam Biren Singh,Male,2,0.63%,Candidate Count,1657776,True,1001-2000,10439,38%,1,51-60,1,Won,1,1,27394,BJP,National,Bharatiya Janata Party,S14,Manipur,10439,9233,2017,"1,206"
+Khurai (GEN),3,GEN,71,GEN,Dr. Ngairangbam Bijoy Singh,Male,2,0.79%,Candidate Count,1657776,True,Upto 100,13061,45%,0,>70,2,Lost,2,1,29188,INC,National,Indian National Congress,S14,Manipur,13061,13061,2017,0
+Kshetrigao,4,GEN,48,GEN,Md. Zameer Ahmed,Male,2,0.00%,Candidate Count,1657776,True,Upto 100,67,0%,0,46-50,8,Lost,8,1,30303,AITC,National,All India Trinamool Congress,S14,Manipur,67,67,2017,0
+Thongju,5,GEN,53,GEN,Thokchom Ajit Singh,Male,2,0.57%,Candidate Count,1657776,True,Upto 100,9508,35%,0,51-60,2,Lost,2,1,26846,INC,National,Indian National Congress,S14,Manipur,9508,9508,2017,0
+Keirao,6,GEN,43,GEN,Karam Thamarjit Singh,Male,2,0.28%,Candidate Count,1657776,True,Upto 100,4715,18%,0,41-45,3,Lost,3,1,26130,INC,National,Indian National Congress,S14,Manipur,4715,4715,2017,0
+Andro,7,GEN,69,GEN,Dr. Nimaichand Luwang,Male,2,0.65%,Candidate Count,1657776,True,Upto 100,10775,36%,0,61-70,2,Lost,2,1,29850,BJP,National,Bharatiya Janata Party,S14,Manipur,10775,10775,2017,0
+Lamlai,8,GEN,46,GEN,Huirem Bimol,Male,2,0.10%,Candidate Count,1657776,True,Upto 100,1712,7%,0,46-50,3,Lost,3,1,25696,CPI,National,Communist Party of India,S14,Manipur,1712,1712,2017,0
+Thangmeiband,9,GEN,52,GEN,Jyotin Waikhom,Male,2,0.69%,Candidate Count,1657776,True,Upto 100,11439,48%,0,51-60,2,Lost,2,1,23745,BJP,National,Bharatiya Janata Party,S14,Manipur,11439,11439,2017,0
+Uripok,10,GEN,79,GEN,Laishram Nandakumar Singh,Male,2,0.37%,Candidate Count,1657776,True,Upto 100,6124,30%,0,>70,2,Lost,2,1,20195,INC,National,Indian National Congress,S14,Manipur,6124,6124,2017,0
+Sagolband,11,GEN,39,GEN,Rajkumar Imo Singh,Male,2,0.56%,Candidate Count,1657776,True,Upto 100,9211,47%,1,36-40,1,Won,1,1,19567,INC,National,Indian National Congress,S14,Manipur,9211,9192,2017,19
+Keishamthong,12,GEN,68,GEN,Laisom Ibomcha Singh,Male,2,0.41%,Candidate Count,1657776,True,Upto 100,6739,29%,0,61-70,2,Lost,2,1,23107,INC,National,Indian National Congress,S14,Manipur,6739,6739,2017,0
+Singjamei,13,GEN,60,GEN,Heigrujam Nabashyam,Male,2,0.01%,Candidate Count,1657776,True,Upto 100,176,1%,0,51-60,4,Lost,4,1,17570,AITC,National,All India Trinamool Congress,S14,Manipur,176,176,2017,0
+Yaiskul,14,GEN,43,GEN,Thokchom Satyabrata Singh,Male,2,0.48%,Candidate Count,1657776,True,101-1000,8014,37%,1,41-45,1,Won,1,1,21897,BJP,National,Bharatiya Janata Party,S14,Manipur,8014,7444,2017,570
+Wangkhei,15,GEN,42,GEN,Rajkumar Priyobarta Singh,Male,2,0.01%,Candidate Count,1657776,True,Upto 100,149,1%,0,41-45,4,Lost,4,1,29660,AITC,National,All India Trinamool Congress,S14,Manipur,149,149,2017,0
+Lamsang,17,GEN,52,GEN,Sorokhaibam Rajen Singh,Male,2,0.76%,Candidate Count,1657776,True,1001-2000,12593,45%,1,51-60,1,Won,1,1,28028,BJP,National,Bharatiya Janata Party,S14,Manipur,12593,11313,2017,"1,280"
+Konthoujam,18,GEN,45,GEN,Dr. Sapam Ranjan Singh,Male,2,0.86%,Candidate Count,1657776,True,2001-5000,14313,55%,1,41-45,1,Won,1,1,26029,BJP,National,Bharatiya Janata Party,S14,Manipur,14313,11541,2017,"2,772"
+Patsoi,19,GEN,54,GEN,Thounaojam Sharat Singh,Male,2,0.01%,Candidate Count,1657776,True,Upto 100,85,0%,0,51-60,6,Lost,6,1,31460,CPM,National,Communist Party of India  (Marxist),S14,Manipur,85,85,2017,0
+Langthabal,20,GEN,63,GEN,Nongthombam Singhajit,Male,2,0.11%,Candidate Count,1657776,True,Upto 100,1819,7%,0,61-70,5,Lost,5,1,24681,CPI,National,Communist Party of India,S14,Manipur,1819,1819,2017,0
+Naoriya pakhanglakpa,21,GEN,58,GEN,Thokchom Dhanabir Singh,Male,2,0.00%,Candidate Count,1657776,True,Upto 100,70,0%,0,51-60,7,Lost,7,1,30334,NCP,National,Nationalist Congress Party,S14,Manipur,70,70,2017,0
+Wangoi,22,GEN,43,GEN,Salam Joy Singh,Male,2,0.40%,Candidate Count,1657776,True,Upto 100,6590,25%,0,41-45,3,Lost,3,1,26225,BJP,National,Bharatiya Janata Party,S14,Manipur,6590,6590,2017,0
+Mayang imphal,23,GEN,53,GEN,Dr. Khumujam Ratankumar Singh,Male,2,0.73%,Candidate Count,1657776,True,Upto 100,12127,44%,0,51-60,2,Lost,2,1,27473,INC,National,Indian National Congress,S14,Manipur,12127,12127,2017,0
+Nambol,24,GEN,47,GEN,Nameirakpam Loken Singh,Male,2,0.89%,Candidate Count,1657776,True,101-1000,14736,50%,1,46-50,1,Won,1,1,29307,INC,National,Indian National Congress,S14,Manipur,14736,14456,2017,280
+Oinam,25,GEN,50,GEN,Khundrakpam Romio,Male,2,0.06%,Candidate Count,1657776,True,Upto 100,1030,4%,0,46-50,3,Lost,3,1,24516,NCP,National,Nationalist Congress Party,S14,Manipur,1030,1030,2017,0
+Bishnupur,26,GEN,53,GEN,Konthoujam Govindas,Male,2,0.85%,Candidate Count,1657776,True,5001-10000,14150,53%,1,51-60,1,Won,1,1,26641,INC,National,Indian National Congress,S14,Manipur,14150,8872,2017,"5,278"
+Moirang,27,GEN,36,GEN,Mairembam Prithviraj Singh,Male,2,0.68%,Candidate Count,1657776,True,Upto 100,11333,36%,0,36-40,2,Lost,2,1,31613,INC,National,Indian National Congress,S14,Manipur,11333,11333,2017,0
+Kumbi,29,GEN,70,GEN,Sanasam Bira Singh,Male,2,0.72%,Candidate Count,1657776,True,1001-2000,11881,50%,1,61-70,1,Won,1,1,23805,INC,National,Indian National Congress,S14,Manipur,11881,10570,2017,"1,311"
+Lilong,30,GEN,39,GEN,Muhammad Abdul Nasir,Male,2,0.65%,Candidate Count,1657776,True,1001-2000,10765,37%,1,36-40,1,Won,1,1,29337,INC,National,Indian National Congress,S14,Manipur,10765,9497,2017,"1,268"
+Thoubal,31,GEN,48,GEN,Leitanthem Basanta Singh,Male,2,0.49%,Candidate Count,1657776,True,Upto 100,8179,30%,0,46-50,2,Lost,2,1,27271,BJP,National,Bharatiya Janata Party,S14,Manipur,8179,8179,2017,0
+Wangkhem,32,GEN,44,GEN,Keisham Meghachandra Singh,Male,2,0.68%,Candidate Count,1657776,True,2001-5000,11293,40%,1,41-45,1,Won,1,1,28578,INC,National,Indian National Congress,S14,Manipur,11293,8413,2017,"2,880"
+Heirok,33,GEN,46,GEN,Ningthoujam Diten,Male,2,0.20%,Candidate Count,1657776,True,Upto 100,3321,12%,0,46-50,3,Lost,3,1,28715,NCP,National,Nationalist Congress Party,S14,Manipur,3321,3321,2017,0
+Wangjing tentha,34,GEN,57,GEN,Moirangthem Hemanta,Male,2,0.66%,Candidate Count,1657776,True,Upto 100,10967,37%,0,51-60,2,Lost,2,1,29585,BJP,National,Bharatiya Janata Party,S14,Manipur,10967,10967,2017,0
+Khangabok,35,GEN,29,GEN,Surjakumar Okram,Male,2,1.25%,Candidate Count,1657776,True,5001-10000,20781,64%,1,Upto 30,1,Won,1,1,32359,INC,National,Indian National Congress,S14,Manipur,20781,11329,2017,"9,452"
+Wabgai,36,GEN,48,GEN,Md. Fajur Rahim,Male,2,0.75%,Candidate Count,1657776,True,2001-5000,12474,45%,1,46-50,1,Won,1,1,27622,INC,National,Indian National Congress,S14,Manipur,12474,7713,2017,"4,761"
+Hiyanglam,38,GEN,62,GEN,Dr. Radheshyam Yumnam,Male,2,0.81%,Candidate Count,1657776,True,1001-2000,13394,53%,1,61-70,1,Won,1,1,25190,BJP,National,Bharatiya Janata Party,S14,Manipur,13394,11669,2017,"1,725"
+Sugnu,39,GEN,36,GEN,Yumnam Jiban Singh,Male,2,0.62%,Candidate Count,1657776,True,Upto 100,10198,43%,0,36-40,2,Lost,2,1,23725,BJP,National,Bharatiya Janata Party,S14,Manipur,10198,10198,2017,0
+Jiribam,40,GEN,61,GEN,Thounaojam Ranabir Singh,Male,2,0.19%,Candidate Count,1657776,True,Upto 100,3199,14%,0,61-70,3,Lost,3,1,22940,BJP,National,Bharatiya Janata Party,S14,Manipur,3199,3199,2017,0
+Khundrakpam (GEN),1,GEN,56,GEN,Yumlembam Jogendro,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,129,1%,0,51-60,3,Lost,3,1,22896,CPM,National,Communist Party of India  (Marxist),S14,Manipur,129,129,2017,0
+Heingang (GEN),2,GEN,52,GEN,Pangeijam Saratchandra Singh,Male,3,0.56%,Candidate Count,1657776,True,Upto 100,9233,34%,0,51-60,2,Lost,2,1,27394,AITC,National,All India Trinamool Congress,S14,Manipur,9233,9233,2017,0
+Khurai (GEN),3,GEN,33,GEN,Leishangthem Susindro Meitei,Male,3,0.91%,Candidate Count,1657776,True,1001-2000,15005,51%,1,31-35,1,Won,1,1,29188,BJP,National,Bharatiya Janata Party,S14,Manipur,15005,13061,2017,"1,944"
+Kshetrigao,4,GEN,44,GEN,Nahakpam Indrajit Singh,Male,3,0.63%,Candidate Count,1657776,True,101-1000,10411,34%,1,41-45,1,Won,1,1,30303,BJP,National,Bharatiya Janata Party,S14,Manipur,10411,10031,2017,380
+Thongju,5,GEN,41,GEN,Thongam Biswajit Singh,Male,3,1.01%,Candidate Count,1657776,True,5001-10000,16809,63%,1,41-45,1,Won,1,1,26846,BJP,National,Bharatiya Janata Party,S14,Manipur,16809,9508,2017,"7,301"
+Keirao,6,GEN,37,GEN,Lourembam Rameshwor Meetei,Male,3,0.36%,Candidate Count,1657776,True,101-1000,5959,23%,1,36-40,1,Won,1,1,26130,BJP,National,Bharatiya Janata Party,S14,Manipur,5959,5421,2017,538
+Lamlai,8,GEN,55,GEN,Ksh. Biren Singh,Male,3,0.74%,Candidate Count,1657776,True,101-1000,12339,48%,1,51-60,1,Won,1,1,25696,INC,National,Indian National Congress,S14,Manipur,12339,11487,2017,852
+Singjamei,13,GEN,54,GEN,Yumnam Khemchand Singh,Male,3,0.57%,Candidate Count,1657776,True,1001-2000,9459,54%,1,51-60,1,Won,1,1,17570,BJP,National,Bharatiya Janata Party,S14,Manipur,9459,7625,2017,"1,834"
+Yaiskul,14,GEN,57,GEN,Yumlembam Nogen,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,143,1%,0,51-60,6,Lost,6,1,21897,CPI,National,Communist Party of India,S14,Manipur,143,143,2017,0
+Wangkhei,15,GEN,77,GEN,Yumkham Erabot Singh,Male,3,0.75%,Candidate Count,1657776,True,Upto 100,12417,42%,0,>70,2,Lost,2,1,29660,BJP,National,Bharatiya Janata Party,S14,Manipur,12417,12417,2017,0
+Patsoi,19,GEN,49,GEN,S. Premananda Sharma,Male,3,0.19%,Candidate Count,1657776,True,Upto 100,3173,10%,0,46-50,3,Lost,3,1,31460,BJP,National,Bharatiya Janata Party,S14,Manipur,3173,3173,2017,0
+Naoriya pakhanglakpa,21,GEN,50,GEN,Soibam Subhaschandra Singh,Male,3,0.52%,Candidate Count,1657776,True,1001-2000,8609,28%,1,46-50,1,Won,1,1,30334,BJP,National,Bharatiya Janata Party,S14,Manipur,8609,6994,2017,"1,615"
+Oinam,25,GEN,60,GEN,Laishram Radhakishore Singh,Male,3,0.73%,Candidate Count,1657776,True,101-1000,12029,49%,1,51-60,1,Won,1,1,24516,BJP,National,Bharatiya Janata Party,S14,Manipur,12029,11186,2017,843
+Thanga,28,GEN,46,GEN,Moirangthem Asnikumar Singh,Male,3,0.33%,Candidate Count,1657776,True,Upto 100,5457,28%,0,46-50,2,Lost,2,1,19547,BJP,National,Bharatiya Janata Party,S14,Manipur,5457,5457,2017,0
+Thoubal,31,GEN,43,GEN,Leishangthem Suresh Singh,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,144,1%,0,41-45,3,Lost,3,1,27271,AITC,National,All India Trinamool Congress,S14,Manipur,144,144,2017,0
+Heirok,33,GEN,48,GEN,Moirangthem Okendro,Male,3,0.71%,Candidate Count,1657776,True,Upto 100,11742,41%,0,46-50,2,Lost,2,1,28715,INC,National,Indian National Congress,S14,Manipur,11742,11742,2017,0
+Wangjing tentha,34,GEN,51,GEN,Haobam Robindro Singh,Male,3,0.34%,Candidate Count,1657776,True,Upto 100,5562,19%,0,51-60,3,Lost,3,1,29585,CPI,National,Communist Party of India,S14,Manipur,5562,5562,2017,0
+Naoriya pakhanglakpa,21,GEN,48,GEN,Soraisham Manaoton Singh,Male,4,0.37%,Candidate Count,1657776,True,Upto 100,6121,20%,0,46-50,3,Lost,3,1,30334,AITC,National,All India Trinamool Congress,S14,Manipur,6121,6121,2017,0
+Thanga,28,GEN,63,GEN,Heisnam Kulachandra Singh,Male,4,0.15%,Candidate Count,1657776,True,Upto 100,2461,13%,0,61-70,4,Lost,4,1,19547,NCP,National,Nationalist Congress Party,S14,Manipur,2461,2461,2017,0
+Heirok,33,GEN,45,GEN,Moirangthem Totomsana,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,85,0%,0,41-45,5,Lost,5,1,28715,AITC,National,All India Trinamool Congress,S14,Manipur,85,85,2017,0
+Uripok,10,GEN,35,GEN,Nameirakpam Santosh Singh,Male,3,0.08%,Candidate Count,1657776,True,Upto 100,1332,7%,0,31-35,4,Lost,4,1,20195,LJP,State,Lok Jan Shakti Party,S14,Manipur,1332,1332,2017,0
+Wangoi,22,GEN,46,GEN,Khuraijam Loken Singh,Male,3,0.45%,Candidate Count,1657776,True,Upto 100,7407,28%,0,46-50,2,Lost,2,1,26225,NPEP,State,National People's Party,S14,Manipur,7407,7407,2017,0
+Kumbi,29,GEN,57,GEN,Ningombam Ibohal Meitei,Male,3,0.06%,Candidate Count,1657776,True,Upto 100,1057,4%,0,51-60,3,Lost,3,1,23805,LJP,State,Lok Jan Shakti Party,S14,Manipur,1057,1057,2017,0
+Wangkhem,32,GEN,47,GEN,Kangabam Jadu Singh,Male,3,0.24%,Candidate Count,1657776,True,Upto 100,3986,14%,0,46-50,4,Lost,4,1,28578,LJP,State,Lok Jan Shakti Party,S14,Manipur,3986,3986,2017,0
+Khangabok,35,GEN,67,GEN,Haji Asraf Ali,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,116,0%,0,61-70,4,Lost,4,1,32359,NPEP,State,National People's Party,S14,Manipur,116,116,2017,0
+Khundrakpam (GEN),1,GEN,78,GEN,Lairenlakpam Lala Singh,Male,4,0.00%,Candidate Count,1657776,True,Upto 100,36,0%,0,>70,5,Lost,5,1,22896,NPEP,State,National People's Party,S14,Manipur,36,36,2017,0
+Keirao,6,GEN,37,GEN,Takhellambam Samananda Singh,Male,4,0.09%,Candidate Count,1657776,True,Upto 100,1446,6%,0,36-40,6,Lost,6,1,26130,LJP,State,Lok Jan Shakti Party,S14,Manipur,1446,1446,2017,0
+Uripok,10,GEN,63,GEN,Yumnam Joykumar Singh,Male,4,0.39%,Candidate Count,1657776,True,101-1000,6469,32%,1,61-70,1,Won,1,1,20195,NPEP,State,National People's Party,S14,Manipur,6469,6124,2017,345
+Keishamthong,12,GEN,52,GEN,Changamayum Ganeshlal Singh,Male,4,0.00%,Candidate Count,1657776,True,Upto 100,77,0%,0,51-60,9,Lost,9,1,23107,AIFB,State,All India Forward Bloc,S14,Manipur,77,77,2017,0
+Yaiskul,14,GEN,41,GEN,Athokpam Keshor Singh,Male,4,0.02%,Candidate Count,1657776,True,Upto 100,397,2%,0,41-45,4,Lost,4,1,21897,LJP,State,Lok Jan Shakti Party,S14,Manipur,397,397,2017,0
+Patsoi,19,GEN,48,GEN,Chungkham Thoiba (Bijoy) Singh,Male,4,0.07%,Candidate Count,1657776,True,Upto 100,1236,4%,0,46-50,4,Lost,4,1,31460,NPEP,State,National People's Party,S14,Manipur,1236,1236,2017,0
+Langthabal,20,GEN,54,GEN,Karam Shyam,Male,4,0.58%,Candidate Count,1657776,True,2001-5000,9625,39%,1,51-60,1,Won,1,1,24681,LJP,State,Lok Jan Shakti Party,S14,Manipur,9625,7294,2017,"2,331"
+Wangoi,22,GEN,56,GEN,Moirangmayum Thoiba Singh,Male,4,0.04%,Candidate Count,1657776,True,Upto 100,719,3%,0,51-60,5,Lost,5,1,26225,LJP,State,Lok Jan Shakti Party,S14,Manipur,719,719,2017,0
+Bishnupur,26,GEN,52,GEN,Khundrakpam Bhabeshwor Singh,Male,4,0.20%,Candidate Count,1657776,True,Upto 100,3333,13%,0,51-60,3,Lost,3,1,26641,LJP,State,Lok Jan Shakti Party,S14,Manipur,3333,3333,2017,0
+Wangkhem,32,GEN,27,GEN,Laishram Thanil Meitei,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,136,0%,0,Upto 30,6,Lost,6,1,28578,NPEP,State,National People's Party,S14,Manipur,136,136,2017,0
+Kshetrigao,4,GEN,48,GEN,Md. Abir Khan,Male,5,0.00%,Candidate Count,1657776,True,Upto 100,69,0%,0,46-50,7,Lost,7,1,30303,AIFB,State,All India Forward Bloc,S14,Manipur,69,69,2017,0
+Wabgai,36,GEN,46,GEN,Mohammad Habibur Rahman,Male,5,0.02%,Candidate Count,1657776,True,Upto 100,326,1%,0,46-50,5,Lost,5,1,27622,NPEP,State,National People's Party,S14,Manipur,326,326,2017,0
+Jiribam,40,GEN,64,GEN,Habib Ali,Male,5,0.04%,Candidate Count,1657776,True,Upto 100,649,3%,0,61-70,6,Lost,6,1,22940,NPEP,State,National People's Party,S14,Manipur,649,649,2017,0
+Keishamthong,12,GEN,55,GEN,Langpoklakpam Jayantakumar Singh,Male,6,0.60%,Candidate Count,1657776,True,2001-5000,10000,43%,1,51-60,1,Won,1,1,23107,NPEP,State,National People's Party,S14,Manipur,10000,6739,2017,"3,261"
+Naoriya pakhanglakpa,21,GEN,61,GEN,Konthoujam Manoranjan Singh,Male,6,0.29%,Candidate Count,1657776,True,Upto 100,4777,16%,0,61-70,4,Lost,4,1,30334,LJP,State,Lok Jan Shakti Party,S14,Manipur,4777,4777,2017,0
+Kshetrigao,4,GEN,42,GEN,Vivekraj Wangkhem,Male,7,0.02%,Candidate Count,1657776,True,Upto 100,281,1%,0,41-45,4,Lost,4,1,30303,NPEP,State,National People's Party,S14,Manipur,281,281,2017,0
+Keishamthong,12,GEN,52,GEN,Heishnam Lokeshwar Singh,Male,7,0.01%,Candidate Count,1657776,True,Upto 100,171,1%,0,51-60,7,Lost,7,1,23107,LJP,State,Lok Jan Shakti Party,S14,Manipur,171,171,2017,0
+Andro,7,GEN,54,GEN,Keisham Ningthemjao Singh,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,162,1%,0,51-60,3,Lost,3,1,29850,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,162,162,2017,0
+Thangmeiband,9,GEN,33,GEN,Erendro Leichombam,Male,3,0.03%,Candidate Count,1657776,True,Upto 100,573,2%,0,31-35,3,Lost,3,1,23745,PRJA,Unrecognised,Peoples Resurgence and Justice Alliance,S14,Manipur,573,573,2017,0
+Keishamthong,12,GEN,33,GEN,Khaba Paonam,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,204,1%,0,31-35,6,Lost,6,1,23107,MPEP,Unrecognised,Manipur People’s Party,S14,Manipur,204,204,2017,0
+Lamsang,17,GEN,65,GEN,Phijam Pakchao Singh,Male,3,0.24%,Candidate Count,1657776,True,Upto 100,3956,14%,0,61-70,3,Lost,3,1,28028,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,3956,3956,2017,0
+Lilong,30,GEN,59,GEN,Md. Abdul Zabar,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,83,0%,0,51-60,6,Lost,6,1,29337,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,83,83,2017,0
+Wabgai,36,GEN,41,GEN,Md. Abdul Samad,Male,3,0.10%,Candidate Count,1657776,True,Upto 100,1695,6%,0,41-45,4,Lost,4,1,27622,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,1695,1695,2017,0
+Heingang (GEN),2,GEN,66,GEN,Dr. Gurumayum Tonsana Sharma,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,113,0%,0,61-70,5,Lost,5,1,27394,MDPF,Unrecognised,Manipur Democratic Peoples's Front,S14,Manipur,113,113,2017,0
+Kshetrigao,4,GEN,65,GEN,Md. Azizul Hague Khan,Male,4,0.00%,Candidate Count,1657776,True,Upto 100,80,0%,0,61-70,6,Lost,6,1,30303,MPEP,Unrecognised,Manipur People’s Party,S14,Manipur,80,80,2017,0
+Singjamei,13,GEN,35,GEN,Thokchom Sarchil Singh,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,104,1%,0,31-35,5,Lost,5,1,17570,MPEP,Unrecognised,Manipur People’s Party,S14,Manipur,104,104,2017,0
+Oinam,25,GEN,59,GEN,Laitonjam Thoiba Singh,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,190,1%,0,51-60,4,Lost,4,1,24516,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,190,190,2017,0
+Kumbi,29,GEN,36,GEN,Wahengbam Bobbyjames Singh,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,180,1%,0,36-40,4,Lost,4,1,23805,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,180,180,2017,0
+Lilong,30,GEN,59,GEN,Sheikh Kheiruddin,Male,4,0.02%,Candidate Count,1657776,True,Upto 100,369,1%,0,51-60,4,Lost,4,1,29337,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,369,369,2017,0
+Wangjing tentha,34,GEN,58,GEN,Sagolsem Ibochoubi Singh,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,121,0%,0,51-60,4,Lost,4,1,29585,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,121,121,2017,0
+Jiribam,40,GEN,62,GEN,A. Biren Singh,Male,4,0.17%,Candidate Count,1657776,True,Upto 100,2812,12%,0,61-70,4,Lost,4,1,22940,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,2812,2812,2017,0
+Heingang (GEN),2,GEN,58,GEN,Yengkokpam Priyokumar Singh,Male,5,0.00%,Candidate Count,1657776,True,Upto 100,59,0%,0,51-60,7,Lost,7,1,27394,MPEP,Unrecognised,Manipur People’s Party,S14,Manipur,59,59,2017,0
+Keirao,6,GEN,41,GEN,Thongram Gopen,Male,5,0.27%,Candidate Count,1657776,True,Upto 100,4477,17%,0,41-45,4,Lost,4,1,26130,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,4477,4477,2017,0
+Keishamthong,12,GEN,61,GEN,Potsangbam Dhanakumar Singh,Male,5,0.04%,Candidate Count,1657776,True,Upto 100,611,3%,0,61-70,4,Lost,4,1,23107,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,611,611,2017,0
+Patsoi,19,GEN,58,GEN,Sapam Kunjakeswor (Keba) Singh,Male,5,0.80%,Candidate Count,1657776,True,Upto 100,13291,42%,0,51-60,2,Lost,2,1,31460,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,13291,13291,2017,0
+Langthabal,20,GEN,46,GEN,Ningombam Nilakumar Singh,Male,5,0.17%,Candidate Count,1657776,True,Upto 100,2806,11%,0,46-50,3,Lost,3,1,24681,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,2806,2806,2017,0
+Naoriya pakhanglakpa,21,GEN,50,GEN,Oinam Malesh Singh,Male,5,0.22%,Candidate Count,1657776,True,Upto 100,3610,12%,0,46-50,5,Lost,5,1,30334,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,3610,3610,2017,0
+Wangoi,22,GEN,59,GEN,Sagolsem Achouba Singh,Male,5,0.24%,Candidate Count,1657776,True,Upto 100,3983,15%,0,51-60,4,Lost,4,1,26225,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,3983,3983,2017,0
+Wangkhem,32,GEN,42,GEN,Yumnam Nabachandra Singh,Male,5,0.51%,Candidate Count,1657776,True,Upto 100,8413,29%,0,41-45,2,Lost,2,1,28578,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,8413,8413,2017,0
+Heirok,33,GEN,45,GEN,Nongmeikapam Sovakiran Singh,Male,5,0.01%,Candidate Count,1657776,True,Upto 100,84,0%,0,41-45,6,Lost,6,1,28715,MPEP,Unrecognised,Manipur People’s Party,S14,Manipur,84,84,2017,0
+Kshetrigao,4,GEN,60,GEN,Th. Nandakishor Singh,Male,6,0.55%,Candidate Count,1657776,True,Upto 100,9190,30%,0,51-60,3,Lost,3,1,30303,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,9190,9190,2017,0
+Keirao,6,GEN,45,GEN,Ningthoujam Itomba Meetei,Male,6,0.04%,Candidate Count,1657776,True,Upto 100,685,3%,0,41-45,7,Lost,7,1,26130,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,685,685,2017,0
+Langthabal,20,GEN,40,GEN,Mutum Dinesh Singh,Male,6,0.12%,Candidate Count,1657776,True,Upto 100,2035,8%,0,36-40,4,Lost,4,1,24681,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,2035,2035,2017,0
+Wabgai,36,GEN,43,GEN,Mayengbam Ranjit Singh,Male,6,0.32%,Candidate Count,1657776,True,Upto 100,5264,19%,0,41-45,3,Lost,3,1,27622,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,5264,5264,2017,0
+Konthoujam,18,GEN,35,GEN,Nongmaithem Santa Singh,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,83,0%,0,31-35,4,Lost,4,1,26029,IND,Independent,Independent,S14,Manipur,83,83,2017,0
+Moirang,27,GEN,52,GEN,Thongam Shanti Singh,Male,3,0.50%,Candidate Count,1657776,True,Upto 100,8369,26%,0,51-60,3,Lost,3,1,31613,IND,Independent,Independent,S14,Manipur,8369,8369,2017,0
+Sagolband,11,GEN,53,GEN,Laishram Gyaneshwar,Male,4,0.00%,Candidate Count,1657776,True,Upto 100,31,0%,0,51-60,5,Lost,5,1,19567,IND,Independent,Independent,S14,Manipur,31,31,2017,0
+Yaiskul,14,GEN,43,GEN,N. Helendro Singh,Male,5,0.34%,Candidate Count,1657776,True,Upto 100,5621,26%,0,41-45,3,Lost,3,1,21897,IND,Independent,Independent,S14,Manipur,5621,5621,2017,0
+Lilong,30,GEN,29,GEN,Y. Antas Khan,Male,5,0.57%,Candidate Count,1657776,True,Upto 100,9497,32%,0,Upto 30,2,Lost,2,1,29337,IND,Independent,Independent,S14,Manipur,9497,9497,2017,0
+Thoubal,31,GEN,66,GEN,Dr. Akoijam Manglemjao Singh,Male,5,0.00%,Candidate Count,1657776,True,Upto 100,66,0%,0,61-70,6,Lost,6,1,27271,IND,Independent,Independent,S14,Manipur,66,66,2017,0
+Heingang (GEN),2,GEN,45,GEN,Thokchom Romeo Singh,Male,6,0.01%,Candidate Count,1657776,True,Upto 100,91,0%,0,41-45,6,Lost,6,1,27394,IND,Independent,Independent,S14,Manipur,91,91,2017,0
+Lilong,30,GEN,60,GEN,Nasir Ahmad Sheikh,Male,6,0.00%,Candidate Count,1657776,True,Upto 100,67,0%,0,51-60,7,Lost,7,1,29337,IND,Independent,Independent,S14,Manipur,67,67,2017,0
+Jiribam,40,GEN,51,GEN,Ashab Uddin,Male,6,0.49%,Candidate Count,1657776,True,1001-2000,8189,36%,1,51-60,1,Won,1,1,22940,IND,Independent,Independent,S14,Manipur,8189,6539,2017,"1,650"
+Keirao,6,GEN,35,GEN,Md. Nasiruddin Khan,Male,7,0.33%,Candidate Count,1657776,True,Upto 100,5421,21%,0,31-35,2,Lost,2,1,26130,IND,Independent,Independent,S14,Manipur,5421,5421,2017,0
+Keirao,6,GEN,47,GEN,Md. Wahidur Rahman,Male,8,0.01%,Candidate Count,1657776,True,Upto 100,106,0%,0,46-50,8,Lost,8,1,26130,IND,Independent,Independent,S14,Manipur,106,106,2017,0
+Mayang imphal,23,GEN,,NULL,None Of The Above,NOTA,3,0.01%,Candidate Count,1657776,True,Upto 100,125,0%,0,>70,3,Lost,3,1,27473,NOTA,NOTA,None of the Above,S14,Manipur,125,125,2017,0
+Nambol,24,GEN,,NULL,None Of The Above,NOTA,3,0.01%,Candidate Count,1657776,True,Upto 100,115,0%,0,>70,3,Lost,3,1,29307,NOTA,NOTA,None of the Above,S14,Manipur,115,115,2017,0
+Hiyanglam,38,GEN,,NULL,None Of The Above,NOTA,3,0.01%,Candidate Count,1657776,True,Upto 100,127,1%,0,>70,3,Lost,3,1,25190,NOTA,NOTA,None of the Above,S14,Manipur,127,127,2017,0
+Sugnu,39,GEN,,NULL,None Of The Above,NOTA,3,0.01%,Candidate Count,1657776,True,Upto 100,196,1%,0,>70,3,Lost,3,1,23725,NOTA,NOTA,None of the Above,S14,Manipur,196,196,2017,0
+Khurai (GEN),3,GEN,,NULL,None Of The Above,NOTA,4,0.02%,Candidate Count,1657776,True,Upto 100,322,1%,0,>70,4,Lost,4,1,29188,NOTA,NOTA,None of the Above,S14,Manipur,322,322,2017,0
+Thongju,5,GEN,,NULL,None Of The Above,NOTA,4,0.02%,Candidate Count,1657776,True,Upto 100,398,1%,0,>70,3,Lost,3,1,26846,NOTA,NOTA,None of the Above,S14,Manipur,398,398,2017,0
+Andro,7,GEN,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,152,1%,0,>70,4,Lost,4,1,29850,NOTA,NOTA,None of the Above,S14,Manipur,152,152,2017,0
+Lamlai,8,GEN,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,158,1%,0,>70,4,Lost,4,1,25696,NOTA,NOTA,None of the Above,S14,Manipur,158,158,2017,0
+Thangmeiband,9,GEN,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,137,1%,0,>70,4,Lost,4,1,23745,NOTA,NOTA,None of the Above,S14,Manipur,137,137,2017,0
+Wangkhei,15,GEN,,NULL,None Of The Above,NOTA,4,0.02%,Candidate Count,1657776,True,Upto 100,341,1%,0,>70,3,Lost,3,1,29660,NOTA,NOTA,None of the Above,S14,Manipur,341,341,2017,0
+Lamsang,17,GEN,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,166,1%,0,>70,4,Lost,4,1,28028,NOTA,NOTA,None of the Above,S14,Manipur,166,166,2017,0
+Konthoujam,18,GEN,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,92,0%,0,>70,3,Lost,3,1,26029,NOTA,NOTA,None of the Above,S14,Manipur,92,92,2017,0
+Moirang,27,GEN,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,203,1%,0,>70,4,Lost,4,1,31613,NOTA,NOTA,None of the Above,S14,Manipur,203,203,2017,0
+Khangabok,35,GEN,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,133,0%,0,>70,3,Lost,3,1,32359,NOTA,NOTA,None of the Above,S14,Manipur,133,133,2017,0
+Kakching,37,GEN,,NULL,None Of The Above,NOTA,4,0.02%,Candidate Count,1657776,True,Upto 100,249,1%,0,>70,4,Lost,4,1,24100,NOTA,NOTA,None of the Above,S14,Manipur,249,249,2017,0
+Khundrakpam (GEN),1,GEN,,NULL,None Of The Above,NOTA,5,0.01%,Candidate Count,1657776,True,Upto 100,92,0%,0,>70,4,Lost,4,1,22896,NOTA,NOTA,None of the Above,S14,Manipur,92,92,2017,0
+Uripok,10,GEN,,NULL,None Of The Above,NOTA,5,0.02%,Candidate Count,1657776,True,Upto 100,284,1%,0,>70,5,Lost,5,1,20195,NOTA,NOTA,None of the Above,S14,Manipur,284,284,2017,0
+Sagolband,11,GEN,,NULL,None Of The Above,NOTA,5,0.01%,Candidate Count,1657776,True,Upto 100,151,1%,0,>70,4,Lost,4,1,19567,NOTA,NOTA,None of the Above,S14,Manipur,151,151,2017,0
+Singjamei,13,GEN,,NULL,None Of The Above,NOTA,5,0.01%,Candidate Count,1657776,True,Upto 100,206,1%,0,>70,3,Lost,3,1,17570,NOTA,NOTA,None of the Above,S14,Manipur,206,206,2017,0
+Oinam,25,GEN,,NULL,None Of The Above,NOTA,5,0.00%,Candidate Count,1657776,True,Upto 100,81,0%,0,>70,5,Lost,5,1,24516,NOTA,NOTA,None of the Above,S14,Manipur,81,81,2017,0
+Bishnupur,26,GEN,,NULL,None Of The Above,NOTA,5,0.01%,Candidate Count,1657776,True,Upto 100,181,1%,0,>70,4,Lost,4,1,26641,NOTA,NOTA,None of the Above,S14,Manipur,181,181,2017,0
+Thanga,28,GEN,,NULL,None Of The Above,NOTA,5,0.01%,Candidate Count,1657776,True,Upto 100,97,0%,0,>70,5,Lost,5,1,19547,NOTA,NOTA,None of the Above,S14,Manipur,97,97,2017,0
+Kumbi,29,GEN,,NULL,None Of The Above,NOTA,5,0.01%,Candidate Count,1657776,True,Upto 100,117,0%,0,>70,5,Lost,5,1,23805,NOTA,NOTA,None of the Above,S14,Manipur,117,117,2017,0
+Wangjing tentha,34,GEN,,NULL,None Of The Above,NOTA,5,0.01%,Candidate Count,1657776,True,Upto 100,105,0%,0,>70,5,Lost,5,1,29585,NOTA,NOTA,None of the Above,S14,Manipur,105,105,2017,0
+Kangpokpi (Gen),50,GEN,,NULL,None Of The Above,NOTA,5,0.02%,Candidate Count,1657776,True,Upto 100,289,1%,0,>70,4,Lost,4,1,26065,NOTA,NOTA,None of the Above,S14,Manipur,289,289,2017,0
+Yaiskul,14,GEN,,NULL,None Of The Above,NOTA,6,0.02%,Candidate Count,1657776,True,Upto 100,278,1%,0,>70,5,Lost,5,1,21897,NOTA,NOTA,None of the Above,S14,Manipur,278,278,2017,0
+Patsoi,19,GEN,,NULL,None Of The Above,NOTA,6,0.02%,Candidate Count,1657776,True,Upto 100,270,1%,0,>70,5,Lost,5,1,31460,NOTA,NOTA,None of the Above,S14,Manipur,270,270,2017,0
+Wangoi,22,GEN,,NULL,None Of The Above,NOTA,6,0.01%,Candidate Count,1657776,True,Upto 100,83,0%,0,>70,6,Lost,6,1,26225,NOTA,NOTA,None of the Above,S14,Manipur,83,83,2017,0
+Thoubal,31,GEN,,NULL,None Of The Above,NOTA,6,0.01%,Candidate Count,1657776,True,Upto 100,143,1%,0,>70,4,Lost,4,1,27271,NOTA,NOTA,None of the Above,S14,Manipur,143,143,2017,0
+Wangkhem,32,GEN,,NULL,None Of The Above,NOTA,6,0.01%,Candidate Count,1657776,True,Upto 100,177,1%,0,>70,5,Lost,5,1,28578,NOTA,NOTA,None of the Above,S14,Manipur,177,177,2017,0
+Heirok,33,GEN,,NULL,None Of The Above,NOTA,6,0.01%,Candidate Count,1657776,True,Upto 100,94,0%,0,>70,4,Lost,4,1,28715,NOTA,NOTA,None of the Above,S14,Manipur,94,94,2017,0
+Heingang (GEN),2,GEN,,NULL,None Of The Above,NOTA,7,0.01%,Candidate Count,1657776,True,Upto 100,130,0%,0,>70,4,Lost,4,1,27394,NOTA,NOTA,None of the Above,S14,Manipur,130,130,2017,0
+Langthabal,20,GEN,,NULL,None Of The Above,NOTA,7,0.01%,Candidate Count,1657776,True,Upto 100,119,0%,0,>70,7,Lost,7,1,24681,NOTA,NOTA,None of the Above,S14,Manipur,119,119,2017,0
+Naoriya pakhanglakpa,21,GEN,,NULL,None Of The Above,NOTA,7,0.01%,Candidate Count,1657776,True,Upto 100,153,1%,0,>70,6,Lost,6,1,30334,NOTA,NOTA,None of the Above,S14,Manipur,153,153,2017,0
+Lilong,30,GEN,,NULL,None Of The Above,NOTA,7,0.01%,Candidate Count,1657776,True,Upto 100,100,0%,0,>70,5,Lost,5,1,29337,NOTA,NOTA,None of the Above,S14,Manipur,100,100,2017,0
+Wabgai,36,GEN,,NULL,None Of The Above,NOTA,7,0.01%,Candidate Count,1657776,True,Upto 100,117,0%,0,>70,6,Lost,6,1,27622,NOTA,NOTA,None of the Above,S14,Manipur,117,117,2017,0
+Jiribam,40,GEN,,NULL,None Of The Above,NOTA,7,0.02%,Candidate Count,1657776,True,Upto 100,389,2%,0,>70,7,Lost,7,1,22940,NOTA,NOTA,None of the Above,S14,Manipur,389,389,2017,0
+Kshetrigao,4,GEN,,NULL,None Of The Above,NOTA,8,0.01%,Candidate Count,1657776,True,Upto 100,174,1%,0,>70,5,Lost,5,1,30303,NOTA,NOTA,None of the Above,S14,Manipur,174,174,2017,0
+Keirao,6,GEN,,NULL,None Of The Above,NOTA,9,0.00%,Candidate Count,1657776,True,Upto 100,80,0%,0,>70,9,Lost,9,1,26130,NOTA,NOTA,None of the Above,S14,Manipur,80,80,2017,0
+Keishamthong,12,GEN,,NULL,None Of The Above,NOTA,9,0.01%,Candidate Count,1657776,True,Upto 100,206,1%,0,>70,5,Lost,5,1,23107,NOTA,NOTA,None of the Above,S14,Manipur,206,206,2017,0
+Kakching,37,GEN,63,SC,Naorem Achouba,Male,1,0.13%,Candidate Count,1657776,True,Upto 100,2215,9%,0,61-70,3,Lost,3,1,24100,CPI,National,Communist Party of India,S14,Manipur,2215,2215,2017,0
+Thanga,28,GEN,45,SC,Tongbram Robindro Singh,Male,2,0.39%,Candidate Count,1657776,True,1001-2000,6462,33%,1,41-45,1,Won,1,1,19547,AITC,National,All India Trinamool Congress,S14,Manipur,6462,5457,2017,"1,005"
+Kakching,37,GEN,48,SC,M. Rameshwar Singh (Ramay),Male,2,0.63%,Candidate Count,1657776,True,Upto 100,10503,44%,0,46-50,2,Lost,2,1,24100,BJP,National,Bharatiya Janata Party,S14,Manipur,10503,10503,2017,0
+Kakching,37,GEN,65,SC,Yengkhom Surchandra Singh,Male,3,0.67%,Candidate Count,1657776,True,101-1000,11133,46%,1,61-70,1,Won,1,1,24100,INC,National,Indian National Congress,S14,Manipur,11133,10503,2017,630
+Kangpokpi (Gen),50,GEN,47,ST,Nemcha Kipgen,Female,2,0.81%,Candidate Count,1657776,True,2001-5000,13485,52%,1,46-50,1,Won,1,1,26065,BJP,National,Bharatiya Janata Party,S14,Manipur,13485,11188,2017,"2,297"
+Kangpokpi (Gen),50,GEN,35,ST,Soshim Keishing,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,228,1%,0,31-35,5,Lost,5,1,26065,NCP,National,Nationalist Congress Party,S14,Manipur,228,228,2017,0
+Kangpokpi (Gen),50,GEN,52,ST,Athikho Solomon Enah,Male,1,0.05%,Candidate Count,1657776,True,Upto 100,875,3%,0,51-60,3,Lost,3,1,26065,NPF,State,Naga Peoples Front,S14,Manipur,875,875,2017,0
+Jiribam,40,GEN,36,ST,Mathiudin Kamei,Male,3,0.07%,Candidate Count,1657776,True,Upto 100,1163,5%,0,36-40,5,Lost,5,1,22940,NPF,State,Naga Peoples Front,S14,Manipur,1163,1163,2017,0
+Kangpokpi (Gen),50,GEN,45,ST,Kharga Tamang,Male,4,0.67%,Candidate Count,1657776,True,Upto 100,11188,43%,0,41-45,2,Lost,2,1,26065,IND,Independent,Independent,S14,Manipur,11188,11188,2017,0
+Sekmai,16,SC,,NULL,None Of The Above,NOTA,3,0.01%,Candidate Count,1657776,True,Upto 100,219,1%,0,>70,3,Lost,3,1,24013,NOTA,NOTA,None of the Above,S14,Manipur,219,219,2017,0
+Sekmai,16,SC,54,SC,Khwairakpam Devendro Singh,Male,1,0.64%,Candidate Count,1657776,True,Upto 100,10631,44%,0,51-60,2,Lost,2,1,24013,INC,National,Indian National Congress,S14,Manipur,10631,10631,2017,0
+Sekmai,16,SC,38,SC,Heikham Dingo Singh,Male,2,0.79%,Candidate Count,1657776,True,2001-5000,13163,55%,1,36-40,1,Won,1,1,24013,BJP,National,Bharatiya Janata Party,S14,Manipur,13163,10631,2017,"2,532"
+Saitu (ST),51,ST,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,110,0%,0,>70,4,Lost,4,1,36393,NOTA,NOTA,None of the Above,S14,Manipur,110,110,2017,0
+Tamei (ST),52,ST,,NULL,None Of The Above,NOTA,4,0.00%,Candidate Count,1657776,True,Upto 100,40,0%,0,>70,4,Lost,4,1,32295,NOTA,NOTA,None of the Above,S14,Manipur,40,40,2017,0
+Tamenglong (ST),53,ST,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,114,0%,0,>70,4,Lost,4,1,24371,NOTA,NOTA,None of the Above,S14,Manipur,114,114,2017,0
+Saikot (ST),59,ST,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,189,1%,0,>70,4,Lost,4,1,33892,NOTA,NOTA,None of the Above,S14,Manipur,189,189,2017,0
+Singhat (ST),60,ST,,NULL,None Of The Above,NOTA,4,0.01%,Candidate Count,1657776,True,Upto 100,111,1%,0,>70,4,Lost,4,1,18335,NOTA,NOTA,None of the Above,S14,Manipur,111,111,2017,0
+Tengnoupal (st),42,ST,,NULL,None Of The Above,NOTA,5,0.01%,Candidate Count,1657776,True,Upto 100,150,0%,0,>70,5,Lost,5,1,41689,NOTA,NOTA,None of the Above,S14,Manipur,150,150,2017,0
+Chingai (st),45,ST,,NULL,None Of The Above,NOTA,5,0.00%,Candidate Count,1657776,True,Upto 100,30,0%,0,>70,5,Lost,5,1,32071,NOTA,NOTA,None of the Above,S14,Manipur,30,30,2017,0
+Mao (st),48,ST,,NULL,None Of The Above,NOTA,5,0.00%,Candidate Count,1657776,True,Upto 100,59,0%,0,>70,5,Lost,5,1,49216,NOTA,NOTA,None of the Above,S14,Manipur,59,59,2017,0
+Nungba (ST),54,ST,,NULL,None Of The Above,NOTA,5,0.00%,Candidate Count,1657776,True,Upto 100,75,0%,0,>70,5,Lost,5,1,19659,NOTA,NOTA,None of the Above,S14,Manipur,75,75,2017,0
+Phungyar (st),43,ST,,NULL,None Of The Above,NOTA,6,0.00%,Candidate Count,1657776,True,Upto 100,72,0%,0,>70,6,Lost,6,1,24956,NOTA,NOTA,None of the Above,S14,Manipur,72,72,2017,0
+Ukhrul (st),44,ST,,NULL,None Of The Above,NOTA,6,0.00%,Candidate Count,1657776,True,Upto 100,46,0%,0,>70,6,Lost,6,1,32078,NOTA,NOTA,None of the Above,S14,Manipur,46,46,2017,0
+Tipaimukh (st),55,ST,,NULL,None Of The Above,NOTA,6,0.00%,Candidate Count,1657776,True,Upto 100,25,0%,0,>70,6,Lost,6,1,11798,NOTA,NOTA,None of the Above,S14,Manipur,25,25,2017,0
+Thanlon (ST),56,ST,,NULL,None Of The Above,NOTA,6,0.00%,Candidate Count,1657776,True,Upto 100,37,0%,0,>70,6,Lost,6,1,13687,NOTA,NOTA,None of the Above,S14,Manipur,37,37,2017,0
+Karong (st),47,ST,,NULL,None Of The Above,NOTA,7,0.01%,Candidate Count,1657776,True,Upto 100,145,0%,0,>70,7,Lost,7,1,44096,NOTA,NOTA,None of the Above,S14,Manipur,145,145,2017,0
+Tadubi (st),49,ST,,NULL,None Of The Above,NOTA,7,0.01%,Candidate Count,1657776,True,Upto 100,223,1%,0,>70,7,Lost,7,1,40757,NOTA,NOTA,None of the Above,S14,Manipur,223,223,2017,0
+Henglep (ST),57,ST,,NULL,None Of The Above,NOTA,7,0.00%,Candidate Count,1657776,True,Upto 100,71,0%,0,>70,7,Lost,7,1,23782,NOTA,NOTA,None of the Above,S14,Manipur,71,71,2017,0
+Chandel (st),41,ST,,NULL,None Of The Above,NOTA,8,0.01%,Candidate Count,1657776,True,Upto 100,163,0%,0,>70,8,Lost,8,1,42336,NOTA,NOTA,None of the Above,S14,Manipur,163,163,2017,0
+Churachandpur (ST),58,ST,,NULL,None Of The Above,NOTA,8,0.01%,Candidate Count,1657776,True,Upto 100,108,0%,0,>70,8,Lost,8,1,33840,NOTA,NOTA,None of the Above,S14,Manipur,108,108,2017,0
+Saikul (st),46,ST,,NULL,None Of The Above,NOTA,12,0.00%,Candidate Count,1657776,True,Upto 100,45,0%,0,>70,12,Lost,12,1,29322,NOTA,NOTA,None of the Above,S14,Manipur,45,45,2017,0
+Chandel (st),41,ST,40,ST,S.S. Olish,Female,3,0.59%,Candidate Count,1657776,True,Upto 100,9842,23%,0,36-40,3,Lost,3,1,42336,BJP,National,Bharatiya Janata Party,S14,Manipur,9842,9842,2017,0
+Karong (st),47,ST,33,ST,T.K. Savanai,Female,4,0.06%,Candidate Count,1657776,True,Upto 100,951,2%,0,31-35,6,Lost,6,1,44096,LJP,State,Lok Jan Shakti Party,S14,Manipur,951,951,2017,0
+Tipaimukh (st),55,ST,59,ST,Thangthatling Sinate,Female,5,0.01%,Candidate Count,1657776,True,Upto 100,106,1%,0,51-60,5,Lost,5,1,11798,IND,Independent,Independent,S14,Manipur,106,106,2017,0
+Ukhrul (st),44,ST,43,ST,Alfred Kanngam Arthur,Male,1,0.69%,Candidate Count,1657776,True,101-1000,11510,36%,1,41-45,1,Won,1,1,32078,INC,National,Indian National Congress,S14,Manipur,11510,11214,2017,296
+Saikul (st),46,ST,76,ST,Chungkhokai Doungel,Male,1,0.33%,Candidate Count,1657776,True,Upto 100,5416,18%,0,>70,2,Lost,2,1,29322,NCP,National,Nationalist Congress Party,S14,Manipur,5416,5416,2017,0
+Mao (st),48,ST,58,ST,P.T. Arhai,Male,1,0.46%,Candidate Count,1657776,True,Upto 100,7604,15%,0,51-60,3,Lost,3,1,49216,INC,National,Indian National Congress,S14,Manipur,7604,7604,2017,0
+Tadubi (st),49,ST,53,ST,M. Francis Ngajokpa,Male,1,0.95%,Candidate Count,1657776,True,Upto 100,15816,39%,0,51-60,2,Lost,2,1,40757,BJP,National,Bharatiya Janata Party,S14,Manipur,15816,15816,2017,0
+Saitu (ST),51,ST,62,ST,Haokholet Kipgen,Male,1,0.94%,Candidate Count,1657776,True,Upto 100,15650,43%,0,61-70,2,Lost,2,1,36393,BJP,National,Bharatiya Janata Party,S14,Manipur,15650,15650,2017,0
+Tamenglong (ST),53,ST,68,ST,Jangamlung Panmei,Male,1,0.01%,Candidate Count,1657776,True,Upto 100,215,1%,0,61-70,3,Lost,3,1,24371,INC,National,Indian National Congress,S14,Manipur,215,215,2017,0
+Nungba (ST),54,ST,41,ST,Adim Pamei,Male,1,0.31%,Candidate Count,1657776,True,Upto 100,5108,26%,0,41-45,2,Lost,2,1,19659,BJP,National,Bharatiya Janata Party,S14,Manipur,5108,5108,2017,0
+Tipaimukh (st),55,ST,61,ST,Dr. Chaltonlien Amo,Male,1,0.30%,Candidate Count,1657776,True,101-1000,4997,42%,1,61-70,1,Won,1,1,11798,INC,National,Indian National Congress,S14,Manipur,4997,4371,2017,626
+Thanlon (ST),56,ST,55,ST,Chinkholal Thangsing,Male,1,0.16%,Candidate Count,1657776,True,Upto 100,2583,19%,0,51-60,2,Lost,2,1,13687,INC,National,Indian National Congress,S14,Manipur,2583,2583,2017,0
+Henglep (ST),57,ST,68,ST,Dr. Jainson Haokip,Male,1,0.01%,Candidate Count,1657776,True,Upto 100,107,0%,0,61-70,6,Lost,6,1,23782,AITC,National,All India Trinamool Congress,S14,Manipur,107,107,2017,0
+Churachandpur (ST),58,ST,56,ST,V. Hangkhanlian,Male,1,0.62%,Candidate Count,1657776,True,101-1000,10246,30%,1,51-60,1,Won,1,1,33840,BJP,National,Bharatiya Janata Party,S14,Manipur,10246,9632,2017,614
+Saikot (ST),59,ST,66,ST,T. N. Haokip,Male,1,0.99%,Candidate Count,1657776,True,5001-10000,16354,48%,1,61-70,1,Won,1,1,33892,INC,National,Indian National Congress,S14,Manipur,16354,11253,2017,"5,101"
+Singhat (ST),60,ST,42,ST,Chinlunthang,Male,1,0.42%,Candidate Count,1657776,True,Upto 100,6969,38%,0,41-45,2,Lost,2,1,18335,BJP,National,Bharatiya Janata Party,S14,Manipur,6969,6969,2017,0
+Chandel (st),41,ST,45,ST,Chungjalen Haokip,Male,2,0.07%,Candidate Count,1657776,True,Upto 100,1185,3%,0,41-45,6,Lost,6,1,42336,INC,National,Indian National Congress,S14,Manipur,1185,1185,2017,0
+Tengnoupal (st),42,ST,56,ST,D. Korungthang,Male,2,1.02%,Candidate Count,1657776,True,2001-5000,16940,41%,1,51-60,1,Won,1,1,41689,INC,National,Indian National Congress,S14,Manipur,16940,12284,2017,"4,656"
+Phungyar (st),43,ST,56,ST,M.K. Phungreiyo,Male,2,0.01%,Candidate Count,1657776,True,Upto 100,97,0%,0,51-60,5,Lost,5,1,24956,AITC,National,All India Trinamool Congress,S14,Manipur,97,97,2017,0
+Ukhrul (st),44,ST,29,ST,Letsei Haokip,Male,2,0.01%,Candidate Count,1657776,True,Upto 100,115,0%,0,Upto 30,5,Lost,5,1,32078,AITC,National,All India Trinamool Congress,S14,Manipur,115,115,2017,0
+Chingai (st),45,ST,51,ST,Preshow M.K Shimray,Male,2,0.38%,Candidate Count,1657776,True,Upto 100,6370,20%,0,51-60,3,Lost,3,1,32071,INC,National,Indian National Congress,S14,Manipur,6370,6370,2017,0
+Saikul (st),46,ST,53,ST,Horngam Keishing,Male,2,0.00%,Candidate Count,1657776,True,Upto 100,61,0%,0,51-60,10,Lost,10,1,29322,AITC,National,All India Trinamool Congress,S14,Manipur,61,61,2017,0
+Karong (st),47,ST,54,ST,D.D. Thaisii,Male,2,0.85%,Candidate Count,1657776,True,2001-5000,14038,32%,1,51-60,1,Won,1,1,44096,INC,National,Indian National Congress,S14,Manipur,14038,9745,2017,"4,293"
+Tadubi (st),49,ST,62,ST,R.S. Henry Hiilii,Male,2,0.02%,Candidate Count,1657776,True,Upto 100,305,1%,0,61-70,6,Lost,6,1,40757,INC,National,Indian National Congress,S14,Manipur,305,305,2017,0
+Saitu (ST),51,ST,68,ST,Ngamthang Haokip,Male,2,1.17%,Candidate Count,1657776,True,2001-5000,19467,53%,1,61-70,1,Won,1,1,36393,INC,National,Indian National Congress,S14,Manipur,19467,15650,2017,"3,817"
+Tamei (ST),52,ST,50,ST,Z. Kikhonbou Newmai,Male,2,0.92%,Candidate Count,1657776,True,Upto 100,15186,47%,0,46-50,2,Lost,2,1,32295,BJP,National,Bharatiya Janata Party,S14,Manipur,15186,15186,2017,0
+Nungba (ST),54,ST,66,ST,Gaikhangam,Male,2,0.62%,Candidate Count,1657776,True,5001-10000,10255,52%,1,61-70,1,Won,1,1,19659,INC,National,Indian National Congress,S14,Manipur,10255,5108,2017,"5,147"
+Tipaimukh (st),55,ST,66,ST,Dr. Lallukhum Fimate,Male,2,0.26%,Candidate Count,1657776,True,Upto 100,4371,37%,0,61-70,2,Lost,2,1,11798,BJP,National,Bharatiya Janata Party,S14,Manipur,4371,4371,2017,0
+Thanlon (ST),56,ST,53,ST,Vungzagin Valte,Male,2,0.59%,Candidate Count,1657776,True,5001-10000,9752,71%,1,51-60,1,Won,1,1,13687,BJP,National,Bharatiya Janata Party,S14,Manipur,9752,2583,2017,"7,169"
+Henglep (ST),57,ST,60,ST,T. Manga Vaiphei,Male,2,0.49%,Candidate Count,1657776,True,Upto 100,8170,34%,0,51-60,2,Lost,2,1,23782,INC,National,Indian National Congress,S14,Manipur,8170,8170,2017,0
+Churachandpur (ST),58,ST,56,ST,Haukhanthang,Male,2,0.03%,Candidate Count,1657776,True,Upto 100,535,2%,0,51-60,6,Lost,6,1,33840,INC,National,Indian National Congress,S14,Manipur,535,535,2017,0
+Saikot (ST),59,ST,44,ST,Paokholal Haokip,Male,2,0.68%,Candidate Count,1657776,True,Upto 100,11253,33%,0,41-45,2,Lost,2,1,33892,BJP,National,Bharatiya Janata Party,S14,Manipur,11253,11253,2017,0
+Singhat (ST),60,ST,57,ST,Ginsuanhau,Male,2,0.49%,Candidate Count,1657776,True,1001-2000,8131,44%,1,51-60,1,Won,1,1,18335,INC,National,Indian National Congress,S14,Manipur,8131,6969,2017,"1,162"
+Tengnoupal (st),42,ST,52,ST,Yangkholet Haokip,Male,3,0.74%,Candidate Count,1657776,True,Upto 100,12284,29%,0,51-60,2,Lost,2,1,41689,BJP,National,Bharatiya Janata Party,S14,Manipur,12284,12284,2017,0
+Phungyar (st),43,ST,51,ST,Somi Awungshi,Male,3,0.43%,Candidate Count,1657776,True,Upto 100,7122,29%,0,51-60,2,Lost,2,1,24956,BJP,National,Bharatiya Janata Party,S14,Manipur,7122,7122,2017,0
+Chingai (st),45,ST,67,ST,Sword Vashum,Male,3,0.54%,Candidate Count,1657776,True,Upto 100,8932,28%,0,61-70,2,Lost,2,1,32071,BJP,National,Bharatiya Janata Party,S14,Manipur,8932,8932,2017,0
+Karong (st),47,ST,52,ST,R. Yuh Jonathan Tao,Male,3,0.59%,Candidate Count,1657776,True,Upto 100,9745,22%,0,51-60,2,Lost,2,1,44096,BJP,National,Bharatiya Janata Party,S14,Manipur,9745,9745,2017,0
+Mao (st),48,ST,54,ST,Woba Joram,Male,3,0.63%,Candidate Count,1657776,True,Upto 100,10519,21%,0,51-60,2,Lost,2,1,49216,BJP,National,Bharatiya Janata Party,S14,Manipur,10519,10519,2017,0
+Tamei (ST),52,ST,43,ST,G.N. Kumuiteung (Dr. Aku),Male,3,0.07%,Candidate Count,1657776,True,Upto 100,1136,4%,0,41-45,3,Lost,3,1,32295,INC,National,Indian National Congress,S14,Manipur,1136,1136,2017,0
+Tamenglong (ST),53,ST,50,ST,Samuel Jendai Kamei,Male,3,0.79%,Candidate Count,1657776,True,2001-5000,13023,53%,1,46-50,1,Won,1,1,24371,BJP,National,Bharatiya Janata Party,S14,Manipur,13023,11019,2017,"2,004"
+Nungba (ST),54,ST,34,ST,Kamei William Kabui,Male,3,0.01%,Candidate Count,1657776,True,Upto 100,110,1%,0,31-35,4,Lost,4,1,19659,AITC,National,All India Trinamool Congress,S14,Manipur,110,110,2017,0
+Henglep (ST),57,ST,61,ST,T. Thangzalam Haokip,Male,3,0.51%,Candidate Count,1657776,True,101-1000,8438,35%,1,61-70,1,Won,1,1,23782,BJP,National,Bharatiya Janata Party,S14,Manipur,8438,8170,2017,268
+Chandel (st),41,ST,45,ST,Thangkholun Haokip,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,221,1%,0,41-45,7,Lost,7,1,42336,AITC,National,All India Trinamool Congress,S14,Manipur,221,221,2017,0
+Phungyar (st),43,ST,55,ST,Victor Keishing,Male,4,0.32%,Candidate Count,1657776,True,Upto 100,5313,21%,0,51-60,3,Lost,3,1,24956,INC,National,Indian National Congress,S14,Manipur,5313,5313,2017,0
+Ukhrul (st),44,ST,43,ST,Somatai Shaiza,Male,4,0.68%,Candidate Count,1657776,True,Upto 100,11214,35%,0,41-45,2,Lost,2,1,32078,BJP,National,Bharatiya Janata Party,S14,Manipur,11214,11214,2017,0
+Saikul (st),46,ST,49,ST,Paojalet Touthang,Male,4,0.27%,Candidate Count,1657776,True,Upto 100,4439,15%,0,46-50,3,Lost,3,1,29322,BJP,National,Bharatiya Janata Party,S14,Manipur,4439,4439,2017,0
+Saikul (st),46,ST,71,ST,Yamthong Haokip,Male,5,0.52%,Candidate Count,1657776,True,2001-5000,8677,30%,1,>70,1,Won,1,1,29322,INC,National,Indian National Congress,S14,Manipur,8677,5416,2017,"3,261"
+Chandel (st),41,ST,63,ST,Bd. Behring Anal,Male,1,0.18%,Candidate Count,1657776,True,Upto 100,3044,7%,0,61-70,4,Lost,4,1,42336,PDA,State,People's Democratic Alliance,S14,Manipur,3044,3044,2017,0
+Tengnoupal (st),42,ST,46,ST,Khulpuwa Armstrong Charang,Male,1,0.66%,Candidate Count,1657776,True,Upto 100,11015,26%,0,46-50,3,Lost,3,1,41689,NPF,State,Naga Peoples Front,S14,Manipur,11015,11015,2017,0
+Phungyar (st),43,ST,42,ST,K. Leishiyo,Male,1,0.72%,Candidate Count,1657776,True,2001-5000,11900,48%,1,41-45,1,Won,1,1,24956,NPF,State,Naga Peoples Front,S14,Manipur,11900,7122,2017,"4,778"
+Chingai (st),45,ST,53,ST,Khashim Vashum,Male,1,1.00%,Candidate Count,1657776,True,5001-10000,16582,52%,1,51-60,1,Won,1,1,32071,NPF,State,Naga Peoples Front,S14,Manipur,16582,8932,2017,"7,650"
+Karong (st),47,ST,56,ST,Dr. V. Alexander Pao,Male,1,0.32%,Candidate Count,1657776,True,Upto 100,5342,12%,0,51-60,5,Lost,5,1,44096,NPF,State,Naga Peoples Front,S14,Manipur,5342,5342,2017,0
+Tamei (ST),52,ST,49,ST,Awangbow Newmai,Male,1,0.96%,Candidate Count,1657776,True,101-1000,15933,49%,1,46-50,1,Won,1,1,32295,NPF,State,Naga Peoples Front,S14,Manipur,15933,15186,2017,747
+Mao (st),48,ST,50,ST,Losii Dikho,Male,2,1.56%,Candidate Count,1657776,True,10001-20000,25933,53%,1,46-50,1,Won,1,1,49216,NPF,State,Naga Peoples Front,S14,Manipur,25933,10519,2017,"15,414"
+Tamenglong (ST),53,ST,39,ST,Janghemlung Panmei,Male,2,0.66%,Candidate Count,1657776,True,Upto 100,11019,45%,0,36-40,2,Lost,2,1,24371,NPF,State,Naga Peoples Front,S14,Manipur,11019,11019,2017,0
+Ukhrul (st),44,ST,56,ST,Samuel Risom,Male,3,0.54%,Candidate Count,1657776,True,Upto 100,8883,28%,0,51-60,3,Lost,3,1,32078,NPF,State,Naga Peoples Front,S14,Manipur,8883,8883,2017,0
+Saikul (st),46,ST,43,ST,Mangvung Thangboi Haokip,Male,3,0.02%,Candidate Count,1657776,True,Upto 100,304,1%,0,41-45,8,Lost,8,1,29322,NPF,State,Naga Peoples Front,S14,Manipur,304,304,2017,0
+Tadubi (st),49,ST,52,ST,K. Raina,Male,3,0.40%,Candidate Count,1657776,True,Upto 100,6614,16%,0,51-60,3,Lost,3,1,40757,NPF,State,Naga Peoples Front,S14,Manipur,6614,6614,2017,0
+Saitu (ST),51,ST,59,ST,Sehpu Haokip,Male,3,0.07%,Candidate Count,1657776,True,Upto 100,1166,3%,0,51-60,3,Lost,3,1,36393,NPF,State,Naga Peoples Front,S14,Manipur,1166,1166,2017,0
+Tipaimukh (st),55,ST,42,ST,Ngursanglur Sanate,Male,3,0.13%,Candidate Count,1657776,True,Upto 100,2167,18%,0,41-45,3,Lost,3,1,11798,NPEP,State,National People's Party,S14,Manipur,2167,2167,2017,0
+Thanlon (ST),56,ST,64,ST,T. Nengzakham Tombing,Male,3,0.02%,Candidate Count,1657776,True,Upto 100,413,3%,0,61-70,4,Lost,4,1,13687,NPEP,State,National People's Party,S14,Manipur,413,413,2017,0
+Saikot (ST),59,ST,59,ST,Holkholun Lhungdim,Male,3,0.37%,Candidate Count,1657776,True,Upto 100,6096,18%,0,51-60,3,Lost,3,1,33892,LJP,State,Lok Jan Shakti Party,S14,Manipur,6096,6096,2017,0
+Singhat (ST),60,ST,56,ST,Henlianthang Thanglet,Male,3,0.19%,Candidate Count,1657776,True,Upto 100,3124,17%,0,51-60,3,Lost,3,1,18335,NPEP,State,National People's Party,S14,Manipur,3124,3124,2017,0
+Tengnoupal (st),42,ST,54,ST,Kh David Maring,Male,4,0.08%,Candidate Count,1657776,True,Upto 100,1300,3%,0,51-60,4,Lost,4,1,41689,NPEP,State,National People's Party,S14,Manipur,1300,1300,2017,0
+Tadubi (st),49,ST,50,ST,Dilungheing,Male,4,0.02%,Candidate Count,1657776,True,Upto 100,354,1%,0,46-50,4,Lost,4,1,40757,LJP,State,Lok Jan Shakti Party,S14,Manipur,354,354,2017,0
+Nungba (ST),54,ST,41,ST,Pou Mathiupuang Gonmei,Male,4,0.25%,Candidate Count,1657776,True,Upto 100,4111,21%,0,41-45,3,Lost,3,1,19659,LJP,State,Lok Jan Shakti Party,S14,Manipur,4111,4111,2017,0
+Thanlon (ST),56,ST,61,ST,Thangkhangin,Male,4,0.05%,Candidate Count,1657776,True,Upto 100,795,6%,0,61-70,3,Lost,3,1,13687,LJP,State,Lok Jan Shakti Party,S14,Manipur,795,795,2017,0
+Henglep (ST),57,ST,30,ST,Thongzamlien,Male,4,0.03%,Candidate Count,1657776,True,Upto 100,547,2%,0,Upto 30,5,Lost,5,1,23782,NPF,State,Naga Peoples Front,S14,Manipur,547,547,2017,0
+Churachandpur (ST),58,ST,71,ST,Phungzathang Tonsing,Male,4,0.58%,Candidate Count,1657776,True,Upto 100,9632,28%,0,>70,2,Lost,2,1,33840,NPEP,State,National People's Party,S14,Manipur,9632,9632,2017,0
+Chandel (st),41,ST,59,ST,St. Victor Nunghlung,Male,5,0.09%,Candidate Count,1657776,True,Upto 100,1574,4%,0,51-60,5,Lost,5,1,42336,NPF,State,Naga Peoples Front,S14,Manipur,1574,1574,2017,0
+Ukhrul (st),44,ST,45,ST,Worthington Mahung,Male,5,0.02%,Candidate Count,1657776,True,Upto 100,310,1%,0,41-45,4,Lost,4,1,32078,LJP,State,Lok Jan Shakti Party,S14,Manipur,310,310,2017,0
+Chandel (st),41,ST,40,ST,Letpao Haokip,Male,6,0.86%,Candidate Count,1657776,True,2001-5000,14216,34%,1,36-40,1,Won,1,1,42336,NPEP,State,National People's Party,S14,Manipur,14216,12091,2017,"2,125"
+Saikul (st),46,ST,57,ST,Ch. Ajang Khongsai,Male,6,0.18%,Candidate Count,1657776,True,Upto 100,2993,10%,0,51-60,5,Lost,5,1,29322,NPEP,State,National People's Party,S14,Manipur,2993,2993,2017,0
+Tadubi (st),49,ST,51,ST,N. Kayisii,Male,6,1.03%,Candidate Count,1657776,True,1001-2000,17115,42%,1,51-60,1,Won,1,1,40757,NPEP,State,National People's Party,S14,Manipur,17115,15816,2017,"1,299"
+Henglep (ST),57,ST,42,ST,Letzamang Haokip,Male,6,0.31%,Candidate Count,1657776,True,Upto 100,5146,22%,0,41-45,3,Lost,3,1,23782,NPEP,State,National People's Party,S14,Manipur,5146,5146,2017,0
+Saikul (st),46,ST,39,ST,Thangjamang Haokip,Male,10,0.17%,Candidate Count,1657776,True,Upto 100,2803,10%,0,36-40,6,Lost,6,1,29322,LJP,State,Lok Jan Shakti Party,S14,Manipur,2803,2803,2017,0
+Churachandpur (ST),58,ST,40,ST,Paukhansuan Khuptong,Male,3,0.39%,Candidate Count,1657776,True,Upto 100,6411,19%,0,36-40,3,Lost,3,1,33840,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,6411,6411,2017,0
+Chingai (st),45,ST,70,ST,N.K. Shimray,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,157,0%,0,61-70,4,Lost,4,1,32071,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,157,157,2017,0
+Tadubi (st),49,ST,49,ST,L. Hingba Thomas,Male,5,0.02%,Candidate Count,1657776,True,Upto 100,330,1%,0,46-50,5,Lost,5,1,40757,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,330,330,2017,0
+Henglep (ST),57,ST,50,ST,Mangcha Gangte,Male,5,0.08%,Candidate Count,1657776,True,Upto 100,1303,5%,0,46-50,4,Lost,4,1,23782,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,1303,1303,2017,0
+Churachandpur (ST),58,ST,36,ST,Thangbiaklian Hangzo,Male,5,0.22%,Candidate Count,1657776,True,Upto 100,3712,11%,0,36-40,4,Lost,4,1,33840,RPI(A),Unrecognised,Republican Party of India (A),S14,Manipur,3712,3712,2017,0
+Saikul (st),46,ST,57,ST,Doukhomang Khongsai,Male,7,0.24%,Candidate Count,1657776,True,Upto 100,4008,14%,0,51-60,4,Lost,4,1,29322,NEINDP,Unrecognised,North East India Development Party,S14,Manipur,4008,4008,2017,0
+Saikul (st),46,ST,68,ST,Letjam Singson,Male,8,0.00%,Candidate Count,1657776,True,Upto 100,67,0%,0,61-70,9,Lost,9,1,29322,MNDF,Unrecognised,Manipur National Democratic Front,S14,Manipur,67,67,2017,0
+Saikul (st),46,ST,52,ST,L. Samuel Kom,Male,9,0.03%,Candidate Count,1657776,True,Upto 100,464,2%,0,51-60,7,Lost,7,1,29322,RPI(A),Unrecognised,Republican Party of India (A),S14,Manipur,464,464,2017,0
+Mao (st),48,ST,66,ST,R. Haba Pao,Male,4,0.31%,Candidate Count,1657776,True,Upto 100,5101,10%,0,61-70,4,Lost,4,1,49216,IND,Independent,Independent,S14,Manipur,5101,5101,2017,0
+Tipaimukh (st),55,ST,33,ST,Ngurrivung,Male,4,0.01%,Candidate Count,1657776,True,Upto 100,132,1%,0,31-35,4,Lost,4,1,11798,IND,Independent,Independent,S14,Manipur,132,132,2017,0
+Phungyar (st),43,ST,58,ST,A.S. Hopingson,Male,5,0.03%,Candidate Count,1657776,True,Upto 100,452,2%,0,51-60,4,Lost,4,1,24956,IND,Independent,Independent,S14,Manipur,452,452,2017,0
+Karong (st),47,ST,62,ST,Solomon Vieno,Male,5,0.40%,Candidate Count,1657776,True,Upto 100,6553,15%,0,61-70,4,Lost,4,1,44096,IND,Independent,Independent,S14,Manipur,6553,6553,2017,0
+Thanlon (ST),56,ST,32,ST,P. Khamsanglian,Male,5,0.01%,Candidate Count,1657776,True,Upto 100,107,1%,0,31-35,5,Lost,5,1,13687,IND,Independent,Independent,S14,Manipur,107,107,2017,0
+Karong (st),47,ST,41,ST,Thaiba Sanii,Male,6,0.44%,Candidate Count,1657776,True,Upto 100,7322,17%,0,41-45,3,Lost,3,1,44096,IND,Independent,Independent,S14,Manipur,7322,7322,2017,0
+Churachandpur (ST),58,ST,40,ST,Chintwahlian @ C.T. Lian Guite,Male,6,0.18%,Candidate Count,1657776,True,Upto 100,3040,9%,0,36-40,5,Lost,5,1,33840,IND,Independent,Independent,S14,Manipur,3040,3040,2017,0
+Chandel (st),41,ST,47,ST,Ts Warngam,Male,7,0.73%,Candidate Count,1657776,True,Upto 100,12091,29%,0,46-50,2,Lost,2,1,42336,IND,Independent,Independent,S14,Manipur,12091,12091,2017,0
+Churachandpur (ST),58,ST,52,ST,Dr. D.K. Mang,Male,7,0.01%,Candidate Count,1657776,True,Upto 100,156,0%,0,51-60,7,Lost,7,1,33840,IND,Independent,Independent,S14,Manipur,156,156,2017,0
+Saikul (st),46,ST,41,ST,Kenn Raikhan,Male,11,0.00%,Candidate Count,1657776,True,Upto 100,45,0%,0,41-45,11,Lost,11,1,29322,IND,Independent,Independent,S14,Manipur,45,45,2017,0

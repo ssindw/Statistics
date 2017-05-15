@@ -1,0 +1,507 @@
+Constituency,Ac No,Const. Type,Cand Age,Cand Category,Cand Name,Gender,Cand Sl No,% of Vote Share,"""Candidate Count""",Total Votes (Overall),State Filter,Margin Bands,LOD: Cand Votes Polled,Cand Votes as % of Total Const Votes,winner count,Age Band,Candidate_Position (copy),Candidate_Position (group),Candidate Position,Count of Candidates (SNo),LOD: Const Votes Polled,Partyabbre,Partytype,Party Name,St Code,State,Total Votes Polled,Total Votes Polled (R),Year,Margin
+Porvorim,9,GEN,61,GEN,Fermeena P. Khaunte,Female,1,0.14%,Candidate Count,848861,TRUE,Upto 100,1217,7%,0,61-70,3,Lost,3,1,16631,NCP,National,Nationalist Congress Party,S05,Goa,1217,1217,2012,0
+Benaulim,32,GEN,32,GEN,Valanka Alemao,Female,1,0.91%,Candidate Count,848861,TRUE,Upto 100,7694,36%,0,31-35,2,Lost,2,1,21097,INC,National,Indian National Congress,S05,Goa,7694,7694,2012,0
+Taleigao,12,GEN,40,GEN,Jennifer A. Monserrate,Female,2,1.26%,Candidate Count,848861,TRUE,1001-2000,10682,51%,1,36-40,1,Won,1,1,20996,INC,National,Indian National Congress,S05,Goa,10682,9531,2012,"1,151"
+Siroda,22,GEN,52,GEN,Shaila Shenvi Borkar,Female,4,0.03%,Candidate Count,848861,TRUE,Upto 100,230,1%,0,51-60,4,Lost,4,1,22984,AITC,State,All India Trinamool Congress,S05,Goa,230,230,2012,0
+Taleigao,12,GEN,64,GEN,Annabelle Maria Pereira,Female,3,0.04%,Candidate Count,848861,TRUE,Upto 100,333,2%,0,61-70,3,Lost,3,1,20996,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,333,333,2012,0
+Cortalim,27,GEN,52,GEN,Nelly Rodrigues,Female,3,0.61%,Candidate Count,848861,TRUE,Upto 100,5158,25%,0,51-60,2,Lost,2,1,20422,GVP,Unrecognised,Goa Vikas Party,S05,Goa,5158,5158,2012,0
+Taleigao,12,GEN,34,GEN,Natty Po,Female,4,0.03%,Candidate Count,848861,TRUE,Upto 100,226,1%,0,31-35,4,Lost,4,1,20996,SJP(R),Unrecognised,Samajwadi Janata Party (Rashtriya),S05,Goa,226,226,2012,0
+Mapusa,5,GEN,33,GEN,Francisca De Souza,Female,4,0.03%,Candidate Count,848861,TRUE,Upto 100,280,1%,0,31-35,3,Lost,3,1,20209,IND,Independent,Independent,S05,Goa,280,280,2012,0
+Cumbarjua,15,GEN,65,GEN,Nirmala P. Sawant,Female,5,0.94%,Candidate Count,848861,TRUE,Upto 100,7981,40%,0,61-70,2,Lost,2,1,19817,IND,Independent,Independent,S05,Goa,7981,7981,2012,0
+Mandrem,1,GEN,48,GEN,Dayanand Raghunath Sopte,Male,1,1.00%,Candidate Count,848861,TRUE,Upto 100,8520,33%,0,46-50,2,Lost,2,1,25928,INC,National,Indian National Congress,S05,Goa,8520,8520,2012,0
+Bicholim,3,GEN,44,GEN,Manohar Pandurang Shirodkar,Male,1,0.64%,Candidate Count,848861,TRUE,Upto 100,5411,26%,0,41-45,3,Lost,3,1,20994,BJP,National,Bharatiya Janata Party,S05,Goa,5411,5411,2012,0
+Tivim,4,GEN,40,GEN,Kiran Mohan Kandolkar,Male,1,1.23%,Candidate Count,848861,TRUE,1001-2000,10473,52%,1,36-40,1,Won,1,1,20314,BJP,National,Bharatiya Janata Party,S05,Goa,10473,9361,2012,"1,112"
+Mapusa,5,GEN,38,GEN,Ashish Tulshidas Shirodkar,Male,1,0.56%,Candidate Count,848861,TRUE,Upto 100,4786,24%,0,36-40,2,Lost,2,1,20209,NCP,National,Nationalist Congress Party,S05,Goa,4786,4786,2012,0
+Siolim,6,GEN,56,GEN,Dayanand Mandrekar,Male,1,1.35%,Candidate Count,848861,TRUE,2001-5000,11430,53%,1,51-60,1,Won,1,1,21635,BJP,National,Bharatiya Janata Party,S05,Goa,11430,9259,2012,"2,171"
+Saligao,7,GEN,47,GEN,Dilip Parulekar,Male,1,1.19%,Candidate Count,848861,TRUE,5001-10000,10084,52%,1,46-50,1,Won,1,1,19409,BJP,National,Bharatiya Janata Party,S05,Goa,10084,4276,2012,"5,808"
+Calangute,8,GEN,49,GEN,Agnelo Nicholas Fernandes,Male,1,0.95%,Candidate Count,848861,TRUE,Upto 100,8022,44%,0,46-50,2,Lost,2,1,18348,INC,National,Indian National Congress,S05,Goa,8022,8022,2012,0
+Aldona,10,GEN,61,GEN,Dayanand G. Narvekar,Male,1,0.92%,Candidate Count,848861,TRUE,Upto 100,7839,39%,0,61-70,2,Lost,2,1,20289,INC,National,Indian National Congress,S05,Goa,7839,7839,2012,0
+Panaji,11,GEN,58,GEN,Christopher Fonseca,Male,1,0.05%,Candidate Count,848861,TRUE,Upto 100,383,2%,0,51-60,3,Lost,3,1,16763,CPI,National,Communist Party of India,S05,Goa,383,383,2012,0
+Taleigao,12,GEN,33,GEN,Dattaprasad Madhukar Naik,Male,1,1.12%,Candidate Count,848861,TRUE,Upto 100,9531,45%,0,31-35,2,Lost,2,1,20996,BJP,National,Bharatiya Janata Party,S05,Goa,9531,9531,2012,0
+St. Cruz,13,GEN,49,GEN,Atanasio J. Monserrate,Male,1,1.02%,Candidate Count,848861,TRUE,2001-5000,8644,40%,1,46-50,1,Won,1,1,21381,INC,National,Indian National Congress,S05,Goa,8644,6308,2012,"2,336"
+St. Andre,14,GEN,43,GEN,Francisco Silveira,Male,1,0.90%,Candidate Count,848861,TRUE,Upto 100,7599,44%,0,41-45,2,Lost,2,1,17209,INC,National,Indian National Congress,S05,Goa,7599,7599,2012,0
+Maem,16,GEN,49,GEN,Anant Shet,Male,1,1.42%,Candidate Count,848861,TRUE,5001-10000,12054,54%,1,46-50,1,Won,1,1,22411,BJP,National,Bharatiya Janata Party,S05,Goa,12054,6335,2012,"5,719"
+Sanquelim,17,GEN,38,GEN,Pramod  Sawant,Male,1,1.68%,Candidate Count,848861,TRUE,5001-10000,14255,66%,1,36-40,1,Won,1,1,21592,BJP,National,Bharatiya Janata Party,S05,Goa,14255,7337,2012,"6,918"
+Poriem,18,GEN,73,GEN,Pratapsingh  Raoji Rane,Male,1,1.62%,Candidate Count,848861,TRUE,2001-5000,13772,55%,1,>70,1,Won,1,1,24997,INC,National,Indian National Congress,S05,Goa,13772,11225,2012,"2,547"
+Valpoi,19,GEN,50,GEN,Satyavijay Subrai Naik,Male,1,1.12%,Candidate Count,848861,TRUE,Upto 100,9473,41%,0,46-50,2,Lost,2,1,23129,BJP,National,Bharatiya Janata Party,S05,Goa,9473,9473,2012,0
+Priol,20,GEN,40,GEN,Dhaku A. Madkaikar,Male,1,0.19%,Candidate Count,848861,TRUE,Upto 100,1625,7%,0,36-40,3,Lost,3,1,24668,INC,National,Indian National Congress,S05,Goa,1625,1625,2012,0
+Siroda,22,GEN,54,GEN,Mahadev Narayan Naik,Male,1,1.44%,Candidate Count,848861,TRUE,2001-5000,12216,53%,1,51-60,1,Won,1,1,22984,BJP,National,Bharatiya Janata Party,S05,Goa,12216,9954,2012,"2,262"
+Mormugao,24,GEN,48,GEN,Milind Sagun Naik,Male,1,0.87%,Candidate Count,848861,TRUE,101-1000,7419,46%,1,46-50,1,Won,1,1,16236,BJP,National,Bharatiya Janata Party,S05,Goa,7419,6506,2012,913
+Vasco-da-gama,25,GEN,53,GEN,Jose Filepe D'Souza,Male,1,0.82%,Candidate Count,848861,TRUE,Upto 100,6978,32%,0,51-60,2,Lost,2,1,21751,NCP,National,Nationalist Congress Party,S05,Goa,6978,6978,2012,0
+Dabolim,26,GEN,52,GEN,Mauvin Heliodoro Godinho,Male,1,0.88%,Candidate Count,848861,TRUE,101-1000,7468,49%,1,51-60,1,Won,1,1,15274,INC,National,Indian National Congress,S05,Goa,7468,6524,2012,944
+Nuvem,28,GEN,55,GEN,Aleixo Sequeira,Male,1,0.95%,Candidate Count,848861,TRUE,Upto 100,8092,37%,0,51-60,2,Lost,2,1,21597,INC,National,Indian National Congress,S05,Goa,8092,8092,2012,0
+Curtorim,29,GEN,43,GEN,Aleixo Reginaldo Lourenco,Male,1,1.32%,Candidate Count,848861,TRUE,2001-5000,11221,57%,1,41-45,1,Won,1,1,19647,INC,National,Indian National Congress,S05,Goa,11221,7152,2012,"4,069"
+Fatorda,30,GEN,40,GEN,Damodar (Damu) G. Naik,Male,1,0.99%,Candidate Count,848861,TRUE,Upto 100,8436,39%,0,36-40,2,Lost,2,1,21441,BJP,National,Bharatiya Janata Party,S05,Goa,8436,8436,2012,0
+Margao,31,GEN,57,GEN,Digambar Kamat,Male,1,1.42%,Candidate Count,848861,TRUE,2001-5000,12041,54%,1,51-60,1,Won,1,1,22149,INC,National,Indian National Congress,S05,Goa,12041,7589,2012,"4,452"
+Navelim,33,GEN,62,GEN,Churchill Alemao,Male,1,0.95%,Candidate Count,848861,TRUE,Upto 100,8086,43%,0,61-70,2,Lost,2,1,18780,INC,National,Indian National Congress,S05,Goa,8086,8086,2012,0
+Cuncolim,34,GEN,55,GEN,Alemao Joaquim,Male,1,0.76%,Candidate Count,848861,TRUE,Upto 100,6425,31%,0,51-60,2,Lost,2,1,20740,INC,National,Indian National Congress,S05,Goa,6425,6425,2012,0
+Velim,35,GEN,49,GEN,Filipe Nery Rodrigues,Male,1,0.97%,Candidate Count,848861,TRUE,Upto 100,8238,37%,0,46-50,2,Lost,2,1,22128,INC,National,Indian National Congress,S05,Goa,8238,8238,2012,0
+Quepem,36,GEN,40,GEN,Chandrakant Kavalekar,Male,1,1.30%,Candidate Count,848861,TRUE,5001-10000,10994,44%,1,36-40,1,Won,1,1,24861,INC,National,Indian National Congress,S05,Goa,10994,4621,2012,"6,373"
+Curchorem,37,GEN,39,GEN,Nilesh Cabral,Male,1,1.68%,Candidate Count,848861,TRUE,5001-10000,14299,72%,1,36-40,1,Won,1,1,19806,BJP,National,Bharatiya Janata Party,S05,Goa,14299,5507,2012,"8,792"
+Sanguem,39,GEN,28,GEN,Alemao Yuri,Male,1,0.82%,Candidate Count,848861,TRUE,Upto 100,6971,32%,0,Upto 30,2,Lost,2,1,21501,NCP,National,Nationalist Congress Party,S05,Goa,6971,6971,2012,0
+Canacona,40,GEN,60,GEN,Isidore Aleixinho Fernandes,Male,1,1.37%,Candidate Count,848861,TRUE,Upto 100,11624,44%,0,51-60,2,Lost,2,1,26589,INC,National,Indian National Congress,S05,Goa,11624,11624,2012,0
+Mandrem,1,GEN,56,GEN,Laxmikant Parsekar,Male,2,1.41%,Candidate Count,848861,TRUE,2001-5000,11955,46%,1,51-60,1,Won,1,1,25928,BJP,National,Bharatiya Janata Party,S05,Goa,11955,8520,2012,"3,435"
+Bicholim,3,GEN,48,GEN,Rajesh T. Patnekar,Male,2,0.77%,Candidate Count,848861,TRUE,Upto 100,6532,31%,0,46-50,2,Lost,2,1,20994,INC,National,Indian National Congress,S05,Goa,6532,6532,2012,0
+Tivim,4,GEN,48,GEN,Nilkanth Ramnath Halarnkar,Male,2,1.10%,Candidate Count,848861,TRUE,Upto 100,9361,46%,0,46-50,2,Lost,2,1,20314,NCP,National,Nationalist Congress Party,S05,Goa,9361,9361,2012,0
+Mapusa,5,GEN,57,GEN,Francis D'Souza,Male,2,1.76%,Candidate Count,848861,TRUE,10001-20000,14955,74%,1,51-60,1,Won,1,1,20209,BJP,National,Bharatiya Janata Party,S05,Goa,14955,4786,2012,"10,169"
+Siolim,6,GEN,53,GEN,Uday Dattaram Paliemkar,Male,2,1.09%,Candidate Count,848861,TRUE,Upto 100,9259,43%,0,51-60,2,Lost,2,1,21635,INC,National,Indian National Congress,S05,Goa,9259,9259,2012,0
+Saligao,7,GEN,47,GEN,Gajanan Rama Naik,Male,2,0.02%,Candidate Count,848861,TRUE,Upto 100,166,1%,0,46-50,7,Lost,7,1,19409,CPI,National,Communist Party of India,S05,Goa,166,166,2012,0
+Calangute,8,GEN,35,GEN,Michael Vincent Lobo,Male,2,1.17%,Candidate Count,848861,TRUE,1001-2000,9891,54%,1,31-35,1,Won,1,1,18348,BJP,National,Bharatiya Janata Party,S05,Goa,9891,8022,2012,"1,869"
+Porvorim,9,GEN,61,GEN,Govind Parvatkar,Male,2,0.83%,Candidate Count,848861,TRUE,Upto 100,7071,43%,0,61-70,2,Lost,2,1,16631,BJP,National,Bharatiya Janata Party,S05,Goa,7071,7071,2012,0
+Aldona,10,GEN,50,GEN,Ticlo Glenn J V A E Souza,Male,2,1.33%,Candidate Count,848861,TRUE,2001-5000,11315,56%,1,46-50,1,Won,1,1,20289,BJP,National,Bharatiya Janata Party,S05,Goa,11315,7839,2012,"3,476"
+Panaji,11,GEN,56,GEN,Manohar Parrikar,Male,2,1.31%,Candidate Count,848861,TRUE,5001-10000,11086,66%,1,51-60,1,Won,1,1,16763,BJP,National,Bharatiya Janata Party,S05,Goa,11086,5018,2012,"6,068"
+St. Andre,14,GEN,47,GEN,Vishnu Surya Naik Wagh,Male,2,1.04%,Candidate Count,848861,TRUE,1001-2000,8818,51%,1,46-50,1,Won,1,1,17209,BJP,National,Bharatiya Janata Party,S05,Goa,8818,7599,2012,"1,219"
+Maem,16,GEN,66,GEN,Kamlakant Gadekar,Male,2,0.03%,Candidate Count,848861,TRUE,Upto 100,225,1%,0,61-70,4,Lost,4,1,22411,CPM,National,Communist Party of India  (Marxist),S05,Goa,225,225,2012,0
+Sanquelim,17,GEN,48,GEN,Pratap Gauns,Male,2,0.86%,Candidate Count,848861,TRUE,Upto 100,7337,34%,0,46-50,2,Lost,2,1,21592,INC,National,Indian National Congress,S05,Goa,7337,7337,2012,0
+Poriem,18,GEN,39,GEN,Vishwajit Krishnarao Rane,Male,2,1.32%,Candidate Count,848861,TRUE,Upto 100,11225,45%,0,36-40,2,Lost,2,1,24997,BJP,National,Bharatiya Janata Party,S05,Goa,11225,11225,2012,0
+Valpoi,19,GEN,40,GEN,Vishwajit Pratapsingh Rane,Male,2,1.46%,Candidate Count,848861,TRUE,2001-5000,12412,54%,1,36-40,1,Won,1,1,23129,INC,National,Indian National Congress,S05,Goa,12412,9473,2012,"2,939"
+Ponda,21,GEN,65,GEN,Ravi Naik,Male,2,1.12%,Candidate Count,848861,TRUE,Upto 100,9472,41%,0,61-70,2,Lost,2,1,23230,INC,National,Indian National Congress,S05,Goa,9472,9472,2012,0
+Siroda,22,GEN,59,GEN,Subhash Ankush Shirodkar,Male,2,1.17%,Candidate Count,848861,TRUE,Upto 100,9954,43%,0,51-60,2,Lost,2,1,22984,INC,National,Indian National Congress,S05,Goa,9954,9954,2012,0
+Marcaim,23,GEN,35,GEN,Ritesh Naik,Male,2,0.91%,Candidate Count,848861,TRUE,Upto 100,7722,34%,0,31-35,2,Lost,2,1,22674,INC,National,Indian National Congress,S05,Goa,7722,7722,2012,0
+Mormugao,24,GEN,36,GEN,Sankalp Padmanabh Amonkar,Male,2,0.77%,Candidate Count,848861,TRUE,Upto 100,6506,40%,0,36-40,2,Lost,2,1,16236,INC,National,Indian National Congress,S05,Goa,6506,6506,2012,0
+Vasco-da-gama,25,GEN,48,GEN,Jose Luis Carlos Almeida,Male,2,1.35%,Candidate Count,848861,TRUE,2001-5000,11468,53%,1,46-50,1,Won,1,1,21751,BJP,National,Bharatiya Janata Party,S05,Goa,11468,6978,2012,"4,490"
+Cortalim,27,GEN,63,GEN,Matanhy Saldanha,Male,2,0.87%,Candidate Count,848861,TRUE,2001-5000,7427,36%,1,61-70,1,Won,1,1,20422,BJP,National,Bharatiya Janata Party,S05,Goa,7427,5158,2012,"2,269"
+Fatorda,30,GEN,65,GEN,M. K. Shaikh,Male,2,0.08%,Candidate Count,848861,TRUE,Upto 100,660,3%,0,61-70,5,Lost,5,1,21441,INC,National,Indian National Congress,S05,Goa,660,660,2012,0
+Margao,31,GEN,39,GEN,Mahatme Rupesh,Male,2,0.89%,Candidate Count,848861,TRUE,Upto 100,7589,34%,0,36-40,2,Lost,2,1,22149,BJP,National,Bharatiya Janata Party,S05,Goa,7589,7589,2012,0
+Cuncolim,34,GEN,59,GEN,Subhash Alias Rajan Kashinath Naik,Male,2,0.91%,Candidate Count,848861,TRUE,1001-2000,7738,37%,1,51-60,1,Won,1,1,20740,BJP,National,Bharatiya Janata Party,S05,Goa,7738,6425,2012,"1,313"
+Curchorem,37,GEN,45,GEN,Shyam Gopinath Satardekar,Male,2,0.65%,Candidate Count,848861,TRUE,Upto 100,5507,28%,0,41-45,2,Lost,2,1,19806,INC,National,Indian National Congress,S05,Goa,5507,5507,2012,0
+Sanvordem,38,GEN,56,GEN,Govind Sawant,Male,2,0.16%,Candidate Count,848861,TRUE,Upto 100,1328,6%,0,51-60,4,Lost,4,1,23344,INC,National,Indian National Congress,S05,Goa,1328,1328,2012,0
+Sanguem,39,GEN,46,GEN,Subhash  U. Phal Dessai,Male,2,0.88%,Candidate Count,848861,TRUE,101-1000,7454,35%,1,46-50,1,Won,1,1,21501,BJP,National,Bharatiya Janata Party,S05,Goa,7454,6971,2012,483
+Saligao,7,GEN,69,GEN,Suresh V. Parulekar,Male,3,0.20%,Candidate Count,848861,TRUE,Upto 100,1729,9%,0,61-70,3,Lost,3,1,19409,NCP,National,Nationalist Congress Party,S05,Goa,1729,1729,2012,0
+Panaji,11,GEN,45,GEN,Yatin Parekh,Male,3,0.59%,Candidate Count,848861,TRUE,Upto 100,5018,30%,0,41-45,2,Lost,2,1,16763,INC,National,Indian National Congress,S05,Goa,5018,5018,2012,0
+St. Cruz,13,GEN,48,GEN,Pedro Caitano Pires,Male,3,0.03%,Candidate Count,848861,TRUE,Upto 100,221,1%,0,46-50,4,Lost,4,1,21381,CPI,National,Communist Party of India,S05,Goa,221,221,2012,0
+Maem,16,GEN,43,GEN,Rudresh Chodankar,Male,3,0.42%,Candidate Count,848861,TRUE,Upto 100,3585,16%,0,41-45,3,Lost,3,1,22411,NCP,National,Nationalist Congress Party,S05,Goa,3585,3585,2012,0
+Ponda,21,GEN,55,GEN,Lavoo Mamledar,Male,1,1.49%,Candidate Count,848861,TRUE,2001-5000,12662,55%,1,51-60,1,Won,1,1,23230,MAG,State,Maharashtrawadi Gomantak,S05,Goa,12662,9472,2012,"3,190"
+Marcaim,23,GEN,55,GEN,Ramkrishna Alias Sudin Dhavalikar,Male,1,1.76%,Candidate Count,848861,TRUE,5001-10000,14952,66%,1,51-60,1,Won,1,1,22674,MAG,State,Maharashtrawadi Gomantak,S05,Goa,14952,7722,2012,"7,230"
+St. Cruz,13,GEN,43,GEN,Dinar Purshottam Kamat Tarcar,Male,2,0.69%,Candidate Count,848861,TRUE,Upto 100,5824,27%,0,41-45,3,Lost,3,1,21381,MAG,State,Maharashtrawadi Gomantak,S05,Goa,5824,5824,2012,0
+Priol,20,GEN,53,GEN,Pandurang Alias Deepak Dhavalikar,Male,2,1.44%,Candidate Count,848861,TRUE,2001-5000,12264,50%,1,51-60,1,Won,1,1,24668,MAG,State,Maharashtrawadi Gomantak,S05,Goa,12264,10164,2012,"2,100"
+Dabolim,26,GEN,35,GEN,Premanand Nanoskar,Male,2,0.77%,Candidate Count,848861,TRUE,Upto 100,6524,43%,0,31-35,2,Lost,2,1,15274,MAG,State,Maharashtrawadi Gomantak,S05,Goa,6524,6524,2012,0
+Nuvem,28,GEN,54,GEN,Prabhakar Rupo Gaude,Male,2,0.03%,Candidate Count,848861,TRUE,Upto 100,250,1%,0,51-60,5,Lost,5,1,21597,MAG,State,Maharashtrawadi Gomantak,S05,Goa,250,250,2012,0
+Navelim,33,GEN,57,GEN,Jose Paul Coutinho,Male,2,0.02%,Candidate Count,848861,TRUE,Upto 100,202,1%,0,51-60,4,Lost,4,1,18780,JD(U),State,Janata Dal  (United),S05,Goa,202,202,2012,0
+Velim,35,GEN,44,GEN,Michael Beny Da Costa,Male,2,0.04%,Candidate Count,848861,TRUE,Upto 100,340,2%,0,41-45,4,Lost,4,1,22128,AITC,State,All India Trinamool Congress,S05,Goa,340,340,2012,0
+Bicholim,3,GEN,65,GEN,Pandurang Dattaram Raut,Male,3,0.08%,Candidate Count,848861,TRUE,Upto 100,720,3%,0,61-70,4,Lost,4,1,20994,AITC,State,All India Trinamool Congress,S05,Goa,720,720,2012,0
+Tivim,4,GEN,64,GEN,Dattaram Govind Sawant,Male,3,0.01%,Candidate Count,848861,TRUE,Upto 100,109,1%,0,61-70,5,Lost,5,1,20314,SHS,State,Shivsena,S05,Goa,109,109,2012,0
+Mapusa,5,GEN,37,GEN,Mittu Mujavar,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,188,1%,0,36-40,4,Lost,4,1,20209,AITC,State,All India Trinamool Congress,S05,Goa,188,188,2012,0
+St. Andre,14,GEN,45,GEN,Milton S. Marshal,Male,3,0.04%,Candidate Count,848861,TRUE,Upto 100,352,2%,0,41-45,4,Lost,4,1,17209,AITC,State,All India Trinamool Congress,S05,Goa,352,352,2012,0
+Siroda,22,GEN,29,GEN,Savio Fernandes,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,162,1%,0,Upto 30,5,Lost,5,1,22984,SP,State,Samajwadi Party,S05,Goa,162,162,2012,0
+Dabolim,26,GEN,52,GEN,Pratap Mardolkar,Male,3,0.10%,Candidate Count,848861,TRUE,Upto 100,849,6%,0,51-60,3,Lost,3,1,15274,AITC,State,All India Trinamool Congress,S05,Goa,849,849,2012,0
+Curtorim,29,GEN,36,GEN,William D'Cruz,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,156,1%,0,36-40,5,Lost,5,1,19647,JD(U),State,Janata Dal  (United),S05,Goa,156,156,2012,0
+Margao,31,GEN,42,GEN,Coutinho Savio Hugo,Male,3,0.22%,Candidate Count,848861,TRUE,Upto 100,1873,8%,0,41-45,3,Lost,3,1,22149,AITC,State,All India Trinamool Congress,S05,Goa,1873,1873,2012,0
+Benaulim,32,GEN,36,GEN,John Fernandes,Male,3,0.15%,Candidate Count,848861,TRUE,Upto 100,1277,6%,0,36-40,4,Lost,4,1,21097,AITC,State,All India Trinamool Congress,S05,Goa,1277,1277,2012,0
+Cuncolim,34,GEN,44,GEN,Derick Dias,Male,3,0.01%,Candidate Count,848861,TRUE,Upto 100,85,0%,0,41-45,8,Lost,8,1,20740,JD(U),State,Janata Dal  (United),S05,Goa,85,85,2012,0
+Sanguem,39,GEN,56,GEN,Arun Krishna Raikar,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,134,1%,0,51-60,6,Lost,6,1,21501,AITC,State,All India Trinamool Congress,S05,Goa,134,134,2012,0
+Canacona,40,GEN,35,GEN,Sapnesh Desai,Male,3,0.08%,Candidate Count,848861,TRUE,Upto 100,637,2%,0,31-35,3,Lost,3,1,26589,AITC,State,All India Trinamool Congress,S05,Goa,637,637,2012,0
+Mandrem,1,GEN,42,GEN,Sameer Salgaocar,Male,4,0.54%,Candidate Count,848861,TRUE,Upto 100,4591,18%,0,41-45,3,Lost,3,1,25928,AITC,State,All India Trinamool Congress,S05,Goa,4591,4591,2012,0
+Siolim,6,GEN,32,GEN,Mukesh Madhukar Sawant,Male,4,0.01%,Candidate Count,848861,TRUE,Upto 100,66,0%,0,31-35,6,Lost,6,1,21635,SP,State,Samajwadi Party,S05,Goa,66,66,2012,0
+Aldona,10,GEN,84,GEN,Wilfred D'Souza,Male,4,0.08%,Candidate Count,848861,TRUE,Upto 100,643,3%,0,>70,3,Lost,3,1,20289,AITC,State,All India Trinamool Congress,S05,Goa,643,643,2012,0
+Panaji,11,GEN,45,GEN,Dominic Savio A. E.Fernandes,Male,4,0.02%,Candidate Count,848861,TRUE,Upto 100,172,1%,0,41-45,4,Lost,4,1,16763,JD(U),State,Janata Dal  (United),S05,Goa,172,172,2012,0
+Priol,20,GEN,63,GEN,Shashi Panjikar,Male,4,0.05%,Candidate Count,848861,TRUE,Upto 100,414,2%,0,61-70,4,Lost,4,1,24668,AITC,State,All India Trinamool Congress,S05,Goa,414,414,2012,0
+Ponda,21,GEN,27,GEN,Sayad Imtiyaz,Male,4,0.06%,Candidate Count,848861,TRUE,Upto 100,502,2%,0,Upto 30,3,Lost,3,1,23230,AITC,State,All India Trinamool Congress,S05,Goa,502,502,2012,0
+Mormugao,24,GEN,28,GEN,Jerry Fernandes,Male,4,0.04%,Candidate Count,848861,TRUE,Upto 100,346,2%,0,Upto 30,4,Lost,4,1,16236,AITC,State,All India Trinamool Congress,S05,Goa,346,346,2012,0
+Vasco-da-gama,25,GEN,30,GEN,Amindin Mulla,Male,4,0.04%,Candidate Count,848861,TRUE,Upto 100,328,2%,0,Upto 30,6,Lost,6,1,21751,AITC,State,All India Trinamool Congress,S05,Goa,328,328,2012,0
+Fatorda,30,GEN,52,GEN,Ashok Tukaram Korgaoker,Male,4,0.01%,Candidate Count,848861,TRUE,Upto 100,57,0%,0,51-60,6,Lost,6,1,21441,SP,State,Samajwadi Party,S05,Goa,57,57,2012,0
+Ponda,21,GEN,27,GEN,Vaibhav P Marathe,Male,5,0.01%,Candidate Count,848861,TRUE,Upto 100,91,0%,0,Upto 30,7,Lost,7,1,23230,SP,State,Samajwadi Party,S05,Goa,91,91,2012,0
+Mormugao,24,GEN,51,GEN,Shantaram Vasudev Paradkar,Male,5,0.00%,Candidate Count,848861,TRUE,Upto 100,37,0%,0,51-60,7,Lost,7,1,16236,SHS,State,Shivsena,S05,Goa,37,37,2012,0
+Vasco-da-gama,25,GEN,58,GEN,Gluck D'Souza,Male,5,0.01%,Candidate Count,848861,TRUE,Upto 100,104,0%,0,51-60,9,Lost,9,1,21751,JD(U),State,Janata Dal  (United),S05,Goa,104,104,2012,0
+Cortalim,27,GEN,47,GEN,Tolentino D'Souza,Male,5,0.09%,Candidate Count,848861,TRUE,Upto 100,728,4%,0,46-50,5,Lost,5,1,20422,AITC,State,All India Trinamool Congress,S05,Goa,728,728,2012,0
+Cuncolim,34,GEN,49,GEN,Mario Morais,Male,5,0.04%,Candidate Count,848861,TRUE,Upto 100,325,2%,0,46-50,6,Lost,6,1,20740,AITC,State,All India Trinamool Congress,S05,Goa,325,325,2012,0
+Vasco-da-gama,25,GEN,42,GEN,Jagdish Yadu Durbhatkar,Male,7,0.01%,Candidate Count,848861,TRUE,Upto 100,64,0%,0,41-45,11,Lost,11,1,21751,SHS,State,Shivsena,S05,Goa,64,64,2012,0
+Cumbarjua,15,GEN,45,GEN,Pramod Naik,Male,2,0.02%,Candidate Count,848861,TRUE,Upto 100,155,1%,0,41-45,4,Lost,4,1,19817,JMBP,Unrecognised,Jai Maha Bharath Party,S05,Goa,155,155,2012,0
+Curtorim,29,GEN,45,GEN,Conceicao Santano Dias,Male,2,0.06%,Candidate Count,848861,TRUE,Upto 100,515,3%,0,41-45,4,Lost,4,1,19647,UGDP,Unrecognised,United Goans Democratic Party,S05,Goa,515,515,2012,0
+Benaulim,32,GEN,52,GEN,Caetano R. Silva,Male,2,1.14%,Candidate Count,848861,TRUE,2001-5000,9695,46%,1,51-60,1,Won,1,1,21097,GVP,Unrecognised,Goa Vikas Party,S05,Goa,9695,7694,2012,"2,001"
+Mandrem,1,GEN,51,GEN,Menino Francis Monteiro,Male,3,0.03%,Candidate Count,848861,TRUE,Upto 100,295,1%,0,51-60,4,Lost,4,1,25928,GVP,Unrecognised,Goa Vikas Party,S05,Goa,295,295,2012,0
+Siolim,6,GEN,28,GEN,Abhijit Dhargalkar,Male,3,0.03%,Candidate Count,848861,TRUE,Upto 100,274,1%,0,Upto 30,4,Lost,4,1,21635,JMBP,Unrecognised,Jai Maha Bharath Party,S05,Goa,274,274,2012,0
+Porvorim,9,GEN,43,GEN,Raju D'Souza,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,139,1%,0,41-45,5,Lost,5,1,16631,SJP(R),Unrecognised,Samajwadi Janata Party (Rashtriya),S05,Goa,139,139,2012,0
+Aldona,10,GEN,60,GEN,Julius Pereira,Male,3,0.03%,Candidate Count,848861,TRUE,Upto 100,236,1%,0,51-60,5,Lost,5,1,20289,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,236,236,2012,0
+Priol,20,GEN,54,GEN,Rama Krishna Borkar,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,201,1%,0,51-60,5,Lost,5,1,24668,GVP,Unrecognised,Goa Vikas Party,S05,Goa,201,201,2012,0
+Ponda,21,GEN,31,GEN,Gitesh Gokuldas Naik,Male,3,0.03%,Candidate Count,848861,TRUE,Upto 100,223,1%,0,31-35,4,Lost,4,1,23230,UGDP,Unrecognised,United Goans Democratic Party,S05,Goa,223,223,2012,0
+Mormugao,24,GEN,46,GEN,Gopal Dattaram Chodankar,Male,3,0.01%,Candidate Count,848861,TRUE,Upto 100,64,0%,0,46-50,6,Lost,6,1,16236,JMBP,Unrecognised,Jai Maha Bharath Party,S05,Goa,64,64,2012,0
+Vasco-da-gama,25,GEN,45,GEN,Adam Abdulla Jumma,Male,3,0.06%,Candidate Count,848861,TRUE,Upto 100,489,2%,0,41-45,5,Lost,5,1,21751,UGDP,Unrecognised,United Goans Democratic Party,S05,Goa,489,489,2012,0
+Nuvem,28,GEN,47,GEN,Francisco Xavier Pacheco (Mickky),Male,3,1.45%,Candidate Count,848861,TRUE,2001-5000,12288,57%,1,46-50,1,Won,1,1,21597,GVP,Unrecognised,Goa Vikas Party,S05,Goa,12288,8092,2012,"4,196"
+Fatorda,30,GEN,44,GEN,Anwar Sayed,Male,3,0.01%,Candidate Count,848861,TRUE,Upto 100,45,0%,0,41-45,8,Lost,8,1,21441,AIMF,Unrecognised,All India Minorities Front,S05,Goa,45,45,2012,0
+Quepem,36,GEN,57,GEN,Colaco Manuel,Male,3,0.51%,Candidate Count,848861,TRUE,Upto 100,4356,18%,0,51-60,4,Lost,4,1,24861,UGDP,Unrecognised,United Goans Democratic Party,S05,Goa,4356,4356,2012,0
+Tivim,4,GEN,62,GEN,Deelip Datta Chodankar,Male,4,0.02%,Candidate Count,848861,TRUE,Upto 100,204,1%,0,61-70,3,Lost,3,1,20314,GVP,Unrecognised,Goa Vikas Party,S05,Goa,204,204,2012,0
+Saligao,7,GEN,34,GEN,Manoj Anand Sangodkar,Male,4,0.01%,Candidate Count,848861,TRUE,Upto 100,63,0%,0,31-35,10,Lost,10,1,19409,AIMF,Unrecognised,All India Minorities Front,S05,Goa,63,63,2012,0
+Cortalim,27,GEN,48,GEN,Ramakant Borkar,Male,4,0.44%,Candidate Count,848861,TRUE,Upto 100,3716,18%,0,46-50,3,Lost,3,1,20422,UGDP,Unrecognised,United Goans Democratic Party,S05,Goa,3716,3716,2012,0
+Cuncolim,34,GEN,54,GEN,Jose Alias Brany Fernandes,Male,4,0.06%,Candidate Count,848861,TRUE,Upto 100,543,3%,0,51-60,5,Lost,5,1,20740,UGDP,Unrecognised,United Goans Democratic Party,S05,Goa,543,543,2012,0
+Quepem,36,GEN,47,GEN,Joseph Gonsalves,Male,4,0.04%,Candidate Count,848861,TRUE,Upto 100,354,1%,0,46-50,5,Lost,5,1,24861,GVP,Unrecognised,Goa Vikas Party,S05,Goa,354,354,2012,0
+Sanguem,39,GEN,69,GEN,D'Costa Minguelino,Male,4,0.10%,Candidate Count,848861,TRUE,Upto 100,880,4%,0,61-70,4,Lost,4,1,21501,GVP,Unrecognised,Goa Vikas Party,S05,Goa,880,880,2012,0
+Mandrem,1,GEN,38,GEN,Sanjay Damu Kole,Male,5,0.03%,Candidate Count,848861,TRUE,Upto 100,275,1%,0,36-40,6,Lost,6,1,25928,SJP(R),Unrecognised,Samajwadi Janata Party (Rashtriya),S05,Goa,275,275,2012,0
+Siolim,6,GEN,43,GEN,Rajan Savlo Ghate,Male,5,0.04%,Candidate Count,848861,TRUE,Upto 100,352,2%,0,41-45,3,Lost,3,1,21635,SJP(R),Unrecognised,Samajwadi Janata Party (Rashtriya),S05,Goa,352,352,2012,0
+Vasco-da-gama,25,GEN,60,GEN,Hamza Issak Khan,Male,6,0.01%,Candidate Count,848861,TRUE,Upto 100,106,0%,0,51-60,8,Lost,8,1,21751,AIMF,Unrecognised,All India Minorities Front,S05,Goa,106,106,2012,0
+Vasco-da-gama,25,GEN,50,GEN,Mohammed Iqbal Shaikh,Male,8,0.07%,Candidate Count,848861,TRUE,Upto 100,600,3%,0,46-50,4,Lost,4,1,21751,GVP,Unrecognised,Goa Vikas Party,S05,Goa,600,600,2012,0
+Calangute,8,GEN,43,GEN,Ashley Francisco Gomes,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,195,1%,0,41-45,4,Lost,4,1,18348,IND,Independent,Independent,S05,Goa,195,195,2012,0
+Cumbarjua,15,GEN,34,GEN,Gaurish M. Dessai,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,129,1%,0,31-35,5,Lost,5,1,19817,IND,Independent,Independent,S05,Goa,129,129,2012,0
+Valpoi,19,GEN,51,GEN,Gajendranath Ramkrishna Usgaonkar,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,184,1%,0,51-60,5,Lost,5,1,23129,IND,Independent,Independent,S05,Goa,184,184,2012,0
+Navelim,33,GEN,46,GEN,Avertano Furtado,Male,3,1.21%,Candidate Count,848861,TRUE,2001-5000,10231,54%,1,46-50,1,Won,1,1,18780,IND,Independent,Independent,S05,Goa,10231,8086,2012,"2,145"
+Velim,35,GEN,46,GEN,Benjamin Silva,Male,3,1.55%,Candidate Count,848861,TRUE,2001-5000,13164,59%,1,46-50,1,Won,1,1,22128,IND,Independent,Independent,S05,Goa,13164,8238,2012,"4,926"
+Bicholim,3,GEN,46,GEN,Naresh Rajaram Sawal,Male,4,0.98%,Candidate Count,848861,TRUE,1001-2000,8331,40%,1,46-50,1,Won,1,1,20994,IND,Independent,Independent,S05,Goa,8331,6532,2012,"1,799"
+Calangute,8,GEN,37,GEN,Jose Paul Menino Silveira,Male,4,0.03%,Candidate Count,848861,TRUE,Upto 100,240,1%,0,36-40,3,Lost,3,1,18348,IND,Independent,Independent,S05,Goa,240,240,2012,0
+Porvorim,9,GEN,37,GEN,Rohan Khaunte,Male,4,0.94%,Candidate Count,848861,TRUE,101-1000,7972,48%,1,36-40,1,Won,1,1,16631,IND,Independent,Independent,S05,Goa,7972,7071,2012,901
+St. Cruz,13,GEN,46,GEN,Dinesh Nair,Male,4,0.01%,Candidate Count,848861,TRUE,Upto 100,79,0%,0,46-50,6,Lost,6,1,21381,IND,Independent,Independent,S05,Goa,79,79,2012,0
+St. Andre,14,GEN,45,GEN,Pradip Kumar Sangodkar,Male,4,0.05%,Candidate Count,848861,TRUE,Upto 100,440,3%,0,41-45,3,Lost,3,1,17209,IND,Independent,Independent,S05,Goa,440,440,2012,0
+Cumbarjua,15,GEN,47,GEN,Jose Bismarque Desidorio Dias,Male,4,0.24%,Candidate Count,848861,TRUE,Upto 100,1996,10%,0,46-50,3,Lost,3,1,19817,IND,Independent,Independent,S05,Goa,1996,1996,2012,0
+Maem,16,GEN,28,GEN,Deepkumar Mapari,Male,4,0.02%,Candidate Count,848861,TRUE,Upto 100,212,1%,0,Upto 30,5,Lost,5,1,22411,IND,Independent,Independent,S05,Goa,212,212,2012,0
+Valpoi,19,GEN,47,GEN,Ravindra Talaulikar,Male,4,0.03%,Candidate Count,848861,TRUE,Upto 100,255,1%,0,46-50,4,Lost,4,1,23129,IND,Independent,Independent,S05,Goa,255,255,2012,0
+Dabolim,26,GEN,72,GEN,Simon D'Souza,Male,4,0.05%,Candidate Count,848861,TRUE,Upto 100,433,3%,0,>70,4,Lost,4,1,15274,IND,Independent,Independent,S05,Goa,433,433,2012,0
+Nuvem,28,GEN,61,GEN,Abdul Aziz Hassansha Sayed,Male,4,0.06%,Candidate Count,848861,TRUE,Upto 100,482,2%,0,61-70,3,Lost,3,1,21597,IND,Independent,Independent,S05,Goa,482,482,2012,0
+Curtorim,29,GEN,45,GEN,Domnic Gaonkar,Male,4,0.84%,Candidate Count,848861,TRUE,Upto 100,7152,36%,0,41-45,2,Lost,2,1,19647,IND,Independent,Independent,S05,Goa,7152,7152,2012,0
+Margao,31,GEN,39,GEN,Cedric Isidorio D'Costa,Male,4,0.03%,Candidate Count,848861,TRUE,Upto 100,250,1%,0,36-40,5,Lost,5,1,22149,IND,Independent,Independent,S05,Goa,250,250,2012,0
+Benaulim,32,GEN,35,GEN,Ashley Francis Dias,Male,4,0.03%,Candidate Count,848861,TRUE,Upto 100,289,1%,0,31-35,5,Lost,5,1,21097,IND,Independent,Independent,S05,Goa,289,289,2012,0
+Navelim,33,GEN,32,GEN,Iliyas Shaikh,Male,4,0.03%,Candidate Count,848861,TRUE,Upto 100,261,1%,0,31-35,3,Lost,3,1,18780,IND,Independent,Independent,S05,Goa,261,261,2012,0
+Velim,35,GEN,31,GEN,Cliffton Desouza,Male,4,0.05%,Candidate Count,848861,TRUE,Upto 100,386,2%,0,31-35,3,Lost,3,1,22128,IND,Independent,Independent,S05,Goa,386,386,2012,0
+Sanvordem,38,GEN,36,GEN,Arjun Anil Salgaocar,Male,4,0.98%,Candidate Count,848861,TRUE,Upto 100,8294,36%,0,36-40,2,Lost,2,1,23344,IND,Independent,Independent,S05,Goa,8294,8294,2012,0
+Tivim,4,GEN,55,GEN,Indrakant Dattaram Korgaonkar,Male,5,0.02%,Candidate Count,848861,TRUE,Upto 100,167,1%,0,51-60,4,Lost,4,1,20314,IND,Independent,Independent,S05,Goa,167,167,2012,0
+Saligao,7,GEN,46,GEN,Alex Camil Rodrigues,Male,5,0.01%,Candidate Count,848861,TRUE,Upto 100,65,0%,0,46-50,9,Lost,9,1,19409,IND,Independent,Independent,S05,Goa,65,65,2012,0
+Porvorim,9,GEN,51,GEN,Umesh Sukha Narvekar,Male,5,0.03%,Candidate Count,848861,TRUE,Upto 100,232,1%,0,51-60,4,Lost,4,1,16631,IND,Independent,Independent,S05,Goa,232,232,2012,0
+Aldona,10,GEN,57,GEN,Ravindra Vasudev Panjikar,Male,5,0.03%,Candidate Count,848861,TRUE,Upto 100,256,1%,0,51-60,4,Lost,4,1,20289,IND,Independent,Independent,S05,Goa,256,256,2012,0
+Panaji,11,GEN,27,GEN,Balaram Karishetty,Male,5,0.01%,Candidate Count,848861,TRUE,Upto 100,104,1%,0,Upto 30,5,Lost,5,1,16763,IND,Independent,Independent,S05,Goa,104,104,2012,0
+Taleigao,12,GEN,32,GEN,Sanjay C. Korgaonkar,Male,5,0.01%,Candidate Count,848861,TRUE,Upto 100,81,0%,0,31-35,6,Lost,6,1,20996,IND,Independent,Independent,S05,Goa,81,81,2012,0
+St. Cruz,13,GEN,49,GEN,Heney Lobo,Male,5,0.00%,Candidate Count,848861,TRUE,Upto 100,42,0%,0,46-50,8,Lost,8,1,21381,IND,Independent,Independent,S05,Goa,42,42,2012,0
+Maem,16,GEN,45,GEN,Pravin Zantye,Male,5,0.75%,Candidate Count,848861,TRUE,Upto 100,6335,28%,0,41-45,2,Lost,2,1,22411,IND,Independent,Independent,S05,Goa,6335,6335,2012,0
+Valpoi,19,GEN,64,GEN,Venkatesh Atmaram Dessai,Male,5,0.09%,Candidate Count,848861,TRUE,Upto 100,805,3%,0,61-70,3,Lost,3,1,23129,IND,Independent,Independent,S05,Goa,805,805,2012,0
+Priol,20,GEN,40,GEN,Govind Gaude,Male,5,1.20%,Candidate Count,848861,TRUE,Upto 100,10164,41%,0,36-40,2,Lost,2,1,24668,IND,Independent,Independent,S05,Goa,10164,10164,2012,0
+Siroda,22,GEN,41,GEN,Vishwas Prabhudesai,Male,5,0.05%,Candidate Count,848861,TRUE,Upto 100,422,2%,0,41-45,3,Lost,3,1,22984,IND,Independent,Independent,S05,Goa,422,422,2012,0
+Nuvem,28,GEN,45,GEN,Marcos Menino D'Souza,Male,5,0.03%,Candidate Count,848861,TRUE,Upto 100,279,1%,0,41-45,4,Lost,4,1,21597,IND,Independent,Independent,S05,Goa,279,279,2012,0
+Curtorim,29,GEN,40,GEN,Raju Krishnamurthy Iyer,Male,5,0.07%,Candidate Count,848861,TRUE,Upto 100,603,3%,0,36-40,3,Lost,3,1,19647,IND,Independent,Independent,S05,Goa,603,603,2012,0
+Margao,31,GEN,61,GEN,Ivo Almeida Coutinho,Male,5,0.05%,Candidate Count,848861,TRUE,Upto 100,396,2%,0,61-70,4,Lost,4,1,22149,IND,Independent,Independent,S05,Goa,396,396,2012,0
+Benaulim,32,GEN,53,GEN,Humberto Gomes,Male,5,0.21%,Candidate Count,848861,TRUE,Upto 100,1775,8%,0,51-60,3,Lost,3,1,21097,IND,Independent,Independent,S05,Goa,1775,1775,2012,0
+Quepem,36,GEN,59,GEN,Prakash Shankar Velip,Male,5,0.54%,Candidate Count,848861,TRUE,Upto 100,4621,19%,0,51-60,2,Lost,2,1,24861,IND,Independent,Independent,S05,Goa,4621,4621,2012,0
+Sanvordem,38,GEN,40,GEN,Ramnath Alias Deepak Prabhu,Male,5,0.33%,Candidate Count,848861,TRUE,Upto 100,2828,12%,0,36-40,3,Lost,3,1,23344,IND,Independent,Independent,S05,Goa,2828,2828,2012,0
+Mandrem,1,GEN,65,GEN,Sanjay Prabhu Dessai,Male,6,0.03%,Candidate Count,848861,TRUE,Upto 100,292,1%,0,61-70,5,Lost,5,1,25928,IND,Independent,Independent,S05,Goa,292,292,2012,0
+Siolim,6,GEN,57,GEN,Ratikant Shankar Korgaonkar,Male,6,0.03%,Candidate Count,848861,TRUE,Upto 100,254,1%,0,51-60,5,Lost,5,1,21635,IND,Independent,Independent,S05,Goa,254,254,2012,0
+Saligao,7,GEN,47,GEN,D'Souza Tulio,Male,6,0.50%,Candidate Count,848861,TRUE,Upto 100,4276,22%,0,46-50,2,Lost,2,1,19409,IND,Independent,Independent,S05,Goa,4276,4276,2012,0
+Taleigao,12,GEN,54,GEN,Vasudev Narayan Sharma,Male,6,0.02%,Candidate Count,848861,TRUE,Upto 100,143,1%,0,51-60,5,Lost,5,1,20996,IND,Independent,Independent,S05,Goa,143,143,2012,0
+St. Cruz,13,GEN,38,GEN,Jose Lopes,Male,6,0.01%,Candidate Count,848861,TRUE,Upto 100,74,0%,0,36-40,7,Lost,7,1,21381,IND,Independent,Independent,S05,Goa,74,74,2012,0
+Ponda,21,GEN,32,GEN,John Mascarenhas,Male,6,0.01%,Candidate Count,848861,TRUE,Upto 100,91,0%,0,31-35,6,Lost,6,1,23230,IND,Independent,Independent,S05,Goa,91,91,2012,0
+Mormugao,24,GEN,39,GEN,Narayan Ramchandra Kandu,Male,6,0.02%,Candidate Count,848861,TRUE,Upto 100,154,1%,0,36-40,5,Lost,5,1,16236,IND,Independent,Independent,S05,Goa,154,154,2012,0
+Nuvem,28,GEN,65,GEN,Peter Francisco Dourado,Male,6,0.02%,Candidate Count,848861,TRUE,Upto 100,206,1%,0,61-70,6,Lost,6,1,21597,IND,Independent,Independent,S05,Goa,206,206,2012,0
+Fatorda,30,GEN,48,GEN,Arthur D'Silva,Male,6,0.13%,Candidate Count,848861,TRUE,Upto 100,1126,5%,0,46-50,3,Lost,3,1,21441,IND,Independent,Independent,S05,Goa,1126,1126,2012,0
+Benaulim,32,GEN,55,GEN,Subhash Shivnath Chodankar,Male,6,0.01%,Candidate Count,848861,TRUE,Upto 100,122,1%,0,51-60,7,Lost,7,1,21097,IND,Independent,Independent,S05,Goa,122,122,2012,0
+Cuncolim,34,GEN,35,GEN,John Inacio Monteiro,Male,6,0.57%,Candidate Count,848861,TRUE,Upto 100,4830,23%,0,31-35,3,Lost,3,1,20740,IND,Independent,Independent,S05,Goa,4830,4830,2012,0
+Sanguem,39,GEN,51,GEN,Eddie De Souza Tavares,Male,6,0.03%,Candidate Count,848861,TRUE,Upto 100,227,1%,0,51-60,5,Lost,5,1,21501,IND,Independent,Independent,S05,Goa,227,227,2012,0
+Saligao,7,GEN,47,GEN,Francisco Colaco,Male,7,0.14%,Candidate Count,848861,TRUE,Upto 100,1192,6%,0,46-50,4,Lost,4,1,19409,IND,Independent,Independent,S05,Goa,1192,1192,2012,0
+St. Cruz,13,GEN,50,GEN,Rodolfo Louis Fernandes,Male,7,0.74%,Candidate Count,848861,TRUE,Upto 100,6308,30%,0,46-50,2,Lost,2,1,21381,IND,Independent,Independent,S05,Goa,6308,6308,2012,0
+Ponda,21,GEN,63,GEN,Mohan Govind Naik,Male,7,0.02%,Candidate Count,848861,TRUE,Upto 100,189,1%,0,61-70,5,Lost,5,1,23230,IND,Independent,Independent,S05,Goa,189,189,2012,0
+Mormugao,24,GEN,42,GEN,Nazir Khan,Male,7,0.20%,Candidate Count,848861,TRUE,Upto 100,1710,11%,0,41-45,3,Lost,3,1,16236,IND,Independent,Independent,S05,Goa,1710,1710,2012,0
+Fatorda,30,GEN,56,GEN,Dias Jawahar,Male,7,0.01%,Candidate Count,848861,TRUE,Upto 100,47,0%,0,51-60,7,Lost,7,1,21441,IND,Independent,Independent,S05,Goa,47,47,2012,0
+Benaulim,32,GEN,69,GEN,P. Xavier George,Male,7,0.03%,Candidate Count,848861,TRUE,Upto 100,245,1%,0,61-70,6,Lost,6,1,21097,IND,Independent,Independent,S05,Goa,245,245,2012,0
+Cuncolim,34,GEN,50,GEN,Milagres Gonsalves,Male,7,0.07%,Candidate Count,848861,TRUE,Upto 100,603,3%,0,46-50,4,Lost,4,1,20740,IND,Independent,Independent,S05,Goa,603,603,2012,0
+Sanguem,39,GEN,35,GEN,Prasad Shashikant Gaonkar,Male,7,0.68%,Candidate Count,848861,TRUE,Upto 100,5737,27%,0,31-35,3,Lost,3,1,21501,IND,Independent,Independent,S05,Goa,5737,5737,2012,0
+Saligao,7,GEN,25,GEN,Osbert Manuel D'Cunha,Male,8,0.01%,Candidate Count,848861,TRUE,Upto 100,74,0%,0,Upto 30,8,Lost,8,1,19409,IND,Independent,Independent,S05,Goa,74,74,2012,0
+St. Cruz,13,GEN,49,GEN,Xavier Cardo,Male,8,0.02%,Candidate Count,848861,TRUE,Upto 100,189,1%,0,46-50,5,Lost,5,1,21381,IND,Independent,Independent,S05,Goa,189,189,2012,0
+Fatorda,30,GEN,41,GEN,Vijai Sardesai,Male,8,1.22%,Candidate Count,848861,TRUE,1001-2000,10375,48%,1,41-45,1,Won,1,1,21441,IND,Independent,Independent,S05,Goa,10375,8436,2012,"1,939"
+Cuncolim,34,GEN,37,GEN,Rony Rodrigues,Male,8,0.02%,Candidate Count,848861,TRUE,Upto 100,191,1%,0,36-40,7,Lost,7,1,20740,IND,Independent,Independent,S05,Goa,191,191,2012,0
+Saligao,7,GEN,47,GEN,Paul Fernandes,Male,9,0.13%,Candidate Count,848861,TRUE,Upto 100,1135,6%,0,46-50,5,Lost,5,1,19409,IND,Independent,Independent,S05,Goa,1135,1135,2012,0
+Vasco-da-gama,25,GEN,48,GEN,G. Karl Vaz,Male,9,0.16%,Candidate Count,848861,TRUE,Upto 100,1394,6%,0,46-50,3,Lost,3,1,21751,IND,Independent,Independent,S05,Goa,1394,1394,2012,0
+Saligao,7,GEN,60,GEN,Trajano D'Mello,Male,10,0.07%,Candidate Count,848861,TRUE,Upto 100,625,3%,0,51-60,6,Lost,6,1,19409,IND,Independent,Independent,S05,Goa,625,625,2012,0
+Vasco-da-gama,25,GEN,42,GEN,Prashant Mahadev Vastha,Male,10,0.01%,Candidate Count,848861,TRUE,Upto 100,77,0%,0,41-45,10,Lost,10,1,21751,IND,Independent,Independent,S05,Goa,77,77,2012,0
+Vasco-da-gama,25,GEN,41,GEN,Stanley C.Almeida,Male,11,0.02%,Candidate Count,848861,TRUE,Upto 100,143,1%,0,41-45,7,Lost,7,1,21751,IND,Independent,Independent,S05,Goa,143,143,2012,0
+Fatorda,30,GEN,45,ST,Piedade Noronha E Silva,Female,5,0.08%,Candidate Count,848861,TRUE,Upto 100,695,3%,0,41-45,4,Lost,4,1,21441,AITC,State,All India Trinamool Congress,S05,Goa,695,695,2012,0
+Cumbarjua,15,GEN,47,ST,Pandurang A. Madkaikar,Male,1,1.13%,Candidate Count,848861,TRUE,1001-2000,9556,48%,1,46-50,1,Won,1,1,19817,INC,National,Indian National Congress,S05,Goa,9556,7981,2012,"1,575"
+Cortalim,27,GEN,48,ST,Caitan Xavier,Male,1,0.40%,Candidate Count,848861,TRUE,Upto 100,3393,17%,0,46-50,4,Lost,4,1,20422,INC,National,Indian National Congress,S05,Goa,3393,3393,2012,0
+Sanvordem,38,GEN,53,ST,Ganesh Chandru Gaonkar,Male,1,1.25%,Candidate Count,848861,TRUE,2001-5000,10585,45%,1,51-60,1,Won,1,1,23344,BJP,National,Bharatiya Janata Party,S05,Goa,10585,8294,2012,"2,291"
+Canacona,40,GEN,44,ST,Ramesh Bombo Tawadkar,Male,2,1.69%,Candidate Count,848861,TRUE,2001-5000,14328,54%,1,41-45,1,Won,1,1,26589,BJP,National,Bharatiya Janata Party,S05,Goa,14328,11624,2012,"2,704"
+Sanvordem,38,GEN,34,ST,Prashant Budho Gaonkar,Male,3,0.04%,Candidate Count,848861,TRUE,Upto 100,309,1%,0,31-35,5,Lost,5,1,23344,CPM,National,Communist Party of India  (Marxist),S05,Goa,309,309,2012,0
+Quepem,36,GEN,35,ST,Prakash Arjun Velip,Male,2,0.53%,Candidate Count,848861,TRUE,Upto 100,4536,18%,0,31-35,3,Lost,3,1,24861,MAG,State,Maharashtrawadi Gomantak,S05,Goa,4536,4536,2012,0
+Sanguem,39,GEN,35,ST,Sudesh N. Gaonkar,Male,5,0.01%,Candidate Count,848861,TRUE,Upto 100,98,0%,0,31-35,7,Lost,7,1,21501,SP,State,Samajwadi Party,S05,Goa,98,98,2012,0
+Pernem,2,SC,58,SC,Manohar Trimbak Ajgaoankar,Male,1,0.95%,Candidate Count,848861,TRUE,Upto 100,8053,31%,0,51-60,2,Lost,2,1,25890,INC,National,Indian National Congress,S05,Goa,8053,8053,2012,0
+Pernem,2,SC,56,SC,Rajendra Arlekar,Male,2,1.93%,Candidate Count,848861,TRUE,5001-10000,16406,63%,1,51-60,1,Won,1,1,25890,BJP,National,Bharatiya Janata Party,S05,Goa,16406,8053,2012,"8,353"
+Pernem,2,SC,37,SC,Kanta Sabaji Jadhav,Male,3,0.02%,Candidate Count,848861,TRUE,Upto 100,151,1%,0,36-40,5,Lost,5,1,25890,AITC,State,All India Trinamool Congress,S05,Goa,151,151,2012,0
+Pernem,2,SC,68,SC,Manohar Rajaram Pednekar,Male,4,0.01%,Candidate Count,848861,TRUE,Upto 100,96,0%,0,61-70,6,Lost,6,1,25890,SJP(R),Unrecognised,Samajwadi Janata Party (Rashtriya),S05,Goa,96,96,2012,0
+Pernem,2,SC,38,SC,Santosh Shankar Mandrekar,Male,5,0.01%,Candidate Count,848861,TRUE,Upto 100,50,0%,0,36-40,9,Lost,9,1,25890,UGDP,Unrecognised,United Goans Democratic Party,S05,Goa,50,50,2012,0
+Pernem,2,SC,35,SC,Shyam Bablo Amonkar,Male,6,0.01%,Candidate Count,848861,TRUE,Upto 100,57,0%,0,31-35,8,Lost,8,1,25890,RPI(A),Unrecognised,Republican Party of India (A),S05,Goa,57,57,2012,0
+Pernem,2,SC,36,SC,Rajan Kambli,Male,7,0.01%,Candidate Count,848861,TRUE,Upto 100,61,0%,0,36-40,7,Lost,7,1,25890,IND,Independent,Independent,S05,Goa,61,61,2012,0
+Pernem,2,SC,61,SC,Sakharam Vishram Korgaonkar,Male,8,0.02%,Candidate Count,848861,TRUE,Upto 100,192,1%,0,61-70,4,Lost,4,1,25890,IND,Independent,Independent,S05,Goa,192,192,2012,0
+Pernem,2,SC,37,SC,Subhash Barkelo Kerkar,Male,9,0.10%,Candidate Count,848861,TRUE,Upto 100,824,3%,0,36-40,3,Lost,3,1,25890,IND,Independent,Independent,S05,Goa,824,824,2012,0
+Cortalim,27,GEN,64,GEN,Alina Saldanha,Female,1,0.62%,Candidate Count,916216,TRUE,101-1000,5666,24%,1,61-70,1,Won,1,1,23486,BJP,National,Bharatiya Janata Party,S05,Goa,5666,5148,2017,518
+Sanguem,39,GEN,32,GEN,Rakhi Naik,Female,1,0.01%,Candidate Count,916216,TRUE,Upto 100,125,1%,0,31-35,9,Lost,9,1,22683,NCP,National,Nationalist Congress Party,S05,Goa,125,125,2017,0
+Taleigao,12,GEN,46,GEN,Jennifer Monserrate,Female,2,1.26%,Candidate Count,916216,TRUE,2001-5000,11534,51%,1,46-50,1,Won,1,1,22556,INC,National,Indian National Congress,S05,Goa,11534,8679,2017,"2,855"
+Sanguem,39,GEN,37,GEN,Savitri Kavlekar,Female,2,0.63%,Candidate Count,916216,TRUE,Upto 100,5736,25%,0,36-40,3,Lost,3,1,22683,INC,National,Indian National Congress,S05,Goa,5736,5736,2017,0
+Marcaim,23,GEN,40,GEN,Urmila Alias Vindiksha Vinod Naik,Female,3,0.14%,Candidate Count,916216,TRUE,Upto 100,1259,5%,0,36-40,3,Lost,3,1,23356,INC,National,Indian National Congress,S05,Goa,1259,1259,2017,0
+Taleigao,12,GEN,34,GEN,Cecille Rodrigues,Female,3,0.22%,Candidate Count,916216,TRUE,Upto 100,1976,9%,0,31-35,3,Lost,3,1,22556,AAAP,State,Aam Aadmi Party,S05,Goa,1976,1976,2017,0
+Cortalim,27,GEN,41,GEN,Suman Sharma,Female,3,0.01%,Candidate Count,916216,TRUE,Upto 100,75,0%,0,41-45,10,Lost,10,1,23486,MAG,State,Maharashtrawadi Gomantak,S05,Goa,75,75,2017,0
+Aldona,10,GEN,49,GEN,Rosy Ursula D'Souza,Female,5,0.36%,Candidate Count,916216,TRUE,Upto 100,3272,15%,0,46-50,3,Lost,3,1,21606,AAAP,State,Aam Aadmi Party,S05,Goa,3272,3272,2017,0
+Benaulim,32,GEN,37,GEN,Royla Clarina Fernandes,Female,5,0.46%,Candidate Count,916216,TRUE,Upto 100,4182,20%,0,36-40,2,Lost,2,1,21314,AAAP,State,Aam Aadmi Party,S05,Goa,4182,4182,2017,0
+Mapusa,5,GEN,33,GEN,Shraddha Khalap,Female,6,0.25%,Candidate Count,916216,TRUE,Upto 100,2321,10%,0,31-35,4,Lost,4,1,22764,AAAP,State,Aam Aadmi Party,S05,Goa,2321,2321,2017,0
+Vasco-da-gama,25,GEN,62,GEN,Loretta Shreedharan,Female,6,0.10%,Candidate Count,916216,TRUE,Upto 100,928,4%,0,61-70,5,Lost,5,1,26099,AAAP,State,Aam Aadmi Party,S05,Goa,928,928,2017,0
+Benaulim,32,GEN,48,GEN,Maria Da Luz Arlinda Gomes E Rebelo,Female,4,0.05%,Candidate Count,916216,TRUE,Upto 100,492,2%,0,46-50,6,Lost,6,1,21314,GVP,Unrecognised,Goa Vikas Party,S05,Goa,492,492,2017,0
+Mapusa,5,GEN,27,GEN,Rameshwari Morajkar,Female,5,0.01%,Candidate Count,916216,TRUE,Upto 100,103,0%,0,Upto 30,8,Lost,8,1,22764,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,103,103,2017,0
+Cortalim,27,GEN,56,GEN,Nelly Rodrigues,Female,5,0.37%,Candidate Count,916216,TRUE,Upto 100,3380,14%,0,51-60,4,Lost,4,1,23486,GVP,Unrecognised,Goa Vikas Party,S05,Goa,3380,3380,2017,0
+Siroda,22,GEN,39,GEN,Diya Chandrakant Shetkar,Female,5,0.02%,Candidate Count,916216,TRUE,Upto 100,140,1%,0,36-40,7,Lost,7,1,24624,IND,Independent,Independent,S05,Goa,140,140,2017,0
+Mormugao,24,GEN,37,GEN,Maria Liberata Mendonca,Female,5,0.00%,Candidate Count,916216,TRUE,Upto 100,31,0%,0,36-40,7,Lost,7,1,17340,IND,Independent,Independent,S05,Goa,31,31,2017,0
+St. Cruz,13,GEN,46,GEN,Helena Lourenco,Female,7,0.02%,Candidate Count,916216,TRUE,Upto 100,227,1%,0,46-50,7,Lost,7,1,22215,IND,Independent,Independent,S05,Goa,227,227,2017,0
+Benaulim,32,GEN,61,GEN,Judith Aurelia Baptista Almeida Alias Judith Almeida,Female,7,0.04%,Candidate Count,916216,TRUE,Upto 100,357,2%,0,61-70,7,Lost,7,1,21314,IND,Independent,Independent,S05,Goa,357,357,2017,0
+Dabolim,26,GEN,61,GEN,Tara Govind Kerkar,Female,9,0.01%,Candidate Count,916216,TRUE,Upto 100,124,1%,0,61-70,8,Lost,8,1,17473,IND,Independent,Independent,S05,Goa,124,124,2017,0
+Mandrem,1,GEN,53,GEN,Dayanand Raghunath Sopte,Male,1,1.80%,Candidate Count,916216,TRUE,5001-10000,16490,59%,1,51-60,1,Won,1,1,27966,INC,National,Indian National Congress,S05,Goa,16490,9371,2017,"7,119"
+Bicholim,3,GEN,50,GEN,Manohar Pandurang Shirodkar,Male,1,0.19%,Candidate Count,916216,TRUE,Upto 100,1761,8%,0,46-50,3,Lost,3,1,23306,INC,National,Indian National Congress,S05,Goa,1761,1761,2017,0
+Tivim,4,GEN,42,GEN,Douglas Lawrence Sequeira,Male,1,0.03%,Candidate Count,916216,TRUE,Upto 100,275,1%,0,41-45,4,Lost,4,1,22560,NCP,National,Nationalist Congress Party,S05,Goa,275,275,2017,0
+Mapusa,5,GEN,62,GEN,Francisco C. J. A. De Pinto E Souza,Male,1,1.20%,Candidate Count,916216,TRUE,5001-10000,10957,48%,1,61-70,1,Won,1,1,22764,BJP,National,Bharatiya Janata Party,S05,Goa,10957,4129,2017,"6,828"
+Siolim,6,GEN,33,GEN,Abhijit Dhargalkar,Male,1,0.03%,Candidate Count,916216,TRUE,Upto 100,275,1%,0,31-35,6,Lost,6,1,23496,NCP,National,Nationalist Congress Party,S05,Goa,275,275,2017,0
+Saligao,7,GEN,54,GEN,Agnelo Nicholas Fernandes,Male,1,0.18%,Candidate Count,916216,TRUE,Upto 100,1616,8%,0,51-60,3,Lost,3,1,21028,INC,National,Indian National Congress,S05,Goa,1616,1616,2017,0
+Calangute,8,GEN,56,GEN,Joseph Robert Sequeira,Male,1,0.80%,Candidate Count,916216,TRUE,Upto 100,7311,36%,0,51-60,2,Lost,2,1,20084,INC,National,Indian National Congress,S05,Goa,7311,7311,2017,0
+Porvorim,9,GEN,43,GEN,Guruprasad R. Pawaskar,Male,1,0.76%,Candidate Count,916216,TRUE,Upto 100,6961,35%,0,41-45,2,Lost,2,1,19656,BJP,National,Bharatiya Janata Party,S05,Goa,6961,6961,2017,0
+Aldona,10,GEN,49,GEN,Amarnath Panjikar,Male,1,0.54%,Candidate Count,916216,TRUE,Upto 100,4949,23%,0,46-50,2,Lost,2,1,21606,INC,National,Indian National Congress,S05,Goa,4949,4949,2017,0
+Panaji,11,GEN,50,GEN,Dominic Savio A. E. Fernandes,Male,1,0.01%,Candidate Count,916216,TRUE,Upto 100,62,0%,0,46-50,6,Lost,6,1,17339,NCP,National,Nationalist Congress Party,S05,Goa,62,62,2017,0
+Taleigao,12,GEN,38,GEN,Dattaprasad Naik,Male,1,0.95%,Candidate Count,916216,TRUE,Upto 100,8679,38%,0,36-40,2,Lost,2,1,22556,BJP,National,Bharatiya Janata Party,S05,Goa,8679,8679,2017,0
+St. Cruz,13,GEN,51,GEN,Antonio Caetano  Fernandes,Male,1,0.68%,Candidate Count,916216,TRUE,101-1000,6202,28%,1,51-60,1,Won,1,1,22215,INC,National,Indian National Congress,S05,Goa,6202,5560,2017,642
+St. Andre,14,GEN,40,GEN,Dattaram Naguesh Chari,Male,1,0.04%,Candidate Count,916216,TRUE,Upto 100,325,2%,0,36-40,6,Lost,6,1,16554,NCP,National,Nationalist Congress Party,S05,Goa,325,325,2017,0
+Maem,16,GEN,50,GEN,Pravin  Zantye,Male,1,1.36%,Candidate Count,916216,TRUE,2001-5000,12430,52%,1,46-50,1,Won,1,1,24108,BJP,National,Bharatiya Janata Party,S05,Goa,12430,7456,2017,"4,974"
+Sanquelim,17,GEN,41,GEN,Dharmesh Saglani,Male,1,0.87%,Candidate Count,916216,TRUE,Upto 100,7927,33%,0,41-45,2,Lost,2,1,23700,INC,National,Indian National Congress,S05,Goa,7927,7927,2017,0
+Poriem,18,GEN,78,GEN,Pratapsingh R Rane,Male,1,1.63%,Candidate Count,916216,TRUE,2001-5000,14977,54%,1,>70,1,Won,1,1,27596,INC,National,Indian National Congress,S05,Goa,14977,10911,2017,"4,066"
+Valpoi,19,GEN,55,GEN,Satyavijay Subrai Naik,Male,1,0.85%,Candidate Count,916216,TRUE,Upto 100,7815,31%,0,51-60,2,Lost,2,1,25326,BJP,National,Bharatiya Janata Party,S05,Goa,7815,7815,2017,0
+Marcaim,23,GEN,51,GEN,Pradeep Pundalik Shet,Male,1,0.37%,Candidate Count,916216,TRUE,Upto 100,3413,15%,0,51-60,2,Lost,2,1,23356,BJP,National,Bharatiya Janata Party,S05,Goa,3413,3413,2017,0
+Mormugao,24,GEN,54,GEN,Milind Sagun Naik,Male,1,0.92%,Candidate Count,916216,TRUE,101-1000,8466,49%,1,51-60,1,Won,1,1,17340,BJP,National,Bharatiya Janata Party,S05,Goa,8466,8326,2017,140
+Vasco-da-gama,25,GEN,60,GEN,Jose Filipe De Sousa,Male,1,0.46%,Candidate Count,916216,TRUE,Upto 100,4202,16%,0,51-60,3,Lost,3,1,26099,NCP,National,Nationalist Congress Party,S05,Goa,4202,4202,2017,0
+Dabolim,26,GEN,53,GEN,Francisco Jose Nunes,Male,1,0.30%,Candidate Count,916216,TRUE,Upto 100,2752,16%,0,51-60,3,Lost,3,1,17473,INC,National,Indian National Congress,S05,Goa,2752,2752,2017,0
+Nuvem,28,GEN,58,GEN,Vincent Rodrigues,Male,1,0.31%,Candidate Count,916216,TRUE,Upto 100,2880,13%,0,51-60,4,Lost,4,1,21447,NCP,National,Nationalist Congress Party,S05,Goa,2880,2880,2017,0
+Curtorim,29,GEN,47,GEN,Aleixo Reginaldo Lourenco,Male,1,1.40%,Candidate Count,916216,TRUE,5001-10000,12841,60%,1,46-50,1,Won,1,1,21303,INC,National,Indian National Congress,S05,Goa,12841,5144,2017,"7,697"
+Fatorda,30,GEN,45,GEN,Damu G. Naik,Male,1,1.00%,Candidate Count,916216,TRUE,Upto 100,9182,40%,0,41-45,2,Lost,2,1,23038,BJP,National,Bharatiya Janata Party,S05,Goa,9182,9182,2017,0
+Margao,31,GEN,62,GEN,Digambar Vasant Kamat,Male,1,1.32%,Candidate Count,916216,TRUE,2001-5000,12105,54%,1,61-70,1,Won,1,1,22353,INC,National,Indian National Congress,S05,Goa,12105,7929,2017,"4,176"
+Benaulim,32,GEN,67,GEN,Churchill Alemao,Male,1,1.02%,Candidate Count,916216,TRUE,5001-10000,9373,44%,1,61-70,1,Won,1,1,21314,NCP,National,Nationalist Congress Party,S05,Goa,9373,4182,2017,"5,191"
+Navelim,33,GEN,65,GEN,Luizinho Faleiro,Male,1,0.89%,Candidate Count,916216,TRUE,2001-5000,8183,38%,1,61-70,1,Won,1,1,21351,INC,National,Indian National Congress,S05,Goa,8183,5705,2017,"2,478"
+Cuncolim,34,GEN,46,GEN,Clafasio Dias,Male,1,0.70%,Candidate Count,916216,TRUE,Upto 100,6415,29%,1,46-50,1,Won,1,1,22440,INC,National,Indian National Congress,S05,Goa,6415,6382,2017,33
+Velim,35,GEN,54,GEN,Filipe Nery Rodrigues,Male,1,1.14%,Candidate Count,916216,TRUE,5001-10000,10417,44%,1,51-60,1,Won,1,1,23527,INC,National,Indian National Congress,S05,Goa,10417,5164,2017,"5,253"
+Quepem,36,GEN,45,GEN,Chandrakant (Babu) Kavlekar,Male,1,1.48%,Candidate Count,916216,TRUE,2001-5000,13525,51%,1,41-45,1,Won,1,1,26662,INC,National,Indian National Congress,S05,Goa,13525,10933,2017,"2,592"
+Curchorem,37,GEN,44,GEN,Nilesh Cabral,Male,1,1.40%,Candidate Count,916216,TRUE,5001-10000,12830,59%,1,41-45,1,Won,1,1,21668,BJP,National,Bharatiya Janata Party,S05,Goa,12830,3742,2017,"9,088"
+Mandrem,1,GEN,60,GEN,Laxmikant Parsekar,Male,2,1.02%,Candidate Count,916216,TRUE,Upto 100,9371,34%,0,51-60,2,Lost,2,1,27966,BJP,National,Bharatiya Janata Party,S05,Goa,9371,9371,2017,0
+Tivim,4,GEN,45,GEN,Kiran Mohan Kandolkar,Male,2,1.12%,Candidate Count,916216,TRUE,Upto 100,10304,46%,0,41-45,2,Lost,2,1,22560,BJP,National,Bharatiya Janata Party,S05,Goa,10304,10304,2017,0
+Mapusa,5,GEN,52,GEN,Sanjay Vithu Barde,Male,2,0.03%,Candidate Count,916216,TRUE,Upto 100,289,1%,0,51-60,7,Lost,7,1,22764,NCP,National,Nationalist Congress Party,S05,Goa,289,289,2017,0
+Siolim,6,GEN,60,GEN,Dayanand Rayu Mandrekar,Male,2,0.95%,Candidate Count,916216,TRUE,Upto 100,8748,37%,0,51-60,2,Lost,2,1,23496,BJP,National,Bharatiya Janata Party,S05,Goa,8748,8748,2017,0
+Saligao,7,GEN,52,GEN,Dilip Parulekar,Male,2,0.83%,Candidate Count,916216,TRUE,Upto 100,7598,36%,0,51-60,2,Lost,2,1,21028,BJP,National,Bharatiya Janata Party,S05,Goa,7598,7598,2017,0
+Calangute,8,GEN,40,GEN,Michael Vincent Lobo,Male,2,1.22%,Candidate Count,916216,TRUE,2001-5000,11136,55%,1,36-40,1,Won,1,1,20084,BJP,National,Bharatiya Janata Party,S05,Goa,11136,7311,2017,"3,825"
+Aldona,10,GEN,54,GEN,Glenn Souza Ticlo,Male,2,1.03%,Candidate Count,916216,TRUE,2001-5000,9405,44%,1,51-60,1,Won,1,1,21606,BJP,National,Bharatiya Janata Party,S05,Goa,9405,4949,2017,"4,456"
+Panaji,11,GEN,41,GEN,Sidharth Sripad Kuncalienker,Male,2,0.86%,Candidate Count,916216,TRUE,1001-2000,7924,46%,1,41-45,1,Won,1,1,17339,BJP,National,Bharatiya Janata Party,S05,Goa,7924,6855,2017,"1,069"
+St. Cruz,13,GEN,49,GEN,Hemant Dinanath Golatkar,Male,2,0.61%,Candidate Count,916216,TRUE,Upto 100,5560,25%,0,46-50,2,Lost,2,1,22215,BJP,National,Bharatiya Janata Party,S05,Goa,5560,5560,2017,0
+St. Andre,14,GEN,48,GEN,Francisco Silveira,Male,2,0.88%,Candidate Count,916216,TRUE,5001-10000,8087,49%,1,46-50,1,Won,1,1,16554,INC,National,Indian National Congress,S05,Goa,8087,3017,2017,"5,070"
+Cumbarjua,15,GEN,37,GEN,Xavier Fialho,Male,2,0.43%,Candidate Count,916216,TRUE,Upto 100,3961,19%,0,36-40,2,Lost,2,1,20556,INC,National,Indian National Congress,S05,Goa,3961,3961,2017,0
+Maem,16,GEN,43,GEN,Santosh Kumar Sawant,Male,2,0.81%,Candidate Count,916216,TRUE,Upto 100,7456,31%,0,41-45,2,Lost,2,1,24108,INC,National,Indian National Congress,S05,Goa,7456,7456,2017,0
+Sanquelim,17,GEN,43,GEN,Dr. Pramod Pandurang Sawant,Male,2,1.10%,Candidate Count,916216,TRUE,2001-5000,10058,42%,1,41-45,1,Won,1,1,23700,BJP,National,Bharatiya Janata Party,S05,Goa,10058,7927,2017,"2,131"
+Ponda,21,GEN,70,GEN,Ravi Sitaram Naik,Male,2,1.04%,Candidate Count,916216,TRUE,2001-5000,9502,38%,1,61-70,1,Won,1,1,25095,INC,National,Indian National Congress,S05,Goa,9502,6492,2017,"3,010"
+Siroda,22,GEN,58,GEN,Mahadev Narayan Naik,Male,2,0.69%,Candidate Count,916216,TRUE,Upto 100,6286,26%,0,51-60,2,Lost,2,1,24624,BJP,National,Bharatiya Janata Party,S05,Goa,6286,6286,2017,0
+Mormugao,24,GEN,41,GEN,Sankalp Amonkar,Male,2,0.91%,Candidate Count,916216,TRUE,Upto 100,8326,48%,0,41-45,2,Lost,2,1,17340,INC,National,Indian National Congress,S05,Goa,8326,8326,2017,0
+Vasco-da-gama,25,GEN,53,GEN,Jose Luis Carlos Almeida,Male,2,0.96%,Candidate Count,916216,TRUE,1001-2000,8765,34%,1,51-60,1,Won,1,1,26099,BJP,National,Bharatiya Janata Party,S05,Goa,8765,7414,2017,"1,351"
+Dabolim,26,GEN,47,GEN,Kritesh Naik Gaunkar,Male,2,0.11%,Candidate Count,916216,TRUE,Upto 100,1043,6%,0,46-50,5,Lost,5,1,17473,NCP,National,Nationalist Congress Party,S05,Goa,1043,1043,2017,0
+Cortalim,27,GEN,38,GEN,Gilbert Mariano Rodrigues,Male,2,0.47%,Candidate Count,916216,TRUE,Upto 100,4326,18%,0,36-40,3,Lost,3,1,23486,INC,National,Indian National Congress,S05,Goa,4326,4326,2017,0
+Nuvem,28,GEN,49,GEN,Wilfred D'Sa,Male,2,1.09%,Candidate Count,916216,TRUE,5001-10000,9967,46%,1,46-50,1,Won,1,1,21447,INC,National,Indian National Congress,S05,Goa,9967,4307,2017,"5,660"
+Curtorim,29,GEN,53,GEN,Arthur D’Silva,Male,2,0.56%,Candidate Count,916216,TRUE,Upto 100,5144,24%,0,51-60,2,Lost,2,1,21303,BJP,National,Bharatiya Janata Party,S05,Goa,5144,5144,2017,0
+Fatorda,30,GEN,41,GEN,Jose D'Silva,Male,2,0.15%,Candidate Count,916216,TRUE,Upto 100,1414,6%,0,41-45,4,Lost,4,1,23038,INC,National,Indian National Congress,S05,Goa,1414,1414,2017,0
+Benaulim,32,GEN,45,GEN,Edwino Barreto,Male,2,0.24%,Candidate Count,916216,TRUE,Upto 100,2157,10%,0,41-45,4,Lost,4,1,21314,INC,National,Indian National Congress,S05,Goa,2157,2157,2017,0
+Cuncolim,34,GEN,63,GEN,Subhash Alias Rajan K. Naik,Male,2,0.55%,Candidate Count,916216,TRUE,Upto 100,5047,22%,0,61-70,3,Lost,3,1,22440,BJP,National,Bharatiya Janata Party,S05,Goa,5047,5047,2017,0
+Velim,35,GEN,47,GEN,Frederick Borges,Male,2,0.01%,Candidate Count,916216,TRUE,Upto 100,108,0%,0,46-50,10,Lost,10,1,23527,NCP,National,Nationalist Congress Party,S05,Goa,108,108,2017,0
+Quepem,36,GEN,63,GEN,Prakash Shankar Velip,Male,2,1.19%,Candidate Count,916216,TRUE,Upto 100,10933,41%,0,61-70,2,Lost,2,1,26662,BJP,National,Bharatiya Janata Party,S05,Goa,10933,10933,2017,0
+Curchorem,37,GEN,68,GEN,Rosario Mariano Fernandes,Male,2,0.30%,Candidate Count,916216,TRUE,Upto 100,2778,13%,0,61-70,3,Lost,3,1,21668,INC,National,Indian National Congress,S05,Goa,2778,2778,2017,0
+Canacona,40,GEN,65,GEN,Isidore Aleixinho Fernandes,Male,2,1.18%,Candidate Count,916216,TRUE,2001-5000,10853,38%,1,61-70,1,Won,1,1,28489,INC,National,Indian National Congress,S05,Goa,10853,8745,2017,"2,108"
+Mandrem,1,GEN,49,GEN,Rajendra M. Satelkar,Male,3,0.03%,Candidate Count,916216,TRUE,Upto 100,234,1%,0,46-50,6,Lost,6,1,27966,NCP,National,Nationalist Congress Party,S05,Goa,234,234,2017,0
+Bicholim,3,GEN,53,GEN,Rajesh Patnekar,Male,3,1.16%,Candidate Count,916216,TRUE,101-1000,10654,46%,1,51-60,1,Won,1,1,23306,BJP,National,Bharatiya Janata Party,S05,Goa,10654,9988,2017,666
+Tivim,4,GEN,54,GEN,Nilkanth Ramnath Halarnkar,Male,3,1.21%,Candidate Count,916216,TRUE,101-1000,11099,49%,1,51-60,1,Won,1,1,22560,INC,National,Indian National Congress,S05,Goa,11099,10304,2017,795
+Mapusa,5,GEN,44,GEN,Vijay Laxman Bhike,Male,3,0.33%,Candidate Count,916216,TRUE,Upto 100,3013,13%,0,41-45,3,Lost,3,1,22764,INC,National,Indian National Congress,S05,Goa,3013,3013,2017,0
+Saligao,7,GEN,53,GEN,Gajanan Rama Naik,Male,3,0.02%,Candidate Count,916216,TRUE,Upto 100,150,1%,0,51-60,7,Lost,7,1,21028,CPI,National,Communist Party of India,S05,Goa,150,150,2017,0
+St. Cruz,13,GEN,53,GEN,Pedro Caitano Pires Alias Peter Pires,Male,3,0.01%,Candidate Count,916216,TRUE,Upto 100,106,0%,0,51-60,8,Lost,8,1,22215,CPI,National,Communist Party of India,S05,Goa,106,106,2017,0
+Maem,16,GEN,39,GEN,Subhash Narsinha Kinalkar,Male,3,0.06%,Candidate Count,916216,TRUE,Upto 100,528,2%,0,36-40,4,Lost,4,1,24108,NCP,National,Nationalist Congress Party,S05,Goa,528,528,2017,0
+Sanquelim,17,GEN,53,GEN,Pratap Prabhakar Gauns,Male,3,0.09%,Candidate Count,916216,TRUE,Upto 100,857,4%,0,51-60,4,Lost,4,1,23700,NCP,National,Nationalist Congress Party,S05,Goa,857,857,2017,0
+Poriem,18,GEN,44,GEN,Vishwajit Krishnarao Rane,Male,3,1.19%,Candidate Count,916216,TRUE,Upto 100,10911,40%,0,41-45,2,Lost,2,1,27596,BJP,National,Bharatiya Janata Party,S05,Goa,10911,10911,2017,0
+Valpoi,19,GEN,45,GEN,Vishwajit Pratapsingh Rane,Male,3,1.47%,Candidate Count,916216,TRUE,5001-10000,13493,53%,1,41-45,1,Won,1,1,25326,INC,National,Indian National Congress,S05,Goa,13493,7815,2017,"5,678"
+Ponda,21,GEN,56,GEN,Sunil Desai,Male,3,0.71%,Candidate Count,916216,TRUE,Upto 100,6492,26%,0,51-60,2,Lost,2,1,25095,BJP,National,Bharatiya Janata Party,S05,Goa,6492,6492,2017,0
+Siroda,22,GEN,64,GEN,Subhash Ankush Shirodkar,Male,3,1.22%,Candidate Count,916216,TRUE,2001-5000,11156,45%,1,61-70,1,Won,1,1,24624,INC,National,Indian National Congress,S05,Goa,11156,6286,2017,"4,870"
+Dabolim,26,GEN,57,GEN,Mauvin Heliodoro Godinho,Male,3,0.79%,Candidate Count,916216,TRUE,2001-5000,7234,41%,1,51-60,1,Won,1,1,17473,BJP,National,Bharatiya Janata Party,S05,Goa,7234,4740,2017,"2,494"
+Margao,31,GEN,39,GEN,Sharmad Raiturkar,Male,3,0.87%,Candidate Count,916216,TRUE,Upto 100,7929,35%,0,36-40,2,Lost,2,1,22353,BJP,National,Bharatiya Janata Party,S05,Goa,7929,7929,2017,0
+Velim,35,GEN,43,GEN,Vinay Tari,Male,3,0.19%,Candidate Count,916216,TRUE,Upto 100,1765,8%,0,41-45,4,Lost,4,1,23527,BJP,National,Bharatiya Janata Party,S05,Goa,1765,1765,2017,0
+Sanvordem,38,GEN,57,GEN,Shankar Kirlapalkar,Male,3,0.11%,Candidate Count,916216,TRUE,Upto 100,991,4%,0,51-60,3,Lost,3,1,25377,INC,National,Indian National Congress,S05,Goa,991,991,2017,0
+Sanguem,39,GEN,50,GEN,Subhash Phal Dessai,Male,3,0.73%,Candidate Count,916216,TRUE,Upto 100,6699,30%,0,46-50,2,Lost,2,1,22683,BJP,National,Bharatiya Janata Party,S05,Goa,6699,6699,2017,0
+Canacona,40,GEN,54,GEN,Vijay Pai Khot,Male,3,0.95%,Candidate Count,916216,TRUE,Upto 100,8745,31%,0,51-60,2,Lost,2,1,28489,BJP,National,Bharatiya Janata Party,S05,Goa,8745,8745,2017,0
+Aldona,10,GEN,30,GEN,Osbert D'Cunha,Male,4,0.02%,Candidate Count,916216,TRUE,Upto 100,141,1%,0,Upto 30,7,Lost,7,1,21606,NCP,National,Nationalist Congress Party,S05,Goa,141,141,2017,0
+St. Andre,14,GEN,50,GEN,Ramrao Surya Naik Wagh,Male,4,0.33%,Candidate Count,916216,TRUE,Upto 100,3017,18%,0,46-50,2,Lost,2,1,16554,BJP,National,Bharatiya Janata Party,S05,Goa,3017,3017,2017,0
+Vasco-da-gama,25,GEN,45,GEN,Saifula Khan,Male,4,0.41%,Candidate Count,916216,TRUE,Upto 100,3737,14%,0,41-45,4,Lost,4,1,26099,INC,National,Indian National Congress,S05,Goa,3737,3737,2017,0
+St. Cruz,13,GEN,47,GEN,Shakeel Jamal Shaikh,Male,5,0.01%,Candidate Count,916216,TRUE,Upto 100,75,0%,0,46-50,9,Lost,9,1,22215,NCP,National,Nationalist Congress Party,S05,Goa,75,75,2017,0
+Priol,20,GEN,58,GEN,Pandurang Alias Deepak Madhav Dhavalikar,Male,1,1.14%,Candidate Count,916216,TRUE,Upto 100,10463,39%,0,51-60,2,Lost,2,1,26945,MAG,State,Maharashtrawadi Gomantak,S05,Goa,10463,10463,2017,0
+Ponda,21,GEN,60,GEN,Lavoo Mamledar,Male,1,0.41%,Candidate Count,916216,TRUE,Upto 100,3796,15%,0,51-60,4,Lost,4,1,25095,MAG,State,Maharashtrawadi Gomantak,S05,Goa,3796,3796,2017,0
+Siroda,22,GEN,45,GEN,Abhay Ramchandra Prabhu,Male,1,0.63%,Candidate Count,916216,TRUE,Upto 100,5815,24%,0,41-45,3,Lost,3,1,24624,MAG,State,Maharashtrawadi Gomantak,S05,Goa,5815,5815,2017,0
+Sanvordem,38,GEN,43,GEN,Deepak Prabhu Pauskar,Male,1,1.59%,Candidate Count,916216,TRUE,5001-10000,14575,57%,1,41-45,1,Won,1,1,25377,MAG,State,Maharashtrawadi Gomantak,S05,Goa,14575,9354,2017,"5,221"
+Canacona,40,GEN,33,GEN,Gourish Bandekar,Male,1,0.04%,Candidate Count,916216,TRUE,Upto 100,398,1%,0,31-35,5,Lost,5,1,28489,MAG,State,Maharashtrawadi Gomantak,S05,Goa,398,398,2017,0
+Bicholim,3,GEN,51,GEN,Naresh Sawal,Male,2,1.09%,Candidate Count,916216,TRUE,Upto 100,9988,43%,0,51-60,2,Lost,2,1,23306,MAG,State,Maharashtrawadi Gomantak,S05,Goa,9988,9988,2017,0
+Porvorim,9,GEN,46,GEN,Rajesh Vishnu Sinai Amonkar Alias Rajesh Amonkar,Male,2,0.02%,Candidate Count,916216,TRUE,Upto 100,222,1%,0,46-50,4,Lost,4,1,19656,MAG,State,Maharashtrawadi Gomantak,S05,Goa,222,222,2017,0
+Poriem,18,GEN,53,GEN,Suhas Gajanan Naik,Male,2,0.05%,Candidate Count,916216,TRUE,Upto 100,469,2%,0,51-60,4,Lost,4,1,27596,MAG,State,Maharashtrawadi Gomantak,S05,Goa,469,469,2017,0
+Valpoi,19,GEN,41,GEN,Vijay Atmaram Gaonkar,Male,2,0.35%,Candidate Count,916216,TRUE,Upto 100,3246,13%,0,41-45,3,Lost,3,1,25326,MAG,State,Maharashtrawadi Gomantak,S05,Goa,3246,3246,2017,0
+Marcaim,23,GEN,60,GEN,Ramkrishna Alias Sudin Dhavalikar,Male,2,1.87%,Candidate Count,916216,TRUE,10001-20000,17093,73%,1,51-60,1,Won,1,1,23356,MAG,State,Maharashtrawadi Gomantak,S05,Goa,17093,3413,2017,"13,680"
+Margao,31,GEN,43,GEN,Jayesh Raghunath Naik,Male,2,0.02%,Candidate Count,916216,TRUE,Upto 100,216,1%,0,41-45,5,Lost,5,1,22353,MAG,State,Maharashtrawadi Gomantak,S05,Goa,216,216,2017,0
+Navelim,33,GEN,48,GEN,Satyaviajay Naik,Male,2,0.20%,Candidate Count,916216,TRUE,Upto 100,1798,8%,0,46-50,4,Lost,4,1,21351,MAG,State,Maharashtrawadi Gomantak,S05,Goa,1798,1798,2017,0
+Calangute,8,GEN,34,GEN,Godwin Fernandes,Male,3,0.16%,Candidate Count,916216,TRUE,Upto 100,1465,7%,0,31-35,3,Lost,3,1,20084,AAAP,State,Aam Aadmi Party,S05,Goa,1465,1465,2017,0
+Porvorim,9,GEN,45,GEN,Rajesh Valvaikar,Male,3,0.09%,Candidate Count,916216,TRUE,Upto 100,846,4%,0,41-45,3,Lost,3,1,19656,AAAP,State,Aam Aadmi Party,S05,Goa,846,846,2017,0
+Aldona,10,GEN,38,GEN,Mahesh Vithu Satelkar,Male,3,0.33%,Candidate Count,916216,TRUE,Upto 100,3000,14%,0,36-40,4,Lost,4,1,21606,MAG,State,Maharashtrawadi Gomantak,S05,Goa,3000,3000,2017,0
+St. Andre,14,GEN,47,GEN,Jagdish Umakant Bhobe,Male,3,0.26%,Candidate Count,916216,TRUE,Upto 100,2393,14%,0,46-50,3,Lost,3,1,16554,MAG,State,Maharashtrawadi Gomantak,S05,Goa,2393,2393,2017,0
+Cumbarjua,15,GEN,54,GEN,Prakash Dattaram Naik,Male,3,0.26%,Candidate Count,916216,TRUE,Upto 100,2394,12%,0,51-60,3,Lost,3,1,20556,AAAP,State,Aam Aadmi Party,S05,Goa,2394,2394,2017,0
+Priol,20,GEN,64,GEN,Dr. Dattaram B. Dessai,Male,3,0.05%,Candidate Count,916216,TRUE,Upto 100,456,2%,0,61-70,3,Lost,3,1,26945,AAAP,State,Aam Aadmi Party,S05,Goa,456,456,2017,0
+Mormugao,24,GEN,53,GEN,Giovanni Karl Vaz,Male,3,0.03%,Candidate Count,916216,TRUE,Upto 100,267,2%,0,51-60,3,Lost,3,1,17340,AAAP,State,Aam Aadmi Party,S05,Goa,267,267,2017,0
+Vasco-da-gama,25,GEN,47,GEN,Manesh Chandrakant Arolkar,Male,3,0.07%,Candidate Count,916216,TRUE,Upto 100,654,3%,0,46-50,6,Lost,6,1,26099,MAG,State,Maharashtrawadi Gomantak,S05,Goa,654,654,2017,0
+Curtorim,29,GEN,50,GEN,Conceicao Dias,Male,3,0.03%,Candidate Count,916216,TRUE,Upto 100,240,1%,0,46-50,5,Lost,5,1,21303,MAG,State,Maharashtrawadi Gomantak,S05,Goa,240,240,2017,0
+Fatorda,30,GEN,42,GEN,D. S. Naik (Dilip),Male,3,0.02%,Candidate Count,916216,TRUE,Upto 100,155,1%,0,41-45,6,Lost,6,1,23038,MAG,State,Maharashtrawadi Gomantak,S05,Goa,155,155,2017,0
+Cuncolim,34,GEN,44,GEN,Devendra Dessai,Male,3,0.03%,Candidate Count,916216,TRUE,Upto 100,313,1%,0,41-45,6,Lost,6,1,22440,SHS,State,Shivsena,S05,Goa,313,313,2017,0
+Quepem,36,GEN,32,GEN,Sudesh Gaude,Male,3,0.02%,Candidate Count,916216,TRUE,Upto 100,211,1%,0,31-35,6,Lost,6,1,26662,MAG,State,Maharashtrawadi Gomantak,S05,Goa,211,211,2017,0
+Curchorem,37,GEN,51,GEN,James Fernandes,Male,3,0.22%,Candidate Count,916216,TRUE,Upto 100,2028,9%,0,51-60,4,Lost,4,1,21668,AAAP,State,Aam Aadmi Party,S05,Goa,2028,2028,2017,0
+Mandrem,1,GEN,69,GEN,Shridhar Ladu Manjrekar,Male,4,0.07%,Candidate Count,916216,TRUE,Upto 100,678,2%,0,61-70,3,Lost,3,1,27966,MAG,State,Maharashtrawadi Gomantak,S05,Goa,678,678,2017,0
+Tivim,4,GEN,53,GEN,Pradeep Amonkar Ghadi,Male,4,0.08%,Candidate Count,916216,TRUE,Upto 100,703,3%,0,51-60,3,Lost,3,1,22560,AAAP,State,Aam Aadmi Party,S05,Goa,703,703,2017,0
+Mapusa,5,GEN,59,GEN,Vinod Fadke,Male,4,0.45%,Candidate Count,916216,TRUE,Upto 100,4129,18%,0,51-60,2,Lost,2,1,22764,MAG,State,Maharashtrawadi Gomantak,S05,Goa,4129,4129,2017,0
+Saligao,7,GEN,56,GEN,Dattatraya Vittal Padgaonkar,Male,4,0.15%,Candidate Count,916216,TRUE,Upto 100,1330,6%,0,51-60,4,Lost,4,1,21028,AAAP,State,Aam Aadmi Party,S05,Goa,1330,1330,2017,0
+St. Cruz,13,GEN,43,GEN,Prakash Gopi Naik,Male,4,0.30%,Candidate Count,916216,TRUE,Upto 100,2707,12%,0,41-45,4,Lost,4,1,22215,MAG,State,Maharashtrawadi Gomantak,S05,Goa,2707,2707,2017,0
+Maem,16,GEN,50,GEN,Ajeetsingh Vamanrao Rane,Male,4,0.06%,Candidate Count,916216,TRUE,Upto 100,525,2%,0,46-50,5,Lost,5,1,24108,AAAP,State,Aam Aadmi Party,S05,Goa,525,525,2017,0
+Sanquelim,17,GEN,41,GEN,Milind Gauns,Male,4,0.04%,Candidate Count,916216,TRUE,Upto 100,408,2%,0,41-45,5,Lost,5,1,23700,AAAP,State,Aam Aadmi Party,S05,Goa,408,408,2017,0
+Poriem,18,GEN,48,GEN,Sitaram Anant Gawas,Male,4,0.04%,Candidate Count,916216,TRUE,Upto 100,403,1%,0,46-50,5,Lost,5,1,27596,AAAP,State,Aam Aadmi Party,S05,Goa,403,403,2017,0
+Valpoi,19,GEN,36,GEN,Ashish V. Kanekar,Male,4,0.04%,Candidate Count,916216,TRUE,Upto 100,410,2%,0,36-40,4,Lost,4,1,25326,AAAP,State,Aam Aadmi Party,S05,Goa,410,410,2017,0
+Ponda,21,GEN,37,GEN,Mulla Mansur Muzawar,Male,4,0.06%,Candidate Count,916216,TRUE,Upto 100,522,2%,0,36-40,5,Lost,5,1,25095,AAAP,State,Aam Aadmi Party,S05,Goa,522,522,2017,0
+Siroda,22,GEN,42,GEN,Molu Anand Velip,Male,4,0.06%,Candidate Count,916216,TRUE,Upto 100,586,2%,0,41-45,4,Lost,4,1,24624,AAAP,State,Aam Aadmi Party,S05,Goa,586,586,2017,0
+Marcaim,23,GEN,32,GEN,Surel Datta Tilve,Male,4,0.11%,Candidate Count,916216,TRUE,Upto 100,971,4%,0,31-35,4,Lost,4,1,23356,AAAP,State,Aam Aadmi Party,S05,Goa,971,971,2017,0
+Mormugao,24,GEN,39,GEN,Sanjay Naik,Male,4,0.01%,Candidate Count,916216,TRUE,Upto 100,51,0%,0,36-40,5,Lost,5,1,17340,SHS,State,Shivsena,S05,Goa,51,51,2017,0
+Dabolim,26,GEN,40,GEN,Premanand Nanoskar,Male,4,0.52%,Candidate Count,916216,TRUE,Upto 100,4740,27%,0,36-40,2,Lost,2,1,17473,MAG,State,Maharashtrawadi Gomantak,S05,Goa,4740,4740,2017,0
+Nuvem,28,GEN,63,GEN,Mariano Godinho,Male,4,0.37%,Candidate Count,916216,TRUE,Upto 100,3389,16%,0,61-70,3,Lost,3,1,21447,AAAP,State,Aam Aadmi Party,S05,Goa,3389,3389,2017,0
+Curtorim,29,GEN,38,GEN,Edwin Domnic Vaz,Male,4,0.30%,Candidate Count,916216,TRUE,Upto 100,2711,13%,0,36-40,3,Lost,3,1,21303,AAAP,State,Aam Aadmi Party,S05,Goa,2711,2711,2017,0
+Fatorda,30,GEN,48,GEN,Ranjit Cotta Carvalho,Male,4,0.16%,Candidate Count,916216,TRUE,Upto 100,1479,6%,0,46-50,3,Lost,3,1,23038,AAAP,State,Aam Aadmi Party,S05,Goa,1479,1479,2017,0
+Margao,31,GEN,64,GEN,Santosh Raiturkar,Male,4,0.20%,Candidate Count,916216,TRUE,Upto 100,1832,8%,0,61-70,3,Lost,3,1,22353,AAAP,State,Aam Aadmi Party,S05,Goa,1832,1832,2017,0
+Navelim,33,GEN,48,GEN,Siddharth Karapurkar,Male,4,0.14%,Candidate Count,916216,TRUE,Upto 100,1287,6%,0,46-50,5,Lost,5,1,21351,AAAP,State,Aam Aadmi Party,S05,Goa,1287,1287,2017,0
+Cuncolim,34,GEN,54,GEN,Elvis Gomes,Male,4,0.38%,Candidate Count,916216,TRUE,Upto 100,3437,15%,0,51-60,4,Lost,4,1,22440,AAAP,State,Aam Aadmi Party,S05,Goa,3437,3437,2017,0
+Sanguem,39,GEN,55,GEN,Vasudev Gaonkar,Male,4,0.05%,Candidate Count,916216,TRUE,Upto 100,484,2%,0,51-60,6,Lost,6,1,22683,MAG,State,Maharashtrawadi Gomantak,S05,Goa,484,484,2017,0
+Canacona,40,GEN,40,GEN,Sandesh Telekar,Male,4,0.05%,Candidate Count,916216,TRUE,Upto 100,452,2%,0,36-40,4,Lost,4,1,28489,AAAP,State,Aam Aadmi Party,S05,Goa,452,452,2017,0
+Bicholim,3,GEN,33,GEN,Sainath Patekar,Male,5,0.04%,Candidate Count,916216,TRUE,Upto 100,358,2%,0,31-35,4,Lost,4,1,23306,AAAP,State,Aam Aadmi Party,S05,Goa,358,358,2017,0
+Panaji,11,GEN,40,GEN,Valmiki Naik,Male,5,0.21%,Candidate Count,916216,TRUE,Upto 100,1944,11%,0,36-40,3,Lost,3,1,17339,AAAP,State,Aam Aadmi Party,S05,Goa,1944,1944,2017,0
+Sanguem,39,GEN,28,GEN,Ravindra Arjun Velip,Male,5,0.07%,Candidate Count,916216,TRUE,Upto 100,658,3%,0,Upto 30,5,Lost,5,1,22683,AAAP,State,Aam Aadmi Party,S05,Goa,658,658,2017,0
+Mandrem,1,GEN,53,GEN,Devendra Krishnaji Prabhu Parsekar Desai,Male,6,0.07%,Candidate Count,916216,TRUE,Upto 100,620,2%,0,51-60,4,Lost,4,1,27966,AAAP,State,Aam Aadmi Party,S05,Goa,620,620,2017,0
+Siolim,6,GEN,34,GEN,Vishnu Mhaddu Naik,Male,6,0.20%,Candidate Count,916216,TRUE,Upto 100,1854,8%,0,31-35,3,Lost,3,1,23496,AAAP,State,Aam Aadmi Party,S05,Goa,1854,1854,2017,0
+Saligao,7,GEN,45,GEN,Rajesh Dabholkar,Male,6,0.05%,Candidate Count,916216,TRUE,Upto 100,428,2%,0,41-45,5,Lost,5,1,21028,SHS,State,Shivsena,S05,Goa,428,428,2017,0
+St. Cruz,13,GEN,47,GEN,Jose Vincent Gomes,Male,6,0.19%,Candidate Count,916216,TRUE,Upto 100,1712,8%,0,46-50,5,Lost,5,1,22215,AAAP,State,Aam Aadmi Party,S05,Goa,1712,1712,2017,0
+St. Andre,14,GEN,31,GEN,Rama Gurudas Kankonkar,Male,6,0.11%,Candidate Count,916216,TRUE,Upto 100,979,6%,0,31-35,5,Lost,5,1,16554,AAAP,State,Aam Aadmi Party,S05,Goa,979,979,2017,0
+Dabolim,26,GEN,47,GEN,Vasant (Gopi) Naik,Male,6,0.12%,Candidate Count,916216,TRUE,Upto 100,1117,6%,0,46-50,4,Lost,4,1,17473,AAAP,State,Aam Aadmi Party,S05,Goa,1117,1117,2017,0
+Cortalim,27,GEN,30,GEN,Olencio Simoes,Male,6,0.27%,Candidate Count,916216,TRUE,Upto 100,2482,11%,0,Upto 30,5,Lost,5,1,23486,AAAP,State,Aam Aadmi Party,S05,Goa,2482,2482,2017,0
+Velim,35,GEN,47,GEN,Cruz Silva,Male,6,0.37%,Candidate Count,916216,TRUE,Upto 100,3423,15%,0,46-50,3,Lost,3,1,23527,AAAP,State,Aam Aadmi Party,S05,Goa,3423,3423,2017,0
+Siolim,6,GEN,50,GEN,Janardan Narahari Tamhankar,Male,3,0.01%,Candidate Count,916216,TRUE,Upto 100,116,0%,0,46-50,8,Lost,8,1,23496,BMUP,Unrecognised,Bahujan Mukti Party,S05,Goa,116,116,2017,0
+Panaji,11,GEN,54,GEN,Atanasio J. Monserrate,Male,3,0.75%,Candidate Count,916216,TRUE,Upto 100,6855,40%,0,51-60,2,Lost,2,1,17339,UGP,Unrecognised,United Goans Party,S05,Goa,6855,6855,2017,0
+Nuvem,28,GEN,52,GEN,Francisco Xavier Pacheco,Male,3,0.47%,Candidate Count,916216,TRUE,Upto 100,4307,20%,0,51-60,2,Lost,2,1,21447,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,4307,4307,2017,0
+Benaulim,32,GEN,40,GEN,John Fernandes,Male,3,0.06%,Candidate Count,916216,TRUE,Upto 100,571,3%,0,36-40,5,Lost,5,1,21314,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,571,571,2017,0
+Navelim,33,GEN,60,GEN,Cruz Antonio Jorge Barretto,Male,3,0.09%,Candidate Count,916216,TRUE,Upto 100,839,4%,0,51-60,6,Lost,6,1,21351,GVP,Unrecognised,Goa Vikas Party,S05,Goa,839,839,2017,0
+Bicholim,3,GEN,70,GEN,Raut Pandurang Dattaram,Male,4,0.04%,Candidate Count,916216,TRUE,Upto 100,324,1%,0,61-70,5,Lost,5,1,23306,GoPrP,Unrecognised,Goa Praja Party,S05,Goa,324,324,2017,0
+Siolim,6,GEN,60,GEN,Paresh Raikar,Male,4,0.06%,Candidate Count,916216,TRUE,Upto 100,532,2%,0,51-60,5,Lost,5,1,23496,GSM,Unrecognised,Goa Suraksha Manch,S05,Goa,532,532,2017,0
+Porvorim,9,GEN,47,GEN,Raju D'Souza,Male,4,0.01%,Candidate Count,916216,TRUE,Upto 100,133,1%,0,46-50,7,Lost,7,1,19656,SaJPCs,Unrecognised,Samajwadi Janata Party (ChandraShekhar),S05,Goa,133,133,2017,0
+Panaji,11,GEN,32,GEN,Ketan Kirtikumar Prabhu Bhatikar,Male,4,0.04%,Candidate Count,916216,TRUE,Upto 100,323,2%,0,31-35,4,Lost,4,1,17339,GSM,Unrecognised,Goa Suraksha Manch,S05,Goa,323,323,2017,0
+Cortalim,27,GEN,42,GEN,Gilroy Costa,Male,4,0.01%,Candidate Count,916216,TRUE,Upto 100,56,0%,0,41-45,11,Lost,11,1,23486,GoPrP,Unrecognised,Goa Praja Party,S05,Goa,56,56,2017,0
+Velim,35,GEN,53,GEN,Anthony Rodrigues,Male,4,0.16%,Candidate Count,916216,TRUE,Upto 100,1460,6%,0,51-60,5,Lost,5,1,23527,GFP,Unrecognised,Goa Forward Party,S05,Goa,1460,1460,2017,0
+Quepem,36,GEN,47,GEN,Charles D'Silva,Male,4,0.03%,Candidate Count,916216,TRUE,Upto 100,251,1%,0,46-50,5,Lost,5,1,26662,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,251,251,2017,0
+Curchorem,37,GEN,50,GEN,Shyam Gopinath Satardekar,Male,4,0.41%,Candidate Count,916216,TRUE,Upto 100,3742,17%,0,46-50,2,Lost,2,1,21668,GSM,Unrecognised,Goa Suraksha Manch,S05,Goa,3742,3742,2017,0
+Mandrem,1,GEN,50,GEN,Bhim Raghuvir Pednekar,Male,5,0.01%,Candidate Count,916216,TRUE,Upto 100,57,0%,0,46-50,8,Lost,8,1,27966,BMUP,Unrecognised,Bahujan Mukti Party,S05,Goa,57,57,2017,0
+Siolim,6,GEN,54,GEN,Vinoda Datarama Paliencar,Male,5,1.11%,Candidate Count,916216,TRUE,1001-2000,10189,43%,1,51-60,1,Won,1,1,23496,GFP,Unrecognised,Goa Forward Party,S05,Goa,10189,8748,2017,"1,441"
+Saligao,7,GEN,42,GEN,Jayesh Vidyadhar Salgaonkar,Male,5,1.06%,Candidate Count,916216,TRUE,2001-5000,9735,46%,1,41-45,1,Won,1,1,21028,GFP,Unrecognised,Goa Forward Party,S05,Goa,9735,7598,2017,"2,137"
+St. Andre,14,GEN,54,GEN,Leocardio A. D. Monteiro,Male,5,0.01%,Candidate Count,916216,TRUE,Upto 100,47,0%,0,51-60,10,Lost,10,1,16554,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,47,47,2017,0
+Maem,16,GEN,50,GEN,Atmaram Vaman Gaonker,Male,5,0.25%,Candidate Count,916216,TRUE,Upto 100,2317,10%,0,46-50,3,Lost,3,1,24108,GSM,Unrecognised,Goa Suraksha Manch,S05,Goa,2317,2317,2017,0
+Sanquelim,17,GEN,46,GEN,Moulali Shaikh,Male,5,0.01%,Candidate Count,916216,TRUE,Upto 100,72,0%,0,46-50,8,Lost,8,1,23700,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,72,72,2017,0
+Vasco-da-gama,25,GEN,49,GEN,Chandrashekher Vast,Male,5,0.01%,Candidate Count,916216,TRUE,Upto 100,59,0%,0,46-50,9,Lost,9,1,26099,NGRF,Unrecognised,Niz Goenkar Revolution Front,S05,Goa,59,59,2017,0
+Dabolim,26,GEN,35,GEN,Suresh Barve,Male,5,0.01%,Candidate Count,916216,TRUE,Upto 100,56,0%,0,31-35,10,Lost,10,1,17473,NGRF,Unrecognised,Niz Goenkar Revolution Front,S05,Goa,56,56,2017,0
+Fatorda,30,GEN,46,GEN,Vijai Sardesai,Male,5,1.15%,Candidate Count,916216,TRUE,1001-2000,10516,46%,1,46-50,1,Won,1,1,23038,GFP,Unrecognised,Goa Forward Party,S05,Goa,10516,9182,2017,"1,334"
+Cuncolim,34,GEN,38,GEN,John Inacio Monteiro,Male,5,0.05%,Candidate Count,916216,TRUE,Upto 100,488,2%,0,36-40,5,Lost,5,1,22440,GVP,Unrecognised,Goa Vikas Party,S05,Goa,488,488,2017,0
+Velim,35,GEN,35,GEN,Cliffton D'Souza,Male,5,0.00%,Candidate Count,916216,TRUE,Upto 100,44,0%,0,31-35,13,Lost,13,1,23527,APoI,Unrecognised,Ambedkarite Party of India,S05,Goa,44,44,2017,0
+Sanquelim,17,GEN,65,GEN,Suresh Amonkar,Male,6,0.42%,Candidate Count,916216,TRUE,Upto 100,3831,16%,0,61-70,3,Lost,3,1,23700,GSM,Unrecognised,Goa Suraksha Manch,S05,Goa,3831,3831,2017,0
+Cortalim,27,GEN,54,GEN,Ramakant Borkar,Male,7,0.19%,Candidate Count,916216,TRUE,Upto 100,1708,7%,0,51-60,6,Lost,6,1,23486,UGP,Unrecognised,United Goans Party,S05,Goa,1708,1708,2017,0
+Velim,35,GEN,45,GEN,Domnic John Noronha,Male,7,0.02%,Candidate Count,916216,TRUE,Upto 100,138,1%,0,41-45,9,Lost,9,1,23527,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,138,138,2017,0
+Cortalim,27,GEN,40,GEN,Sharan Meti,Male,8,0.03%,Candidate Count,916216,TRUE,Upto 100,258,1%,0,36-40,7,Lost,7,1,23486,GSRP,Unrecognised,Goa Su-Raj Party,S05,Goa,258,258,2017,0
+Taleigao,12,GEN,37,GEN,Vijay V. More,Male,4,0.01%,Candidate Count,916216,TRUE,Upto 100,115,1%,0,36-40,5,Lost,5,1,22556,IND,Independent,Independent,S05,Goa,115,115,2017,0
+Cumbarjua,15,GEN,45,GEN,Prasad Harmalkar,Male,4,0.05%,Candidate Count,916216,TRUE,Upto 100,468,2%,0,41-45,5,Lost,5,1,20556,IND,Independent,Independent,S05,Goa,468,468,2017,0
+Priol,20,GEN,45,GEN,Govind Gaude,Male,4,1.65%,Candidate Count,916216,TRUE,2001-5000,15149,56%,1,41-45,1,Won,1,1,26945,IND,Independent,Independent,S05,Goa,15149,10463,2017,"4,686"
+Sanvordem,38,GEN,52,GEN,Balkrishna Marathe,Male,4,0.02%,Candidate Count,916216,TRUE,Upto 100,152,1%,0,51-60,5,Lost,5,1,25377,IND,Independent,Independent,S05,Goa,152,152,2017,0
+Porvorim,9,GEN,42,GEN,Rohan Khaunte,Male,5,1.22%,Candidate Count,916216,TRUE,2001-5000,11174,57%,1,41-45,1,Won,1,1,19656,IND,Independent,Independent,S05,Goa,11174,6961,2017,"4,213"
+Cumbarjua,15,GEN,43,GEN,Vishal Shambu Volvoikar,Male,5,0.11%,Candidate Count,916216,TRUE,Upto 100,990,5%,0,41-45,4,Lost,4,1,20556,IND,Independent,Independent,S05,Goa,990,990,2017,0
+Poriem,18,GEN,42,GEN,Ajit Sadanand Mhalshekar,Male,5,0.03%,Candidate Count,916216,TRUE,Upto 100,284,1%,0,41-45,6,Lost,6,1,27596,IND,Independent,Independent,S05,Goa,284,284,2017,0
+Ponda,21,GEN,42,GEN,Rajesh Verekar,Male,5,0.49%,Candidate Count,916216,TRUE,Upto 100,4529,18%,0,41-45,3,Lost,3,1,25095,IND,Independent,Independent,S05,Goa,4529,4529,2017,0
+Marcaim,23,GEN,49,GEN,Hanumant Vasant Naik,Male,5,0.03%,Candidate Count,916216,TRUE,Upto 100,244,1%,0,46-50,6,Lost,6,1,23356,IND,Independent,Independent,S05,Goa,244,244,2017,0
+Nuvem,28,GEN,58,GEN,Dinesh Bandodkar,Male,5,0.07%,Candidate Count,916216,TRUE,Upto 100,664,3%,0,51-60,5,Lost,5,1,21447,IND,Independent,Independent,S05,Goa,664,664,2017,0
+Curtorim,29,GEN,56,GEN,Jose Paulo Fernandes,Male,5,0.01%,Candidate Count,916216,TRUE,Upto 100,118,1%,0,51-60,6,Lost,6,1,21303,IND,Independent,Independent,S05,Goa,118,118,2017,0
+Navelim,33,GEN,50,GEN,Avertano Furtado,Male,5,0.62%,Candidate Count,916216,TRUE,Upto 100,5705,27%,0,46-50,2,Lost,2,1,21351,IND,Independent,Independent,S05,Goa,5705,5705,2017,0
+Porvorim,9,GEN,51,GEN,Wilbur Fredrick Ticlo,Male,6,0.02%,Candidate Count,916216,TRUE,2001-5000,144,1%,0,51-60,6,Lost,6,1,19656,IND,Independent,Independent,S05,Goa,144,144,2017,"4,213"
+Aldona,10,GEN,58,GEN,Anandrao Narayanrao Nagvenkar,Male,6,0.07%,Candidate Count,916216,TRUE,Upto 100,643,3%,0,51-60,5,Lost,5,1,21606,IND,Independent,Independent,S05,Goa,643,643,2017,0
+Panaji,11,GEN,53,GEN,Dilip Ghadi,Male,6,0.00%,Candidate Count,916216,TRUE,Upto 100,36,0%,0,51-60,7,Lost,7,1,17339,IND,Independent,Independent,S05,Goa,36,36,2017,0
+Maem,16,GEN,57,GEN,Ashok Anant Gaonkar,Male,6,0.02%,Candidate Count,916216,TRUE,Upto 100,142,1%,0,51-60,9,Lost,9,1,24108,IND,Independent,Independent,S05,Goa,142,142,2017,0
+Siroda,22,GEN,35,GEN,Nilesh Govind Gaonkar,Male,6,0.05%,Candidate Count,916216,TRUE,Upto 100,447,2%,0,31-35,5,Lost,5,1,24624,IND,Independent,Independent,S05,Goa,447,447,2017,0
+Mormugao,24,GEN,35,GEN,Parashuram Umaji Sonurlekar,Male,6,0.01%,Candidate Count,916216,TRUE,Upto 100,48,0%,0,31-35,6,Lost,6,1,17340,IND,Independent,Independent,S05,Goa,48,48,2017,0
+Fatorda,30,GEN,41,GEN,Avin Vishwanath Naik,Male,6,0.01%,Candidate Count,916216,TRUE,Upto 100,72,0%,0,41-45,7,Lost,7,1,23038,IND,Independent,Independent,S05,Goa,72,72,2017,0
+Benaulim,32,GEN,57,GEN,Caetano Rosario Silva,Male,6,0.44%,Candidate Count,916216,TRUE,Upto 100,3995,19%,0,51-60,3,Lost,3,1,21314,IND,Independent,Independent,S05,Goa,3995,3995,2017,0
+Navelim,33,GEN,50,GEN,Duarte Pires,Male,6,0.03%,Candidate Count,916216,TRUE,Upto 100,263,1%,0,46-50,7,Lost,7,1,21351,IND,Independent,Independent,S05,Goa,263,263,2017,0
+Cuncolim,34,GEN,49,GEN,Derick Dias,Male,6,0.01%,Candidate Count,916216,TRUE,Upto 100,111,0%,0,46-50,8,Lost,8,1,22440,IND,Independent,Independent,S05,Goa,111,111,2017,0
+Sanguem,39,GEN,40,GEN,Dattaprasad Sawardekar,Male,6,0.11%,Candidate Count,916216,TRUE,101-1000,989,4%,0,36-40,4,Lost,4,1,22683,IND,Independent,Independent,S05,Goa,989,989,2017,937
+Mandrem,1,GEN,70,GEN,Sanjay Krishnarao Prabhu Desai,Male,7,0.01%,Candidate Count,916216,TRUE,Upto 100,101,0%,0,61-70,7,Lost,7,1,27966,IND,Independent,Independent,S05,Goa,101,101,2017,0
+Mapusa,5,GEN,62,GEN,Domnic Alphonso,Male,7,0.17%,Candidate Count,916216,TRUE,Upto 100,1543,7%,0,61-70,5,Lost,5,1,22764,IND,Independent,Independent,S05,Goa,1543,1543,2017,0
+Siolim,6,GEN,36,GEN,Mukesh Sawant,Male,7,0.01%,Candidate Count,916216,TRUE,Upto 100,73,0%,0,36-40,9,Lost,9,1,23496,IND,Independent,Independent,S05,Goa,73,73,2017,0
+Panaji,11,GEN,38,GEN,Parshuram Dodamani,Male,7,0.00%,Candidate Count,916216,TRUE,Upto 100,20,0%,0,36-40,8,Lost,8,1,17339,IND,Independent,Independent,S05,Goa,20,20,2017,0
+St. Andre,14,GEN,30,GEN,Ashwin Menino Rosario,Male,7,0.00%,Candidate Count,916216,TRUE,Upto 100,29,0%,0,Upto 30,11,Lost,11,1,16554,IND,Independent,Independent,S05,Goa,29,29,2017,0
+Maem,16,GEN,34,GEN,Deepkumar D Mapari,Male,7,0.02%,Candidate Count,916216,TRUE,Upto 100,159,1%,0,31-35,8,Lost,8,1,24108,IND,Independent,Independent,S05,Goa,159,159,2017,0
+Sanquelim,17,GEN,43,GEN,Mahesh Shantaram Parab,Male,7,0.02%,Candidate Count,916216,TRUE,Upto 100,218,1%,0,41-45,7,Lost,7,1,23700,IND,Independent,Independent,S05,Goa,218,218,2017,0
+Vasco-da-gama,25,GEN,68,GEN,Gandhi Henriques,Male,7,0.01%,Candidate Count,916216,TRUE,Upto 100,77,0%,0,61-70,8,Lost,8,1,26099,IND,Independent,Independent,S05,Goa,77,77,2017,0
+Dabolim,26,GEN,34,GEN,Kenneth Ian Stewart Silveira,Male,7,0.01%,Candidate Count,916216,TRUE,Upto 100,130,1%,0,31-35,7,Lost,7,1,17473,IND,Independent,Independent,S05,Goa,130,130,2017,0
+Navelim,33,GEN,48,GEN,Edwin Cardozo (Cipru),Male,7,0.33%,Candidate Count,916216,TRUE,Upto 100,3027,14%,0,46-50,3,Lost,3,1,21351,IND,Independent,Independent,S05,Goa,3027,3027,2017,0
+Cuncolim,34,GEN,60,GEN,Joaquim Alemao,Male,7,0.70%,Candidate Count,916216,TRUE,Upto 100,6382,28%,0,51-60,2,Lost,2,1,22440,IND,Independent,Independent,S05,Goa,6382,6382,2017,0
+Siolim,6,GEN,45,GEN,Patrick Savio Almeida,Male,8,0.16%,Candidate Count,916216,TRUE,Upto 100,1497,6%,0,41-45,4,Lost,4,1,23496,IND,Independent,Independent,S05,Goa,1497,1497,2017,0
+St. Cruz,13,GEN,43,GEN,Jose Lopes,Male,8,0.01%,Candidate Count,916216,TRUE,Upto 100,61,0%,0,41-45,10,Lost,10,1,22215,IND,Independent,Independent,S05,Goa,61,61,2017,0
+St. Andre,14,GEN,45,GEN,Dhaku Arjun Madkaikar,Male,8,0.14%,Candidate Count,916216,TRUE,Upto 100,1285,8%,0,41-45,4,Lost,4,1,16554,IND,Independent,Independent,S05,Goa,1285,1285,2017,0
+Maem,16,GEN,46,GEN,Prabhakar Laximan Gaonkar,Male,8,0.02%,Candidate Count,916216,TRUE,Upto 100,174,1%,0,46-50,7,Lost,7,1,24108,IND,Independent,Independent,S05,Goa,174,174,2017,0
+Vasco-da-gama,25,GEN,46,GEN,Krishna (Daji) V Salkar,Male,8,0.81%,Candidate Count,916216,TRUE,Upto 100,7414,28%,0,46-50,2,Lost,2,1,26099,IND,Independent,Independent,S05,Goa,7414,7414,2017,0
+Dabolim,26,GEN,30,GEN,Preetam Keluskar,Male,8,0.01%,Candidate Count,916216,TRUE,Upto 100,109,1%,0,Upto 30,9,Lost,9,1,17473,IND,Independent,Independent,S05,Goa,109,109,2017,0
+Velim,35,GEN,50,GEN,Benjamin Silva,Male,8,0.56%,Candidate Count,916216,TRUE,Upto 100,5164,22%,0,46-50,2,Lost,2,1,23527,IND,Independent,Independent,S05,Goa,5164,5164,2017,0
+St. Cruz,13,GEN,55,GEN,Rodolfo Louis Fernandes,Male,9,0.57%,Candidate Count,916216,TRUE,Upto 100,5262,24%,0,51-60,3,Lost,3,1,22215,IND,Independent,Independent,S05,Goa,5262,5262,2017,0
+St. Andre,14,GEN,65,GEN,Simao Aleixo Caiado,Male,9,0.02%,Candidate Count,916216,TRUE,Upto 100,143,1%,0,61-70,8,Lost,8,1,16554,IND,Independent,Independent,S05,Goa,143,143,2017,0
+Cortalim,27,GEN,52,GEN,Antonio Vas,Male,9,0.56%,Candidate Count,916216,TRUE,Upto 100,5148,22%,0,51-60,2,Lost,2,1,23486,IND,Independent,Independent,S05,Goa,5148,5148,2017,0
+Velim,35,GEN,49,GEN,Constancio Fernandes,Male,9,0.01%,Candidate Count,916216,TRUE,Upto 100,79,0%,0,46-50,12,Lost,12,1,23527,IND,Independent,Independent,S05,Goa,79,79,2017,0
+St. Andre,14,GEN,30,GEN,Sunil Savlo Kerkar,Male,10,0.01%,Candidate Count,916216,TRUE,Upto 100,97,1%,0,Upto 30,9,Lost,9,1,16554,IND,Independent,Independent,S05,Goa,97,97,2017,0
+Cortalim,27,GEN,41,GEN,Miguel Antonio Rodrigues,Male,10,0.02%,Candidate Count,916216,TRUE,Upto 100,177,1%,0,41-45,9,Lost,9,1,23486,IND,Independent,Independent,S05,Goa,177,177,2017,0
+Velim,35,GEN,42,GEN,Edrich Correia,Male,10,0.04%,Candidate Count,916216,TRUE,Upto 100,335,1%,0,41-45,6,Lost,6,1,23527,IND,Independent,Independent,S05,Goa,335,335,2017,0
+Velim,35,GEN,40,GEN,Jose Fernandes,Male,11,0.03%,Candidate Count,916216,TRUE,Upto 100,236,1%,0,36-40,8,Lost,8,1,23527,IND,Independent,Independent,S05,Goa,236,236,2017,0
+Velim,35,GEN,70,GEN,Wilson Mazarello,Male,12,0.01%,Candidate Count,916216,TRUE,Upto 100,98,0%,0,61-70,11,Lost,11,1,23527,IND,Independent,Independent,S05,Goa,98,98,2017,0
+Calangute,8,GEN,,NULL,None Of The Above,NOTA,4,0.02%,Candidate Count,916216,TRUE,Upto 100,172,1%,0,>70,4,Lost,4,1,20084,NOTA,NOTA,None of the Above,S05,Goa,172,172,2017,0
+Tivim,4,GEN,,NULL,None Of The Above,NOTA,5,0.02%,Candidate Count,916216,TRUE,Upto 100,179,1%,0,>70,5,Lost,5,1,22560,NOTA,NOTA,None of the Above,S05,Goa,179,179,2017,0
+Taleigao,12,GEN,,NULL,None Of The Above,NOTA,5,0.03%,Candidate Count,916216,TRUE,Upto 100,252,1%,0,>70,4,Lost,4,1,22556,NOTA,NOTA,None of the Above,S05,Goa,252,252,2017,0
+Valpoi,19,GEN,,NULL,None Of The Above,NOTA,5,0.04%,Candidate Count,916216,TRUE,Upto 100,362,1%,0,>70,5,Lost,5,1,25326,NOTA,NOTA,None of the Above,S05,Goa,362,362,2017,0
+Priol,20,GEN,,NULL,None Of The Above,NOTA,5,0.05%,Candidate Count,916216,TRUE,Upto 100,448,2%,0,>70,4,Lost,4,1,26945,NOTA,NOTA,None of the Above,S05,Goa,448,448,2017,0
+Margao,31,GEN,,NULL,None Of The Above,NOTA,5,0.03%,Candidate Count,916216,TRUE,Upto 100,271,1%,0,>70,4,Lost,4,1,22353,NOTA,NOTA,None of the Above,S05,Goa,271,271,2017,0
+Curchorem,37,GEN,,NULL,None Of The Above,NOTA,5,0.03%,Candidate Count,916216,TRUE,Upto 100,290,1%,0,>70,5,Lost,5,1,21668,NOTA,NOTA,None of the Above,S05,Goa,290,290,2017,0
+Sanvordem,38,GEN,,NULL,None Of The Above,NOTA,5,0.03%,Candidate Count,916216,TRUE,Upto 100,305,1%,0,>70,4,Lost,4,1,25377,NOTA,NOTA,None of the Above,S05,Goa,305,305,2017,0
+Bicholim,3,GEN,,NULL,None Of The Above,NOTA,6,0.02%,Candidate Count,916216,TRUE,Upto 100,221,1%,0,>70,6,Lost,6,1,23306,NOTA,NOTA,None of the Above,S05,Goa,221,221,2017,0
+Cumbarjua,15,GEN,,NULL,None Of The Above,NOTA,6,0.04%,Candidate Count,916216,TRUE,Upto 100,348,2%,0,>70,6,Lost,6,1,20556,NOTA,NOTA,None of the Above,S05,Goa,348,348,2017,0
+Poriem,18,GEN,,NULL,None Of The Above,NOTA,6,0.06%,Candidate Count,916216,TRUE,Upto 100,552,2%,0,>70,3,Lost,3,1,27596,NOTA,NOTA,None of the Above,S05,Goa,552,552,2017,0
+Ponda,21,GEN,,NULL,None Of The Above,NOTA,6,0.03%,Candidate Count,916216,TRUE,Upto 100,254,1%,0,>70,6,Lost,6,1,25095,NOTA,NOTA,None of the Above,S05,Goa,254,254,2017,0
+Marcaim,23,GEN,,NULL,None Of The Above,NOTA,6,0.04%,Candidate Count,916216,TRUE,Upto 100,376,2%,0,>70,5,Lost,5,1,23356,NOTA,NOTA,None of the Above,S05,Goa,376,376,2017,0
+Nuvem,28,GEN,,NULL,None Of The Above,NOTA,6,0.03%,Candidate Count,916216,TRUE,Upto 100,240,1%,0,>70,6,Lost,6,1,21447,NOTA,NOTA,None of the Above,S05,Goa,240,240,2017,0
+Curtorim,29,GEN,,NULL,None Of The Above,NOTA,6,0.03%,Candidate Count,916216,TRUE,Upto 100,249,1%,0,>70,4,Lost,4,1,21303,NOTA,NOTA,None of the Above,S05,Goa,249,249,2017,0
+Quepem,36,GEN,,NULL,None Of The Above,NOTA,6,0.04%,Candidate Count,916216,TRUE,Upto 100,357,1%,0,>70,4,Lost,4,1,26662,NOTA,NOTA,None of the Above,S05,Goa,357,357,2017,0
+Canacona,40,GEN,,NULL,None Of The Above,NOTA,6,0.03%,Candidate Count,916216,TRUE,Upto 100,302,1%,0,>70,6,Lost,6,1,28489,NOTA,NOTA,None of the Above,S05,Goa,302,302,2017,0
+Saligao,7,GEN,,NULL,None Of The Above,NOTA,7,0.02%,Candidate Count,916216,TRUE,Upto 100,171,1%,0,>70,6,Lost,6,1,21028,NOTA,NOTA,None of the Above,S05,Goa,171,171,2017,0
+Porvorim,9,GEN,,NULL,None Of The Above,NOTA,7,0.02%,Candidate Count,916216,TRUE,Upto 100,176,1%,0,>70,5,Lost,5,1,19656,NOTA,NOTA,None of the Above,S05,Goa,176,176,2017,0
+Aldona,10,GEN,,NULL,None Of The Above,NOTA,7,0.02%,Candidate Count,916216,TRUE,Upto 100,196,1%,0,>70,6,Lost,6,1,21606,NOTA,NOTA,None of the Above,S05,Goa,196,196,2017,0
+Siroda,22,GEN,,NULL,None Of The Above,NOTA,7,0.02%,Candidate Count,916216,TRUE,Upto 100,194,1%,0,>70,6,Lost,6,1,24624,NOTA,NOTA,None of the Above,S05,Goa,194,194,2017,0
+Mormugao,24,GEN,,NULL,None Of The Above,NOTA,7,0.02%,Candidate Count,916216,TRUE,Upto 100,151,1%,0,>70,4,Lost,4,1,17340,NOTA,NOTA,None of the Above,S05,Goa,151,151,2017,0
+Fatorda,30,GEN,,NULL,None Of The Above,NOTA,7,0.02%,Candidate Count,916216,TRUE,Upto 100,220,1%,0,>70,5,Lost,5,1,23038,NOTA,NOTA,None of the Above,S05,Goa,220,220,2017,0
+Mandrem,1,GEN,,NULL,None Of The Above,NOTA,8,0.05%,Candidate Count,916216,TRUE,Upto 100,415,1%,0,>70,5,Lost,5,1,27966,NOTA,NOTA,None of the Above,S05,Goa,415,415,2017,0
+Mapusa,5,GEN,,NULL,None Of The Above,NOTA,8,0.04%,Candidate Count,916216,TRUE,Upto 100,409,2%,0,>70,6,Lost,6,1,22764,NOTA,NOTA,None of the Above,S05,Goa,409,409,2017,0
+Panaji,11,GEN,,NULL,None Of The Above,NOTA,8,0.02%,Candidate Count,916216,TRUE,Upto 100,175,1%,0,>70,5,Lost,5,1,17339,NOTA,NOTA,None of the Above,S05,Goa,175,175,2017,0
+Sanquelim,17,GEN,,NULL,None Of The Above,NOTA,8,0.04%,Candidate Count,916216,TRUE,Upto 100,329,1%,0,>70,6,Lost,6,1,23700,NOTA,NOTA,None of the Above,S05,Goa,329,329,2017,0
+Benaulim,32,GEN,,NULL,None Of The Above,NOTA,8,0.02%,Candidate Count,916216,TRUE,Upto 100,187,1%,0,>70,8,Lost,8,1,21314,NOTA,NOTA,None of the Above,S05,Goa,187,187,2017,0
+Navelim,33,GEN,,NULL,None Of The Above,NOTA,8,0.03%,Candidate Count,916216,TRUE,Upto 100,249,1%,0,>70,8,Lost,8,1,21351,NOTA,NOTA,None of the Above,S05,Goa,249,249,2017,0
+Cuncolim,34,GEN,,NULL,None Of The Above,NOTA,8,0.03%,Candidate Count,916216,TRUE,Upto 100,247,1%,0,>70,7,Lost,7,1,22440,NOTA,NOTA,None of the Above,S05,Goa,247,247,2017,0
+Siolim,6,GEN,,NULL,None Of The Above,NOTA,9,0.02%,Candidate Count,916216,TRUE,Upto 100,212,1%,0,>70,7,Lost,7,1,23496,NOTA,NOTA,None of the Above,S05,Goa,212,212,2017,0
+Maem,16,GEN,,NULL,None Of The Above,NOTA,9,0.04%,Candidate Count,916216,TRUE,Upto 100,377,2%,0,>70,6,Lost,6,1,24108,NOTA,NOTA,None of the Above,S05,Goa,377,377,2017,0
+Vasco-da-gama,25,GEN,,NULL,None Of The Above,NOTA,9,0.03%,Candidate Count,916216,TRUE,Upto 100,263,1%,0,>70,7,Lost,7,1,26099,NOTA,NOTA,None of the Above,S05,Goa,263,263,2017,0
+Sanguem,39,GEN,,NULL,None Of The Above,NOTA,9,0.02%,Candidate Count,916216,TRUE,Upto 100,208,1%,0,>70,7,Lost,7,1,22683,NOTA,NOTA,None of the Above,S05,Goa,208,208,2017,0
+St. Cruz,13,GEN,,NULL,None Of The Above,NOTA,10,0.03%,Candidate Count,916216,TRUE,Upto 100,303,1%,0,>70,6,Lost,6,1,22215,NOTA,NOTA,None of the Above,S05,Goa,303,303,2017,0
+Dabolim,26,GEN,,NULL,None Of The Above,NOTA,10,0.02%,Candidate Count,916216,TRUE,Upto 100,168,1%,0,>70,6,Lost,6,1,17473,NOTA,NOTA,None of the Above,S05,Goa,168,168,2017,0
+St. Andre,14,GEN,,NULL,None Of The Above,NOTA,11,0.02%,Candidate Count,916216,TRUE,Upto 100,152,1%,0,>70,7,Lost,7,1,16554,NOTA,NOTA,None of the Above,S05,Goa,152,152,2017,0
+Cortalim,27,GEN,,NULL,None Of The Above,NOTA,11,0.02%,Candidate Count,916216,TRUE,Upto 100,210,1%,0,>70,8,Lost,8,1,23486,NOTA,NOTA,None of the Above,S05,Goa,210,210,2017,0
+Velim,35,GEN,,NULL,None Of The Above,NOTA,13,0.03%,Candidate Count,916216,TRUE,Upto 100,260,1%,0,>70,7,Lost,7,1,23527,NOTA,NOTA,None of the Above,S05,Goa,260,260,2017,0
+Cumbarjua,15,GEN,53,ST,Pandurang Madkaikar,Male,1,1.35%,Candidate Count,916216,TRUE,5001-10000,12395,60%,1,51-60,1,Won,1,1,20556,BJP,National,Bharatiya Janata Party,S05,Goa,12395,3961,2017,"8,434"
+Priol,20,GEN,42,ST,Ramkrishna B. Jalmi,Male,2,0.05%,Candidate Count,916216,TRUE,Upto 100,429,2%,0,41-45,5,Lost,5,1,26945,INC,National,Indian National Congress,S05,Goa,429,429,2017,0
+Sanvordem,38,GEN,58,ST,Ganesh Chandru Gaonkar,Male,2,1.02%,Candidate Count,916216,TRUE,Upto 100,9354,37%,0,51-60,2,Lost,2,1,25377,BJP,National,Bharatiya Janata Party,S05,Goa,9354,9354,2017,0
+Quepem,36,GEN,46,ST,Joao Fernandes,Male,5,0.15%,Candidate Count,916216,TRUE,Upto 100,1385,5%,0,46-50,3,Lost,3,1,26662,AAAP,State,Aam Aadmi Party,S05,Goa,1385,1385,2017,0
+Canacona,40,GEN,48,ST,Ramesh Tawadkar,Male,5,0.84%,Candidate Count,916216,TRUE,Upto 100,7739,27%,0,46-50,3,Lost,3,1,28489,IND,Independent,Independent,S05,Goa,7739,7739,2017,0
+Sanguem,39,GEN,40,ST,Prasad S. Gaonkar,Male,7,0.83%,Candidate Count,916216,TRUE,101-1000,7636,34%,1,36-40,1,Won,1,1,22683,IND,Independent,Independent,S05,Goa,7636,6699,2017,937
+Sanguem,39,GEN,39,ST,Sudesh Noni Gaunkar,Male,8,0.02%,Candidate Count,916216,TRUE,101-1000,148,1%,0,36-40,8,Lost,8,1,22683,IND,Independent,Independent,S05,Goa,148,148,2017,937
+Pernem,2,SC,,NULL,None Of The Above,NOTA,9,0.05%,Candidate Count,916216,TRUE,Upto 100,469,2%,0,>70,4,Lost,4,1,27730,NOTA,NOTA,None of the Above,S05,Goa,469,469,2017,0
+Pernem,2,SC,62,SC,Rajendra Arlekar,Male,2,1.06%,Candidate Count,916216,TRUE,Upto 100,9715,35%,0,61-70,2,Lost,2,1,27730,BJP,National,Bharatiya Janata Party,S05,Goa,9715,9715,2017,0
+Pernem,2,SC,45,SC,Santosh Shankar Mandrekar,Male,3,0.01%,Candidate Count,916216,TRUE,Upto 100,124,0%,0,41-45,7,Lost,7,1,27730,NCP,National,Nationalist Congress Party,S05,Goa,124,124,2017,0
+Pernem,2,SC,43,SC,Vikesh Ramesh Assotikar,Male,4,0.11%,Candidate Count,916216,TRUE,Upto 100,1013,4%,0,41-45,3,Lost,3,1,27730,INC,National,Indian National Congress,S05,Goa,1013,1013,2017,0
+Pernem,2,SC,63,SC,Ajgaonkar Manohar Trimbak,Male,1,1.72%,Candidate Count,916216,TRUE,5001-10000,15745,57%,1,61-70,1,Won,1,1,27730,MAG,State,Maharashtrawadi Gomantak,S05,Goa,15745,9715,2017,"6,030"
+Pernem,2,SC,40,SC,Shivanand Krishna Pilarnkar,Male,8,0.03%,Candidate Count,916216,TRUE,Upto 100,308,1%,0,36-40,5,Lost,5,1,27730,AAAP,State,Aam Aadmi Party,S05,Goa,308,308,2017,0
+Pernem,2,SC,40,SC,Dnyaneswar Sitaram Varkhankar,Male,5,0.01%,Candidate Count,916216,TRUE,Upto 100,71,0%,0,36-40,9,Lost,9,1,27730,GoPrP,Unrecognised,Goa Praja Party,S05,Goa,71,71,2017,0
+Pernem,2,SC,48,SC,Gopaldas Anant Arlekar,Male,6,0.02%,Candidate Count,916216,TRUE,Upto 100,180,1%,0,46-50,6,Lost,6,1,27730,GVP,Unrecognised,Goa Vikas Party,S05,Goa,180,180,2017,0
+Pernem,2,SC,37,SC,Nitin Mohan Chopdekar,Male,7,0.01%,Candidate Count,916216,TRUE,Upto 100,105,0%,0,36-40,8,Lost,8,1,27730,BMUP,Unrecognised,Bahujan Mukti Party,S05,Goa,105,105,2017,0
